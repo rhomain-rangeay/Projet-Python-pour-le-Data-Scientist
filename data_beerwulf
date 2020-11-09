@@ -1,0 +1,980 @@
+,beer_name,beer_style,country,brewery_name,bottle,abv,ibu,intensite,longueur,acidite,amertume,umami,price,note
+Brugse Zot blonde,Brugse Zot blonde,Bière Blonde,Belgique,Brouwerij De Halve Maan,33.0,6.0,23.0,60,40,20,40,0,2.69,3.71
+Brouwerij 't IJ Natte Dubbel,Brouwerij 't IJ Natte Dubbel,Bière Double,Pays-Bas,Brouwerij 't IJ,33.0,6.5,,60,60,0,40,0,2.65,3.44
+Bruut Gajes Tripel,Bruut Gajes Tripel,Bière Triple,Pays-Bas,Bruut Bier,33.0,8.0,38.0,60,60,40,60,0,2.99,3.76
+Baxbier Koud Vuur,Baxbier Koud Vuur,Bière Brune,Pays-Bas,Bax Bier Brouwerij,33.0,6.2,38.0,80,40,20,60,0,3.09,3.37
+Bacchus Framboos,Bacchus Framboos,Bière Fruitée,Belgique,Brouwerij Van Honsebrouck,38.0,5.0,,80,60,60,20,0,3.49,3.6
+Boon Kriek,Boon Kriek,Bière Fruitée,Belgique,Brouwerij Boon,38.0,4.0,,60,80,60,20,0,3.39,3.54
+Birra Ichnusa,Birra Ichnusa,Lager,Italie,Ichnusa,33.0,4.7,,20,40,0,20,0,1.79,2.85
+Blanche De Namur,Blanche De Namur,Bière Blanche,Belgique,Brasserie Du Bocq,25.0,4.5,11.0,60,60,40,40,0,2.19,3.51
+Chimay Triple,Chimay Triple,Bière Triple,Belgique,Chimay,33.0,8.0,,60,60,20,60,0,2.59,3.81
+Brand Weizen,Brand Weizen,Bière Weiss,Pays-Bas,Brand,30.0,5.1,12.0,60,60,20,20,0,,3.59
+Hapkin,Hapkin,Bière Blonde,Belgique,Alken-Maes,33.0,8.5,,40,60,0,40,0,2.19,3.53
+Houblon Chouffe,Houblon Chouffe,IPA,Belgique,Brasserie d'Achouffe,33.0,9.0,59.0,60,60,20,60,0,,3.79
+Grimbergen Dubbel,Grimbergen Dubbel,Bière Double,Belgique,Alken-Maes,33.0,6.5,,60,60,20,40,0,2.69,3.64
+Two Chefs Brewing Funky Falcon,Two Chefs Brewing Funky Falcon,Pale Ale,Pays-Bas,Two Chefs Brewing,33.0,5.2,22.0,60,60,20,20,0,2.89,3.61
+La Chouffe Blonde D'ardenne,La Chouffe Blonde D'ardenne,Bière Blonde,Belgique,Brasserie d'Achouffe,33.0,8.0,20.0,60,60,20,20,0,2.59,3.89
+Lagunitas A Little Sumpin' Sumpin',Lagunitas A Little Sumpin' Sumpin',IPA,Etats-Unis d'Amérique,Lagunitas Brewing Company,36.0,7.5,64.0,60,60,20,40,0,2.99,3.87
+Mort Subite Geuze Lambic,Mort Subite Geuze Lambic,Bière Sour,Belgique,Alken-Maes,25.0,4.5,,60,60,0,40,0,,3.3
+Rodenbach Grand Cru,Rodenbach Grand Cru,Bière Sour,Belgique,Brasserie Rodenbach,33.0,6.0,,60,60,0,40,20,3.09,4.05
+Oedipus Mannenliefde,Oedipus Mannenliefde,Bière de Garde & Saison,Pays-Bas,Brasserie Oedipus,33.0,6.0,25.0,60,40,40,60,0,2.99,3.49
+Lindeboom Gouverneur Dubbel,Lindeboom Gouverneur Dubbel,Bière Double,Pays-Bas,Lindeboom Bierbrouwerij,30.0,6.5,24.0,60,80,0,20,20,2.59,3.33
+"Budels Malt 0,0%","Budels Malt 0,0%",Lager,Pays-Bas,Budelse Brouwerij,30.0,0.0,,40,60,20,20,0,1.79,2.11
+Paulaner Hefe Weissbier sans Alcool,Paulaner Hefe Weissbier sans Alcool,Bière Weiss,Allemagne,Paulaner Brauerei,33.0,0.5,10.0,60,40,20,60,0,1.79,2.67
+Heineken 0.0,Heineken 0.0,Lager,Pays-Bas,Heineken Brewery,30.0,0.0,16.0,40,40,40,40,20,1.49,2.3
+Lowlander American Pale Ale,Lowlander American Pale Ale,Pale Ale,Pays-Bas,Lowlander,33.0,4.5,40.0,60,20,60,80,0,3.49,3.34
+Bon Secours Blonde,Bon Secours Blonde,Bière Blonde,Belgique,Brasserie Caulier,33.0,8.0,23.0,60,60,20,40,0,3.29,3.39
+Brunehaut ambrée bio,Brunehaut ambrée bio,Bière Ambrée,Belgique,Brasserie de Brunehaut,33.0,6.5,17.0,60,60,20,20,0,2.79,2.97
+Gruut Blond,Gruut Blond,Bière Blonde,Belgique,Gentse Gruut Stadsbrouwerij,33.0,5.5,,60,60,0,40,0,2.69,3.32
+Jessenhofke BRWN,Jessenhofke BRWN,Bière Brune,Belgique,Jessenhofke,33.0,7.0,21.0,60,60,0,20,0,,3.22
+Jessenhofke RGLR,Jessenhofke RGLR,Pale Ale,Belgique,Jessenhofke,33.0,3.5,15.0,60,40,20,40,0,,2.92
+Kwaremont Pittig Blond,Kwaremont Pittig Blond,Bière Blonde,Belgique,Brouwerij De Brabandere,33.0,6.6,,60,60,20,40,0,2.39,3.49
+Oud Beersel Oude Kriek Vieille,Oud Beersel Oude Kriek Vieille,Bière Sour,Belgique,Oud Beersel Brouwerij,38.0,6.0,,80,40,80,0,0,5.89,3.84
+Petrus Blonde,Petrus Blonde,Bière Blonde,Belgique,Brouwerij De Brabandere,33.0,6.5,,60,60,20,40,0,2.29,3.34
+Scheldebrouwerij Hop-Ruiter,Scheldebrouwerij Hop-Ruiter,,Belgique,Scheldebrouwerij,33.0,8.0,,60,60,20,60,0,,3.62
+St. Feuillien Blonde,St. Feuillien Blonde,Bière Blonde,Belgique,St. Feuillien,33.0,7.0,,60,60,20,40,0,2.69,3.55
+Steenbrugge Dubbel,Steenbrugge Dubbel,Bière Double,Belgique,Brouwerij Palm,33.0,6.5,,60,60,0,40,0,2.79,3.45
+Val Dieu Blond,Val Dieu Blond,Bière Blonde,Belgique,Brasserie de l'Abbaye du Val-Dieu,33.0,6.0,18.0,60,60,20,40,0,2.59,3.45
+Vicaris Generaal,Vicaris Generaal,Bière Brune,Belgique,,33.0,8.5,,60,60,0,40,0,,3.54
+Viven Bruin,Viven Bruin,Bière Double,Belgique,Brouwerij Van Viven,33.0,7.5,,60,60,0,40,0,2.49,3.38
+Fuller's London Pride,Fuller's London Pride,Pale Ale,Royaume-Uni,,33.0,4.7,35.0,60,60,0,60,0,3.49,3.44
+Asahi Super Dry,Asahi Super Dry,Lager,Japon,,33.0,5.2,16.0,60,40,0,40,0,2.39,3.07
+La Goudale Blonde,La Goudale Blonde,Bière de Garde & Saison,France,Goudale,33.0,7.2,28.0,60,80,0,40,0,2.49,3.4
+Maisel & Friends Pale Ale,Maisel & Friends Pale Ale,Pale Ale,Allemagne,Brauerei Gebr. Maisel,33.0,5.2,32.0,60,60,20,60,0,2.39,3.66
+Brlo Helles,Brlo Helles,Lager,Allemagne,,33.0,5.0,25.0,60,60,20,40,0,2.49,3.27
+Bellevaux Black,Bellevaux Black,Bière Porter & Stout,Belgique,,33.0,6.3,,60,60,0,40,20,3.09,3.24
+Uberquell Lieblings Imperial Lager,Uberquell Lieblings Imperial Lager,Pils & Hoppy Lager,Allemagne,,33.0,5.6,40.0,60,60,0,60,0,,3.52
+Uberquell World White IPA,Uberquell World White IPA,IPA,Allemagne,,33.0,6.5,45.0,60,80,0,60,0,2.69,3.47
+Ninkasi French IPA,Ninkasi French IPA,IPA,France,Ninkasi Fabriques,33.0,5.4,,60,60,0,60,0,2.89,3.44
+Vandeoirsprong Amber,Vandeoirsprong Amber,Pale Ale,Pays-Bas,Brouwerij Vandeoirsprong,33.0,5.7,,60,60,0,40,0,2.79,3.29
+Texels Tripel,Texels Tripel,Bière Triple,Pays-Bas,Texels,30.0,8.5,40.0,60,60,0,60,0,2.79,3.53
+Kona Hanalei Island,Kona Hanalei Island,IPA,Etats-Unis d'Amérique,,36.0,4.5,40.0,60,60,0,60,0,2.99,3.63
+Ardwen Blonde,Ardwen Blonde,Bière Blonde,France,Ardwen,33.0,5.6,,60,60,20,60,20,2.59,3.26
+Hoppebrau Vogelwuid,Hoppebrau Vogelwuid,IPA,Allemagne,,33.0,6.5,48.0,60,60,0,60,0,2.99,3.55
+Brothers In Law Australian Pale Ale,Brothers In Law Australian Pale Ale,Pale Ale,Pays-Bas,Brothers in Law,33.0,5.8,26.0,40,40,20,60,0,,
+Brasserie De Sutter La Folle des Bois,Brasserie De Sutter La Folle des Bois,Bière Fruitée,France,Brasserie de Sutter,33.0,6.8,,80,100,40,20,20,2.79,3.04
+Brasserie De Sutter La Givrée,Brasserie De Sutter La Givrée,Bière Blanche,France,Brasserie de Sutter,33.0,5.5,,60,60,60,20,0,2.69,3.16
+La Rouget Blanche des Plateaux,La Rouget Blanche des Plateaux,Bière de Garde & Saison,France,La Rouget de Lisle,33.0,4.8,,40,60,0,20,0,2.79,3.33
+Paljas IPA,Paljas IPA,IPA,Belgique,,33.0,6.0,35.0,60,60,20,40,0,2.29,3.47
+Texels Seumerfeugel,Texels Seumerfeugel,Bière Blanche,Pays-Bas,Texels,30.0,3.9,,40,40,40,20,0,2.49,3.41
+Steamworks Craft Lager,Steamworks Craft Lager,Pils & Hoppy Lager,Canada,Steamworks Brewing Co.,33.0,5.0,30.0,40,40,0,60,0,2.99,3.55
+Fourpure Easy Peeler Session IPA,Fourpure Easy Peeler Session IPA,IPA,Royaume-Uni,Fourpure,33.0,4.0,30.0,40,40,20,60,0,2.59,3.49
+La Blanche de Vézelay,La Blanche de Vézelay,Bière Blanche,France,Brasserie de Vézelay,50.0,4.4,,40,60,0,20,0,,3.21
+Vedett Extra Session IPA,Vedett Extra Session IPA,IPA,Belgique,Brouwerij Duvel Moortgat,33.0,2.7,,20,40,0,40,0,2.29,2.93
+Brasserie Des Cimes Impérial Stout,Brasserie Des Cimes Impérial Stout,Bière Porter & Stout,France,,33.0,9.0,,100,80,20,80,20,3.69,3.19
+La Bleue du Mont Blanc,La Bleue du Mont Blanc,Bière Fruitée,France,Mont-Blanc,33.0,5.8,,20,80,20,0,20,2.79,2.86
+La Blanche du Mont Blanc,La Blanche du Mont Blanc,Bière Blanche,France,Mont-Blanc,33.0,4.7,13.0,40,60,20,20,0,2.79,3.51
+Belgosapiens Polarius,Belgosapiens Polarius,Pils & Hoppy Lager,Belgique,Belgo Sapiens Brewers,33.0,5.0,30.0,40,40,0,60,0,2.49,3.09
+Palm 0.0,Palm 0.0,Pale Ale,Belgique,Brouwerij Palm,25.0,0.0,,60,60,20,40,0,1.89,2.06
+Arend Tripel,Arend Tripel,Bière Triple,Belgique,,33.0,8.0,36.0,60,60,20,60,0,,3.64
+Steamworks Jasmine IPA,Steamworks Jasmine IPA,IPA,Canada,Steamworks Brewing Co.,33.0,6.5,60.0,60,40,0,60,0,2.99,3.66
+Lowlander Ginger & Kaffir Lime,Lowlander Ginger & Kaffir Lime,Bière Fruitée,Pays-Bas,Lowlander,33.0,2.5,,100,20,20,40,0,2.79,3.0
+Lowlander Yuzu & Grapefruit,Lowlander Yuzu & Grapefruit,Bière Fruitée,Pays-Bas,Lowlander,33.0,2.5,,60,20,60,0,0,2.79,3.24
+Wolfscraft Super Lager,Wolfscraft Super Lager,Pils & Hoppy Lager,Allemagne,,33.0,5.3,,60,20,0,60,0,2.69,3.49
+La Guillotine,La Guillotine,Bière Blonde,Belgique,Huyghe,33.0,8.5,,40,60,0,40,0,2.89,3.61
+Sol,Sol,Lager,Mexique,,33.0,4.5,,40,40,0,20,0,,3.01
+Pietra Rossa,Pietra Rossa,Bière Fruitée,France,,33.0,6.5,,60,60,20,20,0,,2.76
+Braxzz Porter,Braxzz Porter,Bière Porter & Stout,Pays-Bas,,33.0,0.0,50.0,60,80,0,40,0,2.49,2.51
+Boon Kriek Mariage Parfait,Boon Kriek Mariage Parfait,Bière Sour,Belgique,Brouwerij Boon,38.0,8.0,,80,40,60,0,0,4.99,3.9
+Boon Oude Kriek,Boon Oude Kriek,Bière Sour,Belgique,Brouwerij Boon,38.0,6.5,,60,20,80,0,0,4.49,3.65
+Oproer Black Flag,Oproer Black Flag,IPA,Pays-Bas,,33.0,6.5,75.0,80,40,0,80,0,3.29,3.51
+Grisette Triple Bio,Grisette Triple Bio,Bière Triple,Belgique,St. Feuillien,25.0,8.0,,60,60,20,60,0,2.29,3.67
+Two Chefs Funky Falcon,Two Chefs Funky Falcon,Pale Ale,Pays-Bas,Two Chefs Brewing,33.0,5.2,22.0,60,60,20,20,0,2.89,3.61
+Brussels Beer Project Wunder Lager,Brussels Beer Project Wunder Lager,Pils & Hoppy Lager,Belgique,Brussels Beer Project,33.0,3.8,24.0,0,0,0,0,0,2.69,3.43
+Emelisse Session IPA,Emelisse Session IPA,IPA,Pays-Bas,Brouwerij Emelisse,33.0,3.3,,60,40,0,80,0,3.69,3.31
+Bière Des Sans-Culottes Historique,Bière Des Sans-Culottes Historique,Bière Blonde,France,,33.0,7.0,,60,60,0,40,0,2.49,3.35
+Tre Fontane Scala Coeli,Tre Fontane Scala Coeli,Bière Blonde,Italie,,33.0,6.7,,60,40,20,60,0,4.69,3.49
+Force Majeure Traditional Blond,Force Majeure Traditional Blond,Bière Blonde,Belgique,,33.0,0.4,28.0,20,40,20,40,0,2.29,3.3
+Baptist IPA,Baptist IPA,IPA,Belgique,Brouwerij Van Steenberge,33.0,6.7,,60,40,0,60,0,2.39,3.37
+Barcelona Beer Company La Bella Lola,Barcelona Beer Company La Bella Lola,Pale Ale,Espagne,,33.0,4.0,,,,,,,2.79,3.25
+Mélusine Via Crucis,Mélusine Via Crucis,Bière Brune,France,,33.0,5.6,,,,,,,2.59,3.26
+Affligem Blond 0.0%,Affligem Blond 0.0%,Bière Blonde,Belgique,Affligem,30.0,0.0,,,,,,,1.59,2.84
+Wilderen Kriek,Wilderen Kriek,Bière Fruitée,Belgique,Brouwerij Wilderen,25.0,3.5,,60,80,60,20,0,,3.24
+Cobra,Cobra,Lager,Inde,,33.0,4.8,,60,40,20,40,0,2.39,2.9
+Studio Oedipus No. 11,Studio Oedipus No. 11,Bière Sour,Pays-Bas,Brasserie Oedipus,38.0,6.5,,,,,,,6.99,3.58
+Ninkasi Brut IPA,Ninkasi Brut IPA,IPA,France,Ninkasi Fabriques,33.0,5.6,33.0,60,0,0,20,0,3.29,3.36
+vandeStreek Fruit Machine,vandeStreek Fruit Machine,Bière Sour,Pays-Bas,vandeStreek,33.0,0.5,25.0,80,60,60,0,20,2.59,2.7
+Uddelaer Tripel,Uddelaer Tripel,Bière Triple,Pays-Bas,,25.0,7.8,34.0,80,20,0,40,0,3.19,3.46
+Ninkasi Session IPA,Ninkasi Session IPA,IPA,France,Ninkasi Fabriques,33.0,3.5,45.0,20,0,0,80,0,2.89,3.23
+"De Brabandere Kwaremont 0,3%","De Brabandere Kwaremont 0,3%",Bière Blonde,Belgique,Brouwerij De Brabandere,33.0,0.3,,,,,,,2.29,2.9
+Cap d'Ona Brune Bio au Seigle,Cap d'Ona Brune Bio au Seigle,Bière Brune,France,,33.0,7.5,,,,,,,,
+BRLO German IPA,BRLO German IPA,IPA,Allemagne,,33.0,7.0,50.0,60,60,0,60,0,2.49,3.56
+Ninkasi Blonde,Ninkasi Blonde,Pils & Hoppy Lager,France,Ninkasi Fabriques,33.0,4.0,,40,40,0,40,0,2.69,3.14
+Kees Double Rye IPA,Kees Double Rye IPA,IPA,Pays-Bas,Brouwerij Kees,33.0,8.9,90.0,80,40,20,80,0,3.29,3.76
+Dos Equis Lager Especial,Dos Equis Lager Especial,Lager,Mexique,,36.0,4.5,,20,40,0,20,0,,3.09
+And Union Friday,And Union Friday,Lager,Allemagne,And Union,33.0,6.5,55.0,60,60,0,60,0,2.49,3.66
+Het Nest Wild Card Raspberry Dark Blend,Het Nest Wild Card Raspberry Dark Blend,Bière Fruitée,Belgique,,33.0,6.0,,80,20,80,20,0,3.39,3.45
+Affligem Dubbel,Affligem Dubbel,Bière Double,Belgique,Affligem,30.0,6.8,,60,80,0,40,20,,3.56
+Stanislaus Brewskovitch All Black,Stanislaus Brewskovitch All Black,Bière Porter & Stout,Pays-Bas,Stanislaus Brewskovitch,33.0,7.5,100.0,80,40,0,80,40,3.29,3.59
+Rochefort 8',Rochefort 8',Bière Quadruple,Belgique,Brouwerij Rochefort,33.0,9.2,,80,60,0,20,40,2.89,4.03
+Stone Ripper Pale Ale,Stone Ripper Pale Ale,Pale Ale,Etats-Unis d'Amérique,Stone Brewing,36.0,5.7,40.0,80,60,0,60,0,2.99,3.44
+Lindemans Cassis,Lindemans Cassis,Bière Fruitée,Belgique,Brouwerij Lindemans,25.0,3.5,,60,60,60,20,0,2.49,3.67
+Bierbrouwerij Breugem Herfstbock,Bierbrouwerij Breugem Herfstbock,Bière Bock,Pays-Bas,,33.0,7.2,25.0,0,0,0,0,0,,
+Kompaan Badgast,Kompaan Badgast,Pale Ale,Pays-Bas,Brouwerij Kompaan,33.0,5.7,18.0,60,60,20,40,0,2.89,3.38
+Brlo C4PO Westcoast IPA,Brlo C4PO Westcoast IPA,IPA,Allemagne,,33.0,7.0,60.0,80,40,0,80,0,2.59,3.64
+Maredsous Blonde,Maredsous Blonde,Bière Blonde,Belgique,,33.0,6.0,29.0,80,20,20,60,20,2.59,3.54
+Ninkasi Flower Lager,Ninkasi Flower Lager,Lager,France,Ninkasi Fabriques,33.0,6.5,45.0,20,0,0,80,0,2.79,3.24
+vandeStreek Hazy Weekend,vandeStreek Hazy Weekend,IPA,Pays-Bas,vandeStreek,33.0,6.6,20.0,80,40,0,40,0,,
+Ename Pater,Ename Pater,Bière Blonde,Belgique,,33.0,5.5,32.0,40,20,0,80,40,2.09,3.43
+Poesiat & Kater: Van Vollenhoven Falcon Ale,Poesiat & Kater: Van Vollenhoven Falcon Ale,Pale Ale,Pays-Bas,Poesiat & Kater,33.0,4.5,27.0,60,60,0,60,0,2.79,3.4
+Tyris IPA,Tyris IPA,IPA,Espagne,,33.0,6.0,,,,,,,2.79,3.54
+Brasseurs Savoyards Brune,Brasseurs Savoyards Brune,Bière Brune,France,,33.0,7.0,24.0,80,60,0,0,40,2.89,3.14
+Uddelaer Blond,Uddelaer Blond,Bière Blonde,Pays-Bas,,25.0,6.5,25.0,60,20,0,40,0,,
+Blanche Perle et les 7 grains,Blanche Perle et les 7 grains,Bière Blanche,France,,33.0,4.8,16.0,40,60,40,20,0,2.89,3.28
+Troost New England,Troost New England,IPA,Pays-Bas,Brouwerij Troost,33.0,4.8,8.0,100,60,0,20,0,3.09,3.75
+Troost IPA,Troost IPA,IPA,Pays-Bas,Brouwerij Troost,33.0,6.5,60.0,80,40,0,60,0,2.99,3.55
+Brussels Beer Project Pico Bello,Brussels Beer Project Pico Bello,IPA,Belgique,Brussels Beer Project,33.0,0.3,20.0,60,20,60,40,0,,
+Brasserie De Sutter Folie Douce,Brasserie De Sutter Folie Douce,Pale Ale,France,,33.0,5.0,,,,,,,,
+Les 3 Croquants Blonde d'Aquitaine,Les 3 Croquants Blonde d'Aquitaine,Bière Blonde,France,,33.0,4.7,,40,60,0,20,0,2.69,3.12
+Maisel & Friends IPA,Maisel & Friends IPA,IPA,Allemagne,Brauerei Gebr. Maisel,33.0,6.3,50.0,80,60,0,60,0,2.39,3.56
+And Union Sunday,And Union Sunday,Pale Ale,Allemagne,And Union,33.0,5.5,35.0,60,40,20,60,0,2.49,3.52
+Affligem Blond,Affligem Blond,Bière Blonde,Belgique,Affligem,30.0,6.8,,60,60,0,40,0,1.69,3.76
+Walhalla Aphrodite Raspberry Berliner Weisse,Walhalla Aphrodite Raspberry Berliner Weisse,Bière Sour,Pays-Bas,Walhalla Craft Beer,33.0,4.0,,0,40,40,0,0,,
+De Molen Op & Top,De Molen Op & Top,Pale Ale,Pays-Bas,Brouwerij De Molen,33.0,4.5,38.0,60,20,20,60,0,,3.51
+Bintang,Bintang,Lager,Indonésie,Bintang,33.0,4.7,,40,60,20,40,0,2.19,2.0
+Judas,Judas,Bière Blonde,Belgique,Alken-Maes,33.0,8.5,,60,80,20,40,0,2.39,3.51
+Oedipus Thai Thai,Oedipus Thai Thai,Bière Triple,Pays-Bas,Brasserie Oedipus,33.0,8.0,20.0,60,60,20,40,0,2.99,3.64
+Gebrouwen Door Vrouwen Gin Weizen,Gebrouwen Door Vrouwen Gin Weizen,Bière Blanche,Pays-Bas,Gebrouwen Door Vrouwen,33.0,6.0,,40,60,20,20,0,2.99,3.53
+Oedipus Gaia IPA,Oedipus Gaia IPA,IPA,Pays-Bas,Brasserie Oedipus,33.0,7.0,60.0,60,60,20,40,20,3.09,3.69
+Jopen Jacobus RPA,Jopen Jacobus RPA,Pale Ale,Pays-Bas,Brouwerij Jopenkerk,33.0,5.5,45.0,60,60,20,60,0,2.89,3.48
+Maximus Pandora 6,Maximus Pandora 6,Pale Ale,Pays-Bas,Brouwerij Maximus,33.0,6.0,30.0,60,60,0,40,20,2.19,3.49
+Meantime India Pale Ale,Meantime India Pale Ale,IPA,Royaume-Uni,Meantime Brewing,33.0,7.4,65.0,60,60,0,60,20,,3.44
+Oedipus Mama,Oedipus Mama,Pale Ale,Pays-Bas,Brasserie Oedipus,33.0,5.0,30.0,60,60,20,40,0,2.89,3.46
+Brand Dubbelbock,Brand Dubbelbock,Bière Bock,Pays-Bas,Brand,30.0,7.5,23.0,80,60,0,40,0,,3.46
+Lowlander Poorter,Lowlander Poorter,Bière Porter & Stout,Pays-Bas,Lowlander,33.0,6.0,45.0,60,60,20,40,0,3.49,3.43
+Walhalla Osiris,Walhalla Osiris,Bière de Garde & Saison,Pays-Bas,Walhalla Craft Beer,33.0,7.0,38.0,60,60,20,40,0,3.09,3.53
+Budels Bio Pilsener,Budels Bio Pilsener,Pils & Hoppy Lager,Pays-Bas,Budelse Brouwerij,30.0,5.0,,40,60,20,20,0,,3.07
+Augustijn Blond,Augustijn Blond,Bière Blonde,Belgique,Brouwerij Van Steenberge,33.0,7.0,,60,60,20,60,0,2.29,3.52
+Blanche De Silly,Blanche De Silly,Bière Blanche,Belgique,Brasserie de Silly,25.0,5.0,,40,60,20,20,0,1.89,3.22
+Brussels Beer Project Delta Ipa,Brussels Beer Project Delta Ipa,IPA,Belgique,Brussels Beer Project,33.0,6.0,45.0,60,60,20,60,0,2.85,3.73
+Brussels Beer Project Grosse Bertha,Brussels Beer Project Grosse Bertha,Bière Weiss,Belgique,Brussels Beer Project,33.0,7.0,20.0,40,80,20,40,0,2.89,3.57
+De Ranke Simplex,De Ranke Simplex,Bière Blonde,Belgique,De Ranke,33.0,4.5,50.0,60,60,0,60,0,2.49,3.25
+Grisette Blond Gluten Free,Grisette Blond Gluten Free,Bière Blonde,Belgique,St. Feuillien,25.0,5.5,10.0,60,40,0,60,0,1.99,3.02
+Grisette Fruits des Bois,Grisette Fruits des Bois,Bière Fruitée,Belgique,St. Feuillien,25.0,3.5,,60,60,20,20,0,2.29,3.02
+Moinette Blonde,Moinette Blonde,Bière Blonde,Belgique,Brasserie Dupont,33.0,8.5,,60,60,20,60,0,,3.63
+Omer Traditional Blonde,Omer Traditional Blonde,Bière Blonde,Belgique,,33.0,8.0,,60,60,20,60,0,2.59,3.64
+Oud Beersel Framboise,Oud Beersel Framboise,Bière Sour,Belgique,Oud Beersel Brouwerij,38.0,5.0,,60,60,40,0,0,6.49,3.57
+Oud Beersel Oude Geuze Vieille,Oud Beersel Oude Geuze Vieille,Bière Sour,Belgique,Oud Beersel Brouwerij,38.0,6.0,,100,40,80,20,0,,3.78
+"Piraat 10,5","Piraat 10,5",Bière Blonde,Belgique,Brouwerij Van Steenberge,33.0,10.5,,60,80,20,40,0,2.49,3.72
+Postel Blond,Postel Blond,Bière Blonde,Belgique,,33.0,7.0,,60,60,20,40,0,,3.45
+Roman Rebelse Strop,Roman Rebelse Strop,Bière Blonde,Belgique,,33.0,6.9,33.0,60,60,20,40,0,,3.43
+Scheldebrouwerij Oesterstout,Scheldebrouwerij Oesterstout,Bière Porter & Stout,Belgique,Scheldebrouwerij,33.0,8.5,,80,60,20,40,40,3.09,3.55
+Steenbrugge Wit,Steenbrugge Wit,Bière Blanche,Belgique,Brouwerij Palm,25.0,5.0,,40,60,20,20,0,2.19,3.33
+Ter Dolen Blond,Ter Dolen Blond,Bière Blonde,Belgique,Ter Dolen,33.0,6.1,,60,60,0,40,0,2.49,3.5
+Troubadour Magma,Troubadour Magma,IPA,Belgique,Brouwerij The Musketeers,33.0,9.0,45.0,80,60,20,60,0,2.79,3.73
+Troubadour Obscura,Troubadour Obscura,Bière Brune,Belgique,Brouwerij The Musketeers,33.0,8.2,30.0,80,80,0,40,0,2.79,3.61
+Valeir Extra,Valeir Extra,IPA,Belgique,,33.0,6.5,,60,60,20,60,0,2.69,3.53
+Vedett Extra Blond,Vedett Extra Blond,Bière Blonde,Belgique,Brouwerij Duvel Moortgat,33.0,5.2,26.0,60,40,20,40,0,2.25,3.31
+Vedett Extra Ordinary IPA,Vedett Extra Ordinary IPA,IPA,Belgique,Brouwerij Duvel Moortgat,33.0,5.5,40.0,60,60,20,60,0,2.35,3.56
+Bronckhorster Brok in de Keel,Bronckhorster Brok in de Keel,Bière Brune,Pays-Bas,Bronckhorster Brewing Company,33.0,8.5,28.0,60,60,20,40,0,3.59,3.49
+Harviestoun Bitter & Twisted,Harviestoun Bitter & Twisted,Bière Blonde,Royaume-Uni,,33.0,4.2,34.0,20,60,0,20,0,,3.42
+Tsingtao,Tsingtao,Lager,Chine,,33.0,4.7,,60,40,20,40,0,,2.87
+Brlo Berliner Weisse,Brlo Berliner Weisse,Bière Sour,Allemagne,,33.0,4.0,5.0,80,40,80,0,0,2.69,3.15
+Crew Republic In Your Face,Crew Republic In Your Face,IPA,Allemagne,Crew Republic,33.0,6.8,70.0,60,60,0,60,0,3.09,3.77
+Lindemans Kriek,Lindemans Kriek,Bière Fruitée,Belgique,Brouwerij Lindemans,25.0,3.5,,60,60,20,40,0,2.29,3.54
+La Débauche Volga,La Débauche Volga,Pale Ale,France,Brasserie La Débauche,33.0,5.0,35.0,60,40,0,60,0,3.29,3.54
+Ninkasi Pale Ale,Ninkasi Pale Ale,Bière Ambrée,France,Ninkasi Fabriques,33.0,4.5,,60,60,0,40,0,2.69,3.43
+And Union Wednesday Wheat,And Union Wednesday Wheat,Bière Weiss,Allemagne,And Union,33.0,5.0,20.0,40,60,20,20,0,2.39,3.56
+Texels Springtij,Texels Springtij,Bière Bock,Pays-Bas,Texels,30.0,7.5,25.0,60,60,0,60,0,2.59,3.53
+BRLO Pale Ale,BRLO Pale Ale,Pale Ale,Allemagne,,33.0,6.0,35.0,60,60,0,60,0,2.89,3.55
+Texels Vuurbaak,Texels Vuurbaak,Pale Ale,Pays-Bas,Texels,30.0,5.5,25.0,60,60,0,40,0,2.59,3.5
+Hoppebrau Wuidsau,Hoppebrau Wuidsau,Bière Ambrée,Allemagne,,33.0,5.6,45.0,60,60,0,60,0,2.89,3.53
+Hoppebrau Helles,Hoppebrau Helles,Lager,Allemagne,,50.0,4.9,,40,40,0,40,0,2.49,3.34
+Hoppebrau Wuide Hehna,Hoppebrau Wuide Hehna,Pale Ale,Allemagne,,33.0,4.1,35.0,60,60,0,60,0,,3.48
+Hoppebrau Weissbier,Hoppebrau Weissbier,Bière Weiss,Allemagne,,50.0,5.5,,40,60,20,20,0,,3.46
+Brasserie De Sutter Brin de Folie,Brasserie De Sutter Brin de Folie,Bière Blonde,France,Brasserie de Sutter,33.0,6.5,,40,60,20,20,20,2.69,3.42
+La Trappe Witte Trappist,La Trappe Witte Trappist,Bière Blanche,Pays-Bas,La Trappe (La Brasserie De Koningshoeven),33.0,5.5,14.0,60,60,20,40,0,2.29,3.64
+Pax Pils,Pax Pils,Pils & Hoppy Lager,Belgique,,25.0,5.0,20.0,40,40,0,40,0,1.79,2.67
+Ardwen Cerise,Ardwen Cerise,Bière Fruitée,France,Ardwen,33.0,4.5,,0,60,20,0,0,,2.73
+Steamworks Flagship IPA,Steamworks Flagship IPA,IPA,Canada,Steamworks Brewing Co.,33.0,6.7,65.0,60,60,20,80,0,2.99,3.95
+L'Ambrée de Vézelay,L'Ambrée de Vézelay,Bière Ambrée,France,Brasserie de Vézelay,50.0,5.6,25.0,60,40,0,40,0,4.09,3.25
+L'IPA de Vézelay,L'IPA de Vézelay,IPA,France,Brasserie de Vézelay,50.0,5.4,42.0,60,60,0,60,0,4.49,3.23
+100 Watt Allure,100 Watt Allure,Pale Ale,Pays-Bas,Stadsbrouwerij Eindhoven,33.0,7.0,50.0,80,40,20,80,0,2.99,3.48
+Brasserie Des Cimes Yéti ,Brasserie Des Cimes Yéti ,Bière Triple,France,,33.0,6.5,,60,80,0,20,20,2.89,3.32
+Atlantic Dorée des Gabariers,Atlantic Dorée des Gabariers,Bière Ambrée,France,Brasserie des Gabariers,33.0,5.5,,40,60,20,40,0,2.79,2.84
+Atlantic Blanche des Gabariers,Atlantic Blanche des Gabariers,Bière Blanche,France,Brasserie des Gabariers,33.0,5.0,,40,60,20,20,0,2.79,2.93
+La Cristal IPA du Mont Blanc,La Cristal IPA du Mont Blanc,IPA,France,Mont-Blanc,33.0,4.7,30.0,60,40,0,40,0,2.79,3.44
+Jack Beer,Jack Beer,Pale Ale,France,Brasserie des Gabariers,33.0,7.0,,60,40,0,60,0,2.99,3.36
+Swinckels' Superieur Pilsner,Swinckels' Superieur Pilsner,Pils & Hoppy Lager,Pays-Bas,,33.0,5.3,25.0,60,60,0,40,0,2.19,3.21
+Brouwerij 'T Verzet Super NoAH,Brouwerij 'T Verzet Super NoAH,Bière Blonde,Belgique,,33.0,4.9,50.0,40,40,0,40,0,2.49,3.34
+Lindemans Pêcheresse,Lindemans Pêcheresse,Bière Fruitée,Belgique,Brouwerij Lindemans,25.0,2.5,10.0,60,60,40,20,0,2.39,3.59
+Lindemans Apple,Lindemans Apple,Bière Fruitée,Belgique,Brouwerij Lindemans,25.0,4.0,,60,60,40,20,0,2.19,3.36
+Brouwerij 'T Verzet Oud Bruin,Brouwerij 'T Verzet Oud Bruin,Bière Sour,Belgique,,33.0,6.0,,100,20,80,0,0,2.99,3.71
+Schoppe Bräu Juice,Schoppe Bräu Juice,IPA,Allemagne,,33.0,5.6,40.0,60,40,0,60,0,3.29,3.5
+Silly Green Killer,Silly Green Killer,IPA,Belgique,Brasserie de Silly,33.0,6.5,,60,40,0,40,0,2.29,3.25
+Brussels Beer Project Jungle Joy,Brussels Beer Project Jungle Joy,Bière Double,Belgique,Brussels Beer Project,33.0,6.6,20.0,60,60,0,20,0,2.99,3.48
+Wolfscraft Das Helle,Wolfscraft Das Helle,Lager,Allemagne,,33.0,4.9,,60,40,20,20,0,2.69,3.62
+Desperados,Desperados,Lager,France,Desperados,33.0,5.9,,60,60,20,20,0,1.79,3.15
+Het Nest Pokerface,Het Nest Pokerface,Bière Blanche,Belgique,,33.0,5.5,30.0,40,40,20,20,0,2.29,3.41
+Liefmans Kriek Brut,Liefmans Kriek Brut,Bière Sour,Belgique,,33.0,6.0,,40,80,40,20,0,2.89,3.76
+Vedett Extra White,Vedett Extra White,Bière Blanche,Belgique,Brouwerij Duvel Moortgat,33.0,4.7,4.0,60,40,20,20,0,2.29,3.55
+Fagnes Gold,Fagnes Gold,Lager,Belgique,Brasserie des Fagnes,33.0,5.1,,60,60,0,40,0,2.49,3.41
+Les 3 Croquants Sol Invictus III,Les 3 Croquants Sol Invictus III,Bière Barley Wine,France,,33.0,7.5,,60,20,60,20,0,4.49,3.28
+Choulette Ambrée,Choulette Ambrée,Bière Ambrée,France,,33.0,8.0,35.0,60,60,0,40,0,2.49,3.4
+Petrus Aged Pale,Petrus Aged Pale,Bière Sour,Belgique,Brouwerij De Brabandere,33.0,7.3,,100,20,80,40,0,2.79,3.73
+Pistonhead Amber,Pistonhead Amber,Bière Ambrée,Royaume-Uni,,33.0,6.0,30.0,0,40,0,40,0,,
+Gallia West IPA,Gallia West IPA,IPA,France,,33.0,6.0,,60,60,20,60,0,2.89,3.56
+Lowlander 0% Wit,Lowlander 0% Wit,Bière Blanche,Pays-Bas,Lowlander,33.0,0.0,,40,40,40,0,0,2.49,3.16
+Murphy's Irish Stout,Murphy's Irish Stout,Bière Porter & Stout,Irlande,Murphy's Brewery,50.0,4.0,34.0,60,40,20,40,0,2.49,3.51
+Birra Moretti L'Autentica,Birra Moretti L'Autentica,Lager,Italie,,33.0,4.6,12.0,40,40,0,40,20,1.69,3.1
+Petrus Red,Petrus Red,Bière Sour,Belgique,Brouwerij De Brabandere,33.0,8.5,18.0,60,60,40,20,0,2.39,3.72
+Jopen Gin Trinitas Tripel,Jopen Gin Trinitas Tripel,Bière Triple,Pays-Bas,,33.0,9.0,35.0,0,60,0,0,0,,3.53
+Kompaan Sassy Threesome,Kompaan Sassy Threesome,Bière Triple,Pays-Bas,,33.0,9.0,15.0,0,0,0,0,0,2.95,3.49
+White Pony Microbrewery X.M.A.S,White Pony Microbrewery X.M.A.S,Bière Brune,Italie,,33.0,6.2,,,,,,,,2.85
+Lagunitas Daytime,Lagunitas Daytime,IPA,Etats-Unis d'Amérique,Lagunitas Brewing Company,36.0,4.0,54.0,60,40,0,40,0,2.29,3.68
+Gebrouwen door Vrouwen Glüh Weizen,Gebrouwen door Vrouwen Glüh Weizen,Bière Blanche,Pays-Bas,Gebrouwen Door Vrouwen,33.0,6.5,,80,40,0,20,0,2.49,3.36
+Tre Fontane / Spencer Sinergia '19,Tre Fontane / Spencer Sinergia '19,IPA,Italie,Abdij Tre Fontane,33.0,7.3,,,,,,,,3.75
+Les 3 Croquants La Rousse du Printemps,Les 3 Croquants La Rousse du Printemps,Bière Ambrée,France,,33.0,5.5,,60,60,0,40,0,,
+Fourpure Deucebox Double Citrus IPA,Fourpure Deucebox Double Citrus IPA,IPA,Royaume-Uni,Fourpure,44.0,8.3,70.0,80,60,0,80,0,4.59,3.82
+Bird of Prey,Bird of Prey,IPA,Pays-Bas,Brouwerij Het Uiltje,33.0,5.8,50.0,80,60,20,60,0,3.09,3.68
+Affligem Tripel,Affligem Tripel,Bière Triple,Belgique,Affligem,30.0,9.0,,60,60,20,60,0,1.79,3.57
+Brasserie De Sutter Sombre Folle,Brasserie De Sutter Sombre Folle,Bière Brune,France,Brasserie de Sutter,33.0,8.5,,60,60,20,60,20,2.99,3.41
+Gallia Weissbier,Gallia Weissbier,Bière Weiss,France,,33.0,5.2,15.0,40,60,20,20,0,,3.13
+La Brune de Vézelay,La Brune de Vézelay,Bière Brune,France,Brasserie de Vézelay,50.0,5.5,16.0,60,60,0,40,20,4.39,3.32
+Paljas Blond,Paljas Blond,Bière Blonde,Belgique,,33.0,6.0,30.0,60,60,0,40,0,2.29,3.37
+Achel Blonde,Achel Blonde,Bière Blonde,Belgique,Brouwerij De Achelse Kluis,33.0,8.0,20.0,60,60,20,40,0,2.79,3.74
+Blanche Watou Witbier,Blanche Watou Witbier,Bière Blanche,Belgique,,33.0,4.8,,40,40,40,20,0,1.99,3.11
+Kapittel Watou Prior 9,Kapittel Watou Prior 9,Bière Brune,Belgique,,33.0,9.0,,60,60,0,40,0,2.29,3.49
+Brouwerij 'T Verzet Moose Blues,Brouwerij 'T Verzet Moose Blues,Bière Brune,Belgique,,33.0,7.5,30.0,40,60,0,20,0,,3.36
+Wieze,Wieze,Bière Triple,Belgique,Brouwerij De Brabandere,33.0,8.5,27.0,40,60,0,40,0,2.79,3.49
+Lagunitas IPA,Lagunitas IPA,IPA,Etats-Unis d'Amérique,Lagunitas Brewing Company,36.0,6.2,46.0,60,60,0,40,0,2.89,3.82
+Bierbroeders #3,Bierbroeders #3,Bière Blonde,Pays-Bas,Brouwerij Bierbroeders,33.0,6.5,40.0,60,40,20,40,0,,3.44
+Vandeoirsprong Weizen,Vandeoirsprong Weizen,Bière Weiss,Pays-Bas,Brouwerij Vandeoirsprong,33.0,5.6,,40,60,20,20,0,2.99,3.4
+Brand IPA,Brand IPA,IPA,Pays-Bas,Brand,30.0,7.0,45.0,80,40,20,60,0,1.79,3.41
+Brouwerij de Brabandere Petrus Cherry Chocolate Nitro Quad,Brouwerij de Brabandere Petrus Cherry Chocolate Nitro Quad,Bière Quadruple,Belgique,Brouwerij De Brabandere,33.0,8.5,,,,,,,2.69,3.86
+Brouwerij 't IJ Struis Bio,Brouwerij 't IJ Struis Bio,Bière Barley Wine,Pays-Bas,Brouwerij 't IJ,33.0,9.0,20.0,60,60,0,40,0,2.89,3.57
+Beavertown Lupuloid,Beavertown Lupuloid,IPA,Royaume-Uni,,33.0,6.7,55.0,0,0,0,60,0,,
+Gallia Session IPA,Gallia Session IPA,IPA,France,,33.0,4.3,,60,60,20,60,0,2.89,3.61
+Gallia Lager,Gallia Lager,Bière Blonde,France,,33.0,5.5,25.0,40,40,0,40,0,2.59,3.06
+Oedipus Pilsner,Oedipus Pilsner,Pils & Hoppy Lager,Pays-Bas,,33.0,5.0,20.0,40,40,0,40,0,2.89,3.21
+Troost Club Tropicana,Troost Club Tropicana,Bière Sour,Pays-Bas,,33.0,4.5,,40,20,60,0,0,,3.18
+Poperings Hommelbier,Poperings Hommelbier,Bière Blonde,Belgique,,33.0,7.5,,60,40,20,60,0,,3.52
+Tiger Lager,Tiger Lager,Lager,Singapoure,Tiger,33.0,5.0,,40,40,0,40,0,1.79,2.94
+Alken Maes Pils,Alken Maes Pils,Pils & Hoppy Lager,Belgique,,25.0,5.2,,,,,,,,2.83
+Fourpure Juicebox Citrus IPA,Fourpure Juicebox Citrus IPA,IPA,Royaume-Uni,Fourpure,33.0,5.9,56.0,80,40,0,60,0,,3.82
+Mort Subite Kriek Lambic,Mort Subite Kriek Lambic,Bière Fruitée,Belgique,Alken-Maes,25.0,4.0,,80,60,20,80,0,1.99,3.45
+Affligem Fris Blond,Affligem Fris Blond,Bière Blonde,Belgique,Affligem,33.0,4.6,,,,,,,1.79,3.32
+Affligem Belgisch Wit,Affligem Belgisch Wit,Bière Blanche,Belgique,Affligem,33.0,4.8,,,,,,,1.99,3.43
+Studio Oedipus No. 13,Studio Oedipus No. 13,Cidre,Pays-Bas,Brasserie Oedipus,38.0,7.0,,,,,,,6.99,3.5
+Sloeber IPA,Sloeber IPA,IPA,Belgique,,33.0,7.5,41.0,60,60,0,80,0,2.45,3.5
+Ramon,Ramon,Bière Blonde,Belgique,,33.0,0.3,26.0,60,0,0,40,40,1.99,2.78
+BM Signature #14,BM Signature #14,Bière Blanche,France,La Rouget de Lisle,33.0,9.0,12.0,60,0,60,40,0,,
+Perle Dans les Vignes,Perle Dans les Vignes,Bière Fruitée,France,,33.0,7.5,13.0,80,60,40,20,0,3.69,3.53
+Perle Pils,Perle Pils,Pils & Hoppy Lager,France,,33.0,5.4,35.0,60,60,20,60,0,2.89,3.23
+Troost Honing Blond,Troost Honing Blond,Bière Blonde,Pays-Bas,Brouwerij Troost,33.0,7.0,26.0,80,60,0,40,0,2.99,3.5
+Stone Go To IPA,Stone Go To IPA,IPA,Etats-Unis d'Amérique,Stone Brewing,36.0,4.7,65.0,80,60,20,60,0,2.69,3.74
+Les 3 Croquants Rouge de Buffarot,Les 3 Croquants Rouge de Buffarot,Bière Ambrée,France,,33.0,5.0,,60,40,20,40,0,2.69,3.3
+Brasserie Lefebvre Hopus,Brasserie Lefebvre Hopus,Bière Blonde,Belgique,Brasserie Lefebvre,33.0,8.3,40.0,60,60,20,40,0,,3.58
+Brouwerij 't IJ Flink,Brouwerij 't IJ Flink,Pale Ale,Pays-Bas,Brouwerij 't IJ,33.0,4.7,,60,40,20,60,20,2.59,3.44
+Ciney Blonde,Ciney Blonde,Bière Blonde,Belgique,Ciney,25.0,7.0,,40,40,0,20,0,1.79,3.46
+Brugse Zot Dubbel,Brugse Zot Dubbel,Bière Double,Belgique,Brouwerij De Halve Maan,33.0,7.5,27.0,60,60,0,60,20,2.65,3.59
+Duchesse De Bourgogne,Duchesse De Bourgogne,Bière Sour,Belgique,Brouwerij Verhaeghe,25.0,6.2,11.0,100,40,80,0,0,2.29,3.8
+Ciney Brune,Ciney Brune,Bière Double,Belgique,Ciney,25.0,7.0,,60,60,40,40,0,,3.39
+Brooklyn Lager,Brooklyn Lager,Lager,Etats-Unis d'Amérique,Brooklyn Brewery,36.0,5.2,33.0,60,60,20,60,0,2.99,3.51
+Brouwerij 't IJ IJwit,Brouwerij 't IJ IJwit,Bière Blanche,Pays-Bas,Brouwerij 't IJ,33.0,6.5,,60,60,20,40,0,2.69,3.61
+Brooklyn Sorachi Ace,Brooklyn Sorachi Ace,Bière de Garde & Saison,Etats-Unis d'Amérique,Brooklyn Brewery,36.0,7.2,34.0,60,60,20,40,0,3.99,3.69
+Texels Skiller Wit,Texels Skiller Wit,Bière Blanche,Pays-Bas,Texels,30.0,5.0,,60,40,20,60,0,2.49,3.33
+Kompaan Kameraad,Kompaan Kameraad,Pils & Hoppy Lager,Pays-Bas,Brouwerij Kompaan,33.0,5.0,24.0,60,20,20,60,0,2.49,3.23
+Lowlander White Ale,Lowlander White Ale,Bière Blanche,Pays-Bas,Lowlander,33.0,5.0,12.0,40,40,20,40,0,3.19,3.48
+Lowlander IPA,Lowlander IPA,IPA,Pays-Bas,Lowlander,33.0,6.0,70.0,60,40,0,60,40,3.19,3.77
+Kasteel Blonde,Kasteel Blonde,Bière Blonde,Belgique,Brouwerij Van Honsebrouck,33.0,7.0,,60,60,20,40,0,2.49,3.49
+Chouffe Soleil,Chouffe Soleil,Bière Blonde,Belgique,Brasserie d'Achouffe,33.0,6.0,20.0,60,60,20,40,0,2.49,3.73
+Leffe Blonde,Leffe Blonde,Bière Blonde,Belgique,Brasserie Artois,30.0,6.6,,60,60,60,0,20,2.39,3.71
+Lindemans Framboise,Lindemans Framboise,Bière Fruitée,Belgique,Brouwerij Lindemans,25.0,2.5,,60,60,60,20,0,2.49,3.94
+Palm,Palm,Pale Ale,Belgique,Brouwerij Palm,25.0,5.2,18.0,60,60,20,40,0,1.99,3.36
+Bronckhorster Slimme Rhakker,Bronckhorster Slimme Rhakker,Lager,Pays-Bas,Bronckhorster Brewing Company,33.0,2.5,26.0,60,60,20,60,0,3.19,3.11
+Crew Republic Foundation 11,Crew Republic Foundation 11,Pale Ale,Allemagne,Crew Republic,33.0,5.6,40.0,60,60,20,40,0,2.89,3.63
+Erdinger Hefeweizen,Erdinger Hefeweizen,Bière Weiss,Allemagne,Erdinger,50.0,5.3,,40,60,20,20,0,2.39,3.71
+Brouwerij Noordt Noordtsingle,Brouwerij Noordt Noordtsingle,Lager,Pays-Bas,Brouwerij Noordt,33.0,4.5,22.0,40,20,40,60,0,2.99,3.52
+Kees Pink Grapefruit IPA,Kees Pink Grapefruit IPA,IPA,Pays-Bas,Brouwerij Kees,33.0,5.5,65.0,80,40,20,80,20,2.99,3.46
+Brewdog Nanny State sans Alcool,Brewdog Nanny State sans Alcool,Lager,Royaume-Uni,Brewdog,33.0,0.5,45.0,60,40,20,60,0,2.49,2.82
+,,,,,,,,,,,,,,
+Brouwerij Noordt New England IPA,Brouwerij Noordt New England IPA,IPA,Pays-Bas,Brouwerij Noordt,33.0,3.0,20.0,40,40,20,20,0,,3.52
+"Budels Malty Dark 0,0%","Budels Malty Dark 0,0%",Bière Bock,Pays-Bas,Budelse Brouwerij,30.0,0.0,,40,60,20,20,0,1.79,1.85
+Affligem Patersvat,Affligem Patersvat,Bière Blonde,Belgique,Affligem,30.0,6.8,,60,60,20,60,0,2.59,3.5
+Cuvée des Trolls,Cuvée des Trolls,Bière Blonde,Belgique,Brasserie Dubuisson Freres,25.0,7.0,19.0,60,60,40,40,0,2.09,3.51
+De Dolle Oerbier,De Dolle Oerbier,Bière Quadruple,Belgique,,33.0,9.0,,80,60,40,20,0,3.39,3.86
+Jessenhofke MAYA,Jessenhofke MAYA,Bière Blonde,Belgique,Jessenhofke,33.0,6.0,33.0,60,60,20,40,0,2.79,3.24
+Liefmans Goudenband,Liefmans Goudenband,Bière Sour,Belgique,Liefmans,33.0,8.0,,80,40,80,20,0,2.89,3.83
+Mongozo Premium Pilsener,Mongozo Premium Pilsener,Pils & Hoppy Lager,Belgique,Huyghe,33.0,5.0,,40,60,20,40,0,,2.82
+Postel Dubbel,Postel Dubbel,Bière Double,Belgique,,33.0,7.0,,60,80,0,40,0,2.59,3.38
+Postel Tripel,Postel Tripel,Bière Triple,Belgique,,33.0,9.0,,60,60,20,40,0,,3.58
+Quintine Blonde,Quintine Blonde,Bière Blonde,Belgique,Brasserie des Légendes,33.0,8.0,,60,40,20,60,0,3.59,3.51
+Saison De Silly,Saison De Silly,Bière de Garde & Saison,Belgique,Brasserie de Silly,33.0,5.0,,60,60,40,20,0,2.09,3.32
+Scotch Silly,Scotch Silly,Bière Barley Wine,Belgique,Brasserie de Silly,33.0,8.0,,60,80,0,40,0,2.29,3.64
+St. Feuillien Brune,St. Feuillien Brune,Bière Double,Belgique,St. Feuillien,33.0,8.5,,60,60,0,40,0,2.49,3.57
+St. Feuillien Tripel,St. Feuillien Tripel,Bière Triple,Belgique,St. Feuillien,33.0,8.5,28.0,60,60,20,40,0,2.59,3.74
+Steenbrugge Blond,Steenbrugge Blond,Bière Blonde,Belgique,Brouwerij Palm,33.0,6.5,,60,60,20,40,0,2.79,3.45
+Fagnes Brune,Fagnes Brune,Bière Double,Belgique,Brasserie des Fagnes,33.0,7.5,,60,60,20,40,0,2.69,3.35
+Petrus Rood Bruin,Petrus Rood Bruin,Bière Sour,Belgique,Brouwerij De Brabandere,33.0,5.5,17.0,80,40,80,20,0,2.29,3.59
+Bird Brewery Lekkerinde Kauw,Bird Brewery Lekkerinde Kauw,Bière Bock,Pays-Bas,Bird Brewery,33.0,7.0,32.0,60,60,0,60,0,,3.55
+Wild Beer Co Modus Operandi,Wild Beer Co Modus Operandi,Bière Sour,Royaume-Uni,Wild Beer Company,33.0,7.0,,40,60,40,20,80,4.49,3.7
+Brewdog Elvis Juice,Brewdog Elvis Juice,Lager,Royaume-Uni,Brewdog,33.0,6.5,40.0,60,60,20,60,0,2.99,3.85
+La Trappe Blonde,La Trappe Blonde,Bière Blonde,Pays-Bas,La Trappe (La Brasserie De Koningshoeven),33.0,6.5,20.0,60,60,20,40,0,2.49,3.71
+Davo Tripel,Davo Tripel,Bière Triple,Pays-Bas,Davo Bieren,33.0,8.5,28.0,60,60,20,60,0,3.19,3.6
+Baladin Nora,Baladin Nora,Bière Blonde,Italie,Baladin,33.0,6.8,11.0,60,60,0,20,0,3.49,3.63
+Sapporo Premium Beer,Sapporo Premium Beer,Lager,Japon,,33.0,4.7,24.0,40,40,20,40,0,2.79,3.17
+Brlo Baltic Porter,Brlo Baltic Porter,Bière Porter & Stout,Allemagne,,33.0,7.0,30.0,60,60,0,60,0,2.89,3.47
+Hanscraft & Co. Bayerisch Nizza Weizen Pale Ale,Hanscraft & Co. Bayerisch Nizza Weizen Pale Ale,Bière Blanche,Allemagne,,33.0,5.0,35.0,60,40,20,60,0,2.99,3.57
+Pontus Brewing Siren's Song,Pontus Brewing Siren's Song,Pale Ale,Pays-Bas,,33.0,5.5,,40,40,20,40,0,2.75,3.41
+And Union Saturday Lager,And Union Saturday Lager,Lager,Allemagne,And Union,33.0,5.0,25.0,60,60,20,40,0,2.39,3.49
+BRLO Naked,BRLO Naked,Pale Ale,Allemagne,,33.0,0.2,40.0,40,60,0,60,0,2.49,3.25
+Van Moll Langharig tuig,Van Moll Langharig tuig,Bière Weiss,Pays-Bas,,33.0,5.5,,40,40,40,40,0,2.89,3.59
+Hoppebrau Wuida Hund,Hoppebrau Wuida Hund,Pils & Hoppy Lager,Allemagne,,33.0,4.5,38.0,60,40,0,60,0,2.79,3.44
+Brasserie De Sutter Crazy IPA,Brasserie De Sutter Crazy IPA,Lager,France,Brasserie de Sutter,33.0,6.5,35.0,80,60,20,60,20,2.99,3.4
+Herkenrode Noctis,Herkenrode Noctis,Bière Double,Belgique,,33.0,7.0,28.0,60,60,0,40,0,2.49,3.26
+Ardwen Woinic Rouge,Ardwen Woinic Rouge,Bière Fruitée,France,Ardwen,33.0,8.0,,60,100,40,20,0,2.99,3.07
+And Union Thursday Dark Lager,And Union Thursday Dark Lager,Lager,Allemagne,And Union,33.0,5.0,18.0,40,40,20,20,20,2.39,3.45
+Kompaan Bondgenoot,Kompaan Bondgenoot,Pale Ale,Pays-Bas,Brouwerij Kompaan,33.0,5.2,38.0,40,60,40,40,0,,3.32
+La Rouget De Lisle La Marseillaise,La Rouget De Lisle La Marseillaise,Bière de Garde & Saison,France,La Rouget de Lisle,33.0,6.0,,60,60,0,20,0,2.79,3.32
+Steamworks Killer Cucumber Ale,Steamworks Killer Cucumber Ale,Pale Ale,Canada,Steamworks Brewing Co.,33.0,4.7,25.0,60,40,0,60,0,2.99,3.41
+La Lager Sans Gluten de Vézelay,La Lager Sans Gluten de Vézelay,Lager,France,Brasserie de Vézelay,25.0,4.0,18.0,40,60,20,40,0,,2.78
+L'Ambrée Sans Gluten de Vézelay,L'Ambrée Sans Gluten de Vézelay,Bière Ambrée,France,Brasserie de Vézelay,25.0,5.6,17.0,60,60,0,60,0,2.69,3.04
+La Blonde Sans Gluten de Vézelay,La Blonde Sans Gluten de Vézelay,Bière Blonde,France,Brasserie de Vézelay,25.0,4.6,28.0,60,60,0,60,0,2.59,2.78
+La Blanche Sans Gluten de Vézelay,La Blanche Sans Gluten de Vézelay,Bière Weiss,France,Brasserie de Vézelay,25.0,4.4,14.0,40,60,20,20,0,2.69,2.97
+Brasserie Des Cimes IPA,Brasserie Des Cimes IPA,IPA,France,,33.0,5.0,,40,40,0,40,0,,3.13
+Atlantic Rubis des Gabariers,Atlantic Rubis des Gabariers,Bière Ambrée,France,Brasserie des Gabariers,33.0,6.0,,40,80,60,20,0,2.99,2.79
+Atlantic Blonde des Gabariers,Atlantic Blonde des Gabariers,Bière Blonde,France,Brasserie des Gabariers,33.0,5.0,,40,40,0,40,0,2.69,2.8
+Brand Weizen 0.0,Brand Weizen 0.0,Bière Weiss,Pays-Bas,Brand,30.0,0.0,12.0,60,60,20,20,0,1.79,2.96
+Mélusine Love and Flowers,Mélusine Love and Flowers,Bière Blanche,France,,33.0,4.2,,60,40,20,20,0,,3.18
+Brussel Beer Project Babylone,Brussel Beer Project Babylone,Bière Ambrée,Belgique,Brussels Beer Project,33.0,7.0,55.0,60,40,0,60,0,3.09,3.52
+Wolfscraft Brutal Alkoholfrei,Wolfscraft Brutal Alkoholfrei,Pils & Hoppy Lager,Allemagne,,33.0,0.4,,60,60,0,20,0,2.29,3.51
+Pêche Mel Bush,Pêche Mel Bush,Bière Fruitée,Belgique,Brasserie Dubuisson Freres,33.0,8.5,16.0,80,80,20,40,0,2.59,3.49
+Kapittel Watou Blond 6,Kapittel Watou Blond 6,Bière Blonde,Belgique,,33.0,6.5,,60,60,20,40,0,2.09,3.36
+Brothers In Law 0.5 Hoppy Lager,Brothers In Law 0.5 Hoppy Lager,Pils & Hoppy Lager,Pays-Bas,Brothers in Law,33.0,0.5,16.0,40,40,0,40,0,2.49,3.4
+Het Nest Schuppenboer,Het Nest Schuppenboer,Bière Triple,Belgique,,33.0,8.0,38.0,60,40,20,60,0,2.39,3.62
+St. Feuillien Saison,St. Feuillien Saison,Bière de Garde & Saison,Belgique,St. Feuillien,33.0,6.5,28.0,60,40,20,40,0,2.39,3.57
+Roman Gentse Strop,Roman Gentse Strop,Bière Blonde,Belgique,,33.0,6.9,,40,60,0,40,0,2.39,3.44
+Erdinger sans Alcool,Erdinger sans Alcool,Bière Weiss,Allemagne,Erdinger,33.0,0.5,,40,60,20,20,0,1.79,2.8
+Belfort 8°,Belfort 8°,Bière Blonde,Belgique,Belfort,33.0,8.0,24.0,60,60,0,60,0,2.99,3.47
+Gouden Carolus Triple,Gouden Carolus Triple,Bière Triple,Belgique,Brouwerij Het Anker,33.0,9.0,22.0,60,60,0,20,0,2.69,3.89
+Ename Blond,Ename Blond,Bière Blonde,Belgique,,33.0,6.5,,40,60,0,40,0,2.49,3.44
+Fagnes Tripel,Fagnes Tripel,Bière Triple,Belgique,Brasserie des Fagnes,33.0,9.0,,60,60,0,60,0,2.79,3.52
+Budels Honing Bio,Budels Honing Bio,Lager,Pays-Bas,Budelse Brouwerij,30.0,4.5,,60,60,0,20,0,2.19,3.08
+Jopen Koyt,Jopen Koyt,Bière Brune,Pays-Bas,Brouwerij Jopenkerk,33.0,8.5,18.0,80,60,20,40,0,2.89,3.65
+Rock City Beers Peach Squeezer,Rock City Beers Peach Squeezer,Bière Blanche,Pays-Bas,,33.0,4.0,,60,60,0,60,0,,3.48
+Van Moll Opgebokt!,Van Moll Opgebokt!,Bière Bock,Pays-Bas,,33.0,7.2,,,,,,,,3.48
+Gallia East IPA,Gallia East IPA,IPA,France,,33.0,6.0,,,,,,,2.89,3.8
+Gallia Carioca,Gallia Carioca,Bière Sour,France,,33.0,4.5,,,,,,,2.99,3.63
+"Gallia Mamie, La Ferme !","Gallia Mamie, La Ferme !",Bière de Garde & Saison,France,,33.0,5.9,,,,,,,2.99,3.35
+Oedipus Polyamorie,Oedipus Polyamorie,Bière Sour,Pays-Bas,Brasserie Oedipus,33.0,5.0,15.0,60,40,60,40,0,3.19,3.47
+Ninkasi Smoky Ale,Ninkasi Smoky Ale,Bière Ambrée,France,Ninkasi Fabriques,33.0,6.0,18.0,80,60,0,20,0,2.99,3.42
+Gebrouwen door Vrouwen Citrus Paradisi,Gebrouwen door Vrouwen Citrus Paradisi,Bière Blanche,Pays-Bas,Gebrouwen Door Vrouwen,33.0,4.8,5.0,80,60,0,40,0,3.09,3.8
+Lupulus Hibernatus,Lupulus Hibernatus,Bière Porter & Stout,Belgique,,33.0,9.5,35.0,80,80,0,40,60,2.69,3.72
+Brasseurs Savoyards Blonde,Brasseurs Savoyards Blonde,Bière Blonde,France,,33.0,5.0,32.0,60,40,0,80,0,2.75,3.03
+La rouget IPA,La rouget IPA,IPA,France,La Rouget de Lisle,33.0,6.0,,,,,,,,
+BM Signature #8,BM Signature #8,Bière Barley Wine,France,La Rouget de Lisle,33.0,8.5,15.0,60,0,0,0,0,,
+BM Signature #13,BM Signature #13,Bière Porter & Stout,France,La Rouget de Lisle,33.0,11.5,35.0,60,20,0,20,0,,
+Uddelaer 1.0,Uddelaer 1.0,Lager,Pays-Bas,,25.0,1.0,21.0,60,0,0,40,0,3.09,2.75
+Brussels Beer Project Juice Junky,Brussels Beer Project Juice Junky,IPA,Belgique,Brussels Beer Project,33.0,5.8,30.0,60,20,60,40,0,3.09,3.67
+Stone Neverending Haze,Stone Neverending Haze,IPA,Etats-Unis d'Amérique,Stone Brewing,36.0,4.0,35.0,60,0,0,60,0,2.69,3.72
+Stone Tangerine Express,Stone Tangerine Express,IPA,Etats-Unis d'Amérique,Stone Brewing,36.0,6.7,75.0,80,0,0,80,0,2.99,3.74
+Kees Pale Ale Citra,Kees Pale Ale Citra,Pale Ale,Pays-Bas,Brouwerij Kees,33.0,4.6,52.0,80,60,20,60,0,3.19,3.51
+Kehrwieder Kreativbrauerei SHIPA Ariana,Kehrwieder Kreativbrauerei SHIPA Ariana,IPA,Allemagne,,33.0,7.5,65.0,60,60,0,60,0,2.99,3.69
+Noordt Lagerlab Dubbel,Noordt Lagerlab Dubbel,Bière Double,Pays-Bas,,33.0,7.5,,,,,,,,
+Noordt Lagerlab Tripel,Noordt Lagerlab Tripel,Bière Triple,Pays-Bas,Brouwerij Noordt,33.0,8.1,25.0,60,40,0,40,0,,
+Les 3 Croquants Blonde des Croquants,Les 3 Croquants Blonde des Croquants,Bière Blonde,France,,33.0,4.3,,60,60,0,40,0,2.69,3.46
+Stadsbrouwerij 013 Kruikje Blond,Stadsbrouwerij 013 Kruikje Blond,Bière Blonde,Pays-Bas,,33.0,6.5,,,,,,,2.59,3.29
+Ninkasi Noire,Ninkasi Noire,Bière Porter & Stout,France,Ninkasi Fabriques,33.0,5.1,,60,60,0,40,20,2.99,3.38
+Chimay Rouge,Chimay Rouge,Bière Double,Belgique,Chimay,33.0,7.0,,60,60,0,40,40,2.49,3.82
+Bliksem Kermis In De Ale,Bliksem Kermis In De Ale,Lager,Pays-Bas,Brouwerij Bliksem,33.0,7.3,70.0,60,40,0,80,20,2.99,3.5
+Brewdog Jack Hammer,Brewdog Jack Hammer,IPA,Royaume-Uni,Brewdog,33.0,7.2,220.0,100,60,20,100,0,2.99,3.92
+Jopen Hoppenbier,Jopen Hoppenbier,Bière Blonde,Pays-Bas,Brouwerij Jopenkerk,33.0,6.8,40.0,60,20,20,60,0,2.69,3.54
+vandeStreek Broeders,vandeStreek Broeders,Bière Blonde,Pays-Bas,vandeStreek,33.0,6.0,45.0,40,60,20,20,0,,3.42
+Kees American Barley Wine,Kees American Barley Wine,Bière Barley Wine,Pays-Bas,Brouwerij Kees,33.0,11.5,70.0,80,80,20,60,40,3.29,3.76
+Meantime Chocolate Porter,Meantime Chocolate Porter,Bière Porter & Stout,Royaume-Uni,Meantime Brewing,33.0,6.5,,60,60,0,40,0,3.49,3.66
+Newcastle Brown Ale,Newcastle Brown Ale,Bière Brune,Royaume-Uni,Scottish Newcastle,33.0,4.7,18.0,60,40,60,40,20,2.19,3.42
+Crew Republic Roundhouse Kick,Crew Republic Roundhouse Kick,Bière Porter & Stout,Allemagne,Crew Republic,33.0,9.2,,80,100,0,40,60,3.49,3.78
+Pilsner Urquell,Pilsner Urquell,,République Tchèque,Pilsen Breweries,33.0,4.4,40.0,60,40,20,60,0,2.49,3.35
+Budweiser Budvar Original,Budweiser Budvar Original,Pils & Hoppy Lager,République Tchèque,Budějovický Brewery,33.0,5.0,22.0,40,40,20,60,0,2.39,3.28
+Thornbridge Jaipur,Thornbridge Jaipur,IPA,Royaume-Uni,Thornbridge,33.0,5.9,,80,60,20,80,0,3.59,3.95
+Gulpener Château Neubourg,Gulpener Château Neubourg,Pils & Hoppy Lager,Pays-Bas,Brouwerij Gulpener,33.0,5.5,33.0,40,60,20,60,0,,3.26
+Kompaan Joey Greenhorn,Kompaan Joey Greenhorn,IPA,Pays-Bas,Brouwerij Kompaan,33.0,6.0,60.0,60,40,20,60,0,2.99,3.67
+Bird Brewery Datsmaaktnaar Meerkoet,Bird Brewery Datsmaaktnaar Meerkoet,Bière Brune,Pays-Bas,Bird Brewery,33.0,6.8,35.0,60,80,0,40,0,,3.49
+Bird Brewery De Rumoerige Roodborst,Bird Brewery De Rumoerige Roodborst,Bière Ambrée,Pays-Bas,Bird Brewery,33.0,5.8,34.0,60,60,0,60,0,2.99,3.58
+Dampegheest Zware Hufter,Dampegheest Zware Hufter,Bière Barley Wine,Pays-Bas,Brouwerij Dampegheest,33.0,10.0,,80,60,20,40,20,3.29,3.47
+Jopen Hop zij met ons,Jopen Hop zij met ons,IPA,Pays-Bas,Brouwerij Jopenkerk,33.0,6.0,65.0,80,40,40,80,0,3.19,3.49
+Brand Zwaar Blond,Brand Zwaar Blond,Bière Blonde,Pays-Bas,Brand,30.0,8.5,36.0,60,60,0,40,0,1.99,3.65
+De Eeuwige Jeugd Bullebak,De Eeuwige Jeugd Bullebak,Bière Triple,Pays-Bas,Brouwerij De Eeuwige Jeugd,33.0,7.7,,40,60,0,60,0,3.29,3.53
+Brouwerij Noordt Herrie,Brouwerij Noordt Herrie,Lager,Pays-Bas,Brouwerij Noordt,33.0,4.0,20.0,40,40,40,40,0,2.89,3.28
+De Leckere Razende Swaen,De Leckere Razende Swaen,Bière Triple,Pays-Bas,Brouwerij De Leckere,33.0,8.0,,40,60,0,40,0,2.39,3.4
+De Leckere Blauwe Bijl,De Leckere Blauwe Bijl,Bière Barley Wine,Pays-Bas,Brouwerij De Leckere,25.0,10.0,,80,80,0,60,0,2.89,3.49
+De Leckere Crom Hout,De Leckere Crom Hout,Bière Double,Pays-Bas,Brouwerij De Leckere,25.0,6.5,,40,60,20,20,20,2.49,3.25
+Bruut FIER.3,Bruut FIER.3,IPA,Pays-Bas,Bruut Bier,33.0,4.3,35.0,40,0,0,60,0,2.79,3.5
+Tre Fontane Trappistenbier,Tre Fontane Trappistenbier,Bière Triple,Italie,Abdij Tre Fontane,33.0,8.0,30.0,80,60,0,60,0,6.99,3.66
+Berging Brouwerij B4 Saison,Berging Brouwerij B4 Saison,Bière de Garde & Saison,Pays-Bas,Berging Brouwerij,33.0,5.5,26.0,40,40,20,40,0,,
+Brussels Beer Project Red My Lips,Brussels Beer Project Red My Lips,IPA,Belgique,Brussels Beer Project,33.0,4.7,35.0,60,20,0,60,0,2.79,3.38
+Caracole Ambre,Caracole Ambre,Bière Ambrée,Belgique,Brasserie Caracole,33.0,7.9,,60,60,20,20,0,2.49,3.39
+De Ranke XX Bitter,De Ranke XX Bitter,IPA,Belgique,De Ranke,33.0,6.0,60.0,60,40,0,80,0,2.59,3.56
+Delirium Tremens,Delirium Tremens,Bière Blonde,Belgique,Huyghe,33.0,8.5,26.0,60,80,0,40,0,2.69,3.94
+Goliath Blond,Goliath Blond,Bière Blonde,Belgique,Brasserie des Légendes,33.0,6.0,,60,60,20,40,0,2.49,3.37
+Gulden Draak Quadruple,Gulden Draak Quadruple,Bière Quadruple,Belgique,Brouwerij Van Steenberge,33.0,10.5,25.0,60,80,0,20,0,2.69,3.94
+Het Nest Hertenheer,Het Nest Hertenheer,Bière Blonde,Belgique,,33.0,4.8,85.0,60,60,20,60,0,2.29,3.32
+Hof Ten Dormaal Blond,Hof Ten Dormaal Blond,Bière Blonde,Belgique,Brouwerij Hof Ten Dormaal,33.0,8.0,,60,60,20,40,0,3.09,3.5
+Kasteel Donker,Kasteel Donker,Bière Quadruple,Belgique,Brouwerij Van Honsebrouck,33.0,11.0,14.0,60,80,0,20,0,2.79,3.69
+Liefmans Fruitesse,Liefmans Fruitesse,Bière Fruitée,Belgique,Liefmans,25.0,3.8,,80,80,40,20,0,2.29,3.34
+Liefmans Yell'oh,Liefmans Yell'oh,Bière Fruitée,Belgique,Liefmans,25.0,3.8,,60,80,40,20,0,2.19,2.84
+Lupulus Hopera,Lupulus Hopera,Pale Ale,Belgique,,33.0,6.0,30.0,60,40,20,60,0,2.59,3.56
+Malheur 10,Malheur 10,Bière Blonde,Belgique,Brewery De Landtsheer,33.0,10.0,,60,60,20,40,0,2.89,3.73
+Paix Dieu Abdijbier,Paix Dieu Abdijbier,Bière Triple,Belgique,Brasserie Caulier,33.0,10.0,,60,60,0,20,0,3.09,3.89
+Quintine Hercule,Quintine Hercule,Bière Porter & Stout,Belgique,Brasserie des Légendes,33.0,9.0,44.0,80,60,20,40,0,3.19,3.63
+Sainte Hélène Gypsy Rose,Sainte Hélène Gypsy Rose,Bière Triple,Belgique,Brasserie Sainte-Hélène,33.0,9.0,42.0,40,60,0,40,0,3.39,3.45
+St. Bernardus Wit,St. Bernardus Wit,Bière Blanche,Belgique,St. Bernardus Brouwerij,33.0,5.5,,60,40,20,20,0,2.09,3.67
+St. Feuillien Grand Cru,St. Feuillien Grand Cru,Bière Blonde,Belgique,St. Feuillien,33.0,9.5,,60,60,20,40,0,2.59,3.79
+Stouterik,Stouterik,Bière Porter & Stout,Belgique,,33.0,4.5,,80,60,20,80,20,,3.39
+Ter Dolen Kriek,Ter Dolen Kriek,Bière Fruitée,Belgique,Ter Dolen,33.0,4.5,,60,80,40,20,0,2.69,3.5
+Torpah 60,Torpah 60,,Belgique,,33.0,6.0,64.0,60,60,0,60,0,2.99,3.29
+Troubadour Westkust,Troubadour Westkust,IPA,Belgique,Brouwerij The Musketeers,33.0,8.5,55.0,60,40,20,60,0,2.79,3.82
+Baxbier Oma's Pruim,Baxbier Oma's Pruim,Bière Bock,Pays-Bas,Bax Bier Brouwerij,33.0,6.5,,40,80,20,40,0,,
+Maneblusser Herfstbok,Maneblusser Herfstbok,Bière Bock,Belgique,Brouwerij Het Anker,33.0,6.5,,40,60,0,20,0,,
+Weihenstephaner Vitus,Weihenstephaner Vitus,Bière Bock,Allemagne,Bayerische Staatsbrauerei Weihenstephan,50.0,7.7,17.0,60,60,20,20,0,2.89,3.93
+Weihenstephaner Korbinian,Weihenstephaner Korbinian,Bière Bock,Allemagne,Bayerische Staatsbrauerei Weihenstephan,50.0,7.4,32.0,60,60,20,20,0,2.89,3.84
+Walhalla Heimdall,Walhalla Heimdall,Bière Bock,Pays-Bas,Walhalla Craft Beer,33.0,8.5,38.0,60,60,20,60,40,3.29,3.76
+Bronckhorster Ijsselbock,Bronckhorster Ijsselbock,Bière Bock,Pays-Bas,Bronckhorster Brewing Company,33.0,7.0,26.0,60,60,20,60,0,,3.52
+Schneider Aventinus Eisbock,Schneider Aventinus Eisbock,Bière Bock,Allemagne,,33.0,12.0,15.0,80,60,0,40,0,,3.92
+Muifel D'n Ossebock,Muifel D'n Ossebock,Bière Bock,Pays-Bas,Muifelbrouwerij,33.0,7.0,40.0,60,40,20,60,0,,3.66
+Brouwerij Noordt Bok,Brouwerij Noordt Bok,Bière Bock,Pays-Bas,Brouwerij Noordt,33.0,7.0,25.0,80,0,0,20,0,3.09,3.5
+Het Uiltje FF Lekker Met Je Bek In Het Zonnetje,Het Uiltje FF Lekker Met Je Bek In Het Zonnetje,IPA,Pays-Bas,Brouwerij Het Uiltje,33.0,3.6,30.0,60,40,20,60,0,2.69,3.49
+Moor Nor'Hop,Moor Nor'Hop,Pale Ale,Royaume-Uni,,33.0,4.1,35.0,60,40,0,40,0,2.69,3.7
+Fourpure Shapeshifter IPA,Fourpure Shapeshifter IPA,IPA,Royaume-Uni,Fourpure,33.0,5.9,60.0,60,20,0,60,0,2.69,3.79
+Wild Beer Co Fresh,Wild Beer Co Fresh,Pale Ale,Royaume-Uni,Wild Beer Company,33.0,5.5,65.0,40,40,0,40,0,2.89,3.7
+Magic Rock High Wire,Magic Rock High Wire,Pale Ale,Royaume-Uni,,33.0,5.5,35.0,60,40,40,60,0,2.89,3.8
+Brewdog Vagabond,Brewdog Vagabond,Pale Ale,Royaume-Uni,Brewdog,33.0,4.5,55.0,60,40,0,80,0,3.19,3.49
+BrewDog Jet Black Heart,BrewDog Jet Black Heart,Bière Porter & Stout,Royaume-Uni,Brewdog,33.0,4.7,30.0,60,60,20,60,0,3.65,3.76
+Wild Beer Co Madness,Wild Beer Co Madness,IPA,Royaume-Uni,Wild Beer Company,33.0,6.8,72.0,80,40,0,80,0,2.69,3.8
+Magic Rock Inhaler,Magic Rock Inhaler,IPA,Royaume-Uni,,33.0,4.5,55.0,40,40,0,40,0,2.89,3.8
+Siren Pompelmocello,Siren Pompelmocello,IPA,Royaume-Uni,,33.0,6.0,30.0,60,20,20,20,0,3.59,3.76
+Brewdog Five AM Saint,Brewdog Five AM Saint,Bière Ambrée,Royaume-Uni,Brewdog,33.0,5.0,25.0,60,60,20,40,0,2.49,3.66
+First Chop POD,First Chop POD,Bière Porter & Stout,Royaume-Uni,First Chop Brewing Arm,33.0,4.2,14.0,60,60,0,20,20,2.49,3.51
+First Chop JAM,First Chop JAM,Pale Ale,Royaume-Uni,First Chop Brewing Arm,33.0,4.0,27.0,80,40,0,60,0,2.89,3.14
+Cornet,Cornet,Bière Blonde,Belgique,Brouwerij Palm,33.0,8.5,18.0,80,60,40,40,0,2.79,3.66
+Hoop Oudt Heyn,Hoop Oudt Heyn,Bière Barley Wine,Pays-Bas,Brouwerij Hoop,33.0,9.2,60.0,60,40,20,40,0,3.39,3.51
+St. Feuillien Noël,St. Feuillien Noël,Bière Brune,Belgique,St. Feuillien,33.0,9.0,,80,60,0,40,20,2.59,3.58
+Cinema Brewers King Kong,Cinema Brewers King Kong,Bière Triple,Pays-Bas,Cinema Brewers,33.0,8.0,33.0,60,60,20,20,0,3.29,3.4
+Lowlander Winter Ale,Lowlander Winter Ale,Bière Brune,Pays-Bas,Lowlander,33.0,6.0,37.0,80,60,20,60,20,2.79,3.02
+Het Uiltje Most Wonderful Time For A Beer,Het Uiltje Most Wonderful Time For A Beer,Bière Brune,Pays-Bas,Brouwerij Het Uiltje,33.0,10.0,20.0,80,60,20,40,0,3.19,3.68
+Butcher's Tears Pantagruel,Butcher's Tears Pantagruel,Bière Ambrée,Pays-Bas,Butcher's Tears,33.0,5.6,,60,60,0,40,0,,
+Harviestoun Ola Dubh 18 ans,Harviestoun Ola Dubh 18 ans,Bière Porter & Stout,Royaume-Uni,,33.0,8.0,40.0,100,80,20,60,40,5.99,3.88
+Harviestoun Old Engine Oil,Harviestoun Old Engine Oil,Bière Porter & Stout,Royaume-Uni,,33.0,6.0,40.0,80,60,0,40,20,3.09,3.8
+Hite Pale Lager,Hite Pale Lager,Lager,Corée du Sud,,33.0,4.3,,40,60,0,20,0,2.29,2.72
+Chang Beer,Chang Beer,Lager,Thaïlande,,32.0,5.0,,40,60,20,20,0,2.39,2.93
+Troost Winterbier,Troost Winterbier,Bière Quadruple,Pays-Bas,Brouwerij Troost,33.0,9.0,30.0,80,80,0,20,20,,3.63
+Welde Hop Stuff,Welde Hop Stuff,IPA,Allemagne,,33.0,5.6,18.0,40,60,0,40,0,2.59,3.53
+Welde No. 1,Welde No. 1,Pils & Hoppy Lager,Allemagne,,33.0,4.8,26.0,40,20,0,60,0,2.29,3.35
+Colomba,Colomba,Bière Blanche,France,,33.0,5.0,,40,60,20,20,0,2.69,3.23
+Kehrwieder Kreativbrauerei Prototyp Lager,Kehrwieder Kreativbrauerei Prototyp Lager,Pils & Hoppy Lager,Allemagne,,33.0,5.9,25.0,60,40,20,40,0,,3.76
+La Débauche Big Boy,La Débauche Big Boy,Bière Porter & Stout,France,Brasserie La Débauche,33.0,12.0,,80,60,20,60,20,4.99,3.97
+Het Uiltje Schwarzwalder Kirsch,Het Uiltje Schwarzwalder Kirsch,Bière Porter & Stout,Pays-Bas,Brouwerij Het Uiltje,33.0,8.0,65.0,80,60,0,60,0,3.49,3.73
+Bird Brewery / De Natte Gijt Gijtlijster,Bird Brewery / De Natte Gijt Gijtlijster,IPA,Pays-Bas,Bird Brewery,33.0,6.4,56.0,60,60,0,60,0,2.69,3.55
+Beavertown Neck Oil,Beavertown Neck Oil,IPA,Royaume-Uni,,33.0,4.3,31.0,80,60,20,60,0,2.99,3.75
+Frontaal Freehand,Frontaal Freehand,Bière Blonde,Pays-Bas,Brouwerij Frontaal,33.0,7.2,24.0,60,40,60,20,0,3.19,3.4
+Het Uiltje Dr. Raptor,Het Uiltje Dr. Raptor,IPA,Pays-Bas,Brouwerij Het Uiltje,33.0,9.2,75.0,80,60,0,80,0,3.49,3.85
+De Natte Gijt Stoute Gijt,De Natte Gijt Stoute Gijt,Bière Porter & Stout,Pays-Bas,Brouwerij de Natte Gijt,33.0,8.8,85.0,80,40,0,80,40,2.75,3.58
+Pontus Brewing Gigantic Sailor Double IPA,Pontus Brewing Gigantic Sailor Double IPA,IPA,Pays-Bas,,33.0,8.0,,80,60,0,60,0,3.19,3.61
+Ninkasi Blanche,Ninkasi Blanche,Bière Blanche,France,Ninkasi Fabriques,33.0,4.8,,60,60,0,20,0,2.69,3.42
+Het Uiltje Bird of Prey IPA,Het Uiltje Bird of Prey IPA,IPA,Pays-Bas,Brouwerij Het Uiltje,33.0,5.8,50.0,80,60,20,60,0,2.89,3.68
+Vandeoirsprong OPA,Vandeoirsprong OPA,IPA,Pays-Bas,Brouwerij Vandeoirsprong,33.0,6.1,,60,40,0,60,0,2.99,3.35
+Magic Rock High Wire Grapefruit,Magic Rock High Wire Grapefruit,Pale Ale,Royaume-Uni,,33.0,5.5,,60,40,20,60,0,2.89,3.71
+Texels Noorderwiend,Texels Noorderwiend,Bière Brune,Pays-Bas,Texels,30.0,7.5,,60,60,0,40,0,,3.5
+Texels Eyerlander,Texels Eyerlander,Pale Ale,Pays-Bas,Texels,30.0,5.5,18.0,60,60,0,40,0,2.59,3.39
+Samuel Smith Taddy Porter,Samuel Smith Taddy Porter,Bière Porter & Stout,Royaume-Uni,,55.0,5.0,32.0,60,60,20,60,0,3.69,3.71
+Kees Spring Blossom Pale Ale,Kees Spring Blossom Pale Ale,Pale Ale,Pays-Bas,Brouwerij Kees,33.0,6.5,50.0,60,60,0,60,0,2.69,3.29
+Thornbridge Wild Swan,Thornbridge Wild Swan,Pale Ale,Royaume-Uni,Thornbridge,33.0,3.5,,40,40,0,40,0,2.59,3.38
+Ardwen Hop's Cure,Ardwen Hop's Cure,Bière Triple,France,Ardwen,33.0,7.5,,60,40,20,40,0,2.79,3.39
+First Chop SYL,First Chop SYL,IPA,Royaume-Uni,First Chop Brewing Arm,33.0,6.2,,80,60,20,60,0,3.29,3.58
+Kompaan Boris The Butcher,Kompaan Boris The Butcher,Bière Porter & Stout,Pays-Bas,Brouwerij Kompaan,33.0,9.5,,80,60,0,40,20,,
+Rock City Beers Amersfoort Pale Ale,Rock City Beers Amersfoort Pale Ale,Pale Ale,Pays-Bas,,33.0,5.8,48.0,80,60,20,60,0,2.49,3.65
+Vandestreek Zonnesteek,Vandestreek Zonnesteek,Bière Bock,Pays-Bas,vandeStreek,33.0,6.0,43.0,60,20,40,60,0,2.89,3.33
+Brasserie De Sutter Folle FurieuZ,Brasserie De Sutter Folle FurieuZ,Bière Triple,France,Brasserie de Sutter,33.0,9.0,,40,80,20,20,0,2.89,3.52
+Tempest Brave New World,Tempest Brave New World,IPA,Royaume-Uni,,33.0,7.4,50.0,80,60,0,60,0,3.89,3.86
+Stanislaus Brewskovitch TUKR.,Stanislaus Brewskovitch TUKR.,IPA,Pays-Bas,Stanislaus Brewskovitch,33.0,5.0,57.0,60,40,0,60,0,3.09,3.36
+Oersoep Blanco,Oersoep Blanco,Bière de Garde & Saison,Pays-Bas,,33.0,5.0,,40,40,20,40,0,2.99,3.34
+Maallust Zware Jongen,Maallust Zware Jongen,Bière Triple,Pays-Bas,,30.0,8.7,35.0,80,60,0,60,0,2.99,3.66
+Gulpener Spicy Roger,Gulpener Spicy Roger,IPA,Pays-Bas,,30.0,8.0,,60,60,20,60,0,2.69,3.43
+Troost Tripel,Troost Tripel,Bière Triple,Pays-Bas,Brouwerij Troost,33.0,7.5,30.0,60,40,0,40,0,2.65,3.56
+First Chop HOP,First Chop HOP,IPA,Royaume-Uni,First Chop Brewing Arm,33.0,4.1,,60,40,0,60,0,2.49,3.4
+Frankendael Three Idiots Tripel Spiced (T.I.T.S.),Frankendael Three Idiots Tripel Spiced (T.I.T.S.),Bière Triple,Pays-Bas,Brouwerij Frankendael,33.0,9.5,18.0,80,60,0,40,0,3.09,3.5
+O'Hara's Pale Ale,O'Hara's Pale Ale,Pale Ale,Irlande,,33.0,5.2,50.0,60,40,0,80,0,2.49,3.43
+vandeStreek Koper,vandeStreek Koper,Bière de Garde & Saison,Pays-Bas,vandeStreek,33.0,7.0,20.0,60,40,20,40,0,2.55,3.41
+Stanislaus Brewskovitch Barry Weizen,Stanislaus Brewskovitch Barry Weizen,Bière Weiss,Pays-Bas,Stanislaus Brewskovitch,33.0,5.2,18.0,40,40,20,20,0,2.89,3.41
+Gebrouwen Door Vrouwen Zonnig Zeewit,Gebrouwen Door Vrouwen Zonnig Zeewit,Bière Blanche,Pays-Bas,Gebrouwen Door Vrouwen,33.0,3.8,,40,20,0,40,20,2.99,3.21
+Steamworks Pale Ale,Steamworks Pale Ale,Pale Ale,Canada,Steamworks Brewing Co.,33.0,5.2,40.0,60,60,0,60,0,2.99,3.5
+Seven Bro7hers Easy IPA,Seven Bro7hers Easy IPA,IPA,Royaume-Uni,,33.0,4.7,,60,40,0,60,0,2.69,3.49
+Wild Beer Pogo,Wild Beer Pogo,Pale Ale,Royaume-Uni,Wild Beer Company,33.0,4.1,23.0,60,60,20,40,0,2.89,3.69
+Le Stout de Vézelay,Le Stout de Vézelay,Bière Porter & Stout,France,Brasserie de Vézelay,25.0,5.5,25.0,80,40,20,60,20,2.69,3.57
+Troost Virgin IPA,Troost Virgin IPA,IPA,Pays-Bas,Brouwerij Troost,33.0,0.5,28.0,60,40,0,60,0,2.29,2.71
+Cinema Brewers Dancing Dirty,Cinema Brewers Dancing Dirty,Pale Ale,Pays-Bas,Cinema Brewers,33.0,5.3,19.0,60,60,20,40,0,2.79,3.58
+La Lager de Vézelay,La Lager de Vézelay,Lager,France,Brasserie de Vézelay,50.0,4.0,18.0,40,40,20,40,0,3.89,3.1
+Fourpure Last Train Oatmeal Stout,Fourpure Last Train Oatmeal Stout,Bière Porter & Stout,Royaume-Uni,Fourpure,33.0,5.1,28.0,60,40,0,40,0,2.79,3.63
+Het Nest Dead Man's Hand,Het Nest Dead Man's Hand,Bière Porter & Stout,Belgique,,33.0,10.0,80.0,80,60,20,80,0,2.89,3.77
+100 Watt 40 Watt,100 Watt 40 Watt,Bière Blonde,Pays-Bas,Stadsbrouwerij Eindhoven,33.0,5.8,30.0,60,40,0,40,0,2.79,3.45
+Brasserie Des Cimes Cime,Brasserie Des Cimes Cime,Bière Blonde,France,,33.0,5.2,,60,60,0,40,0,2.79,2.95
+100 Watt 75 Watt,100 Watt 75 Watt,Bière Triple,Pays-Bas,Stadsbrouwerij Eindhoven,33.0,8.0,30.0,60,60,0,40,0,2.89,3.48
+Brasserie Des Cimes Piste Noire,Brasserie Des Cimes Piste Noire,Bière de Garde & Saison,France,,33.0,5.9,,40,60,0,40,40,,3.21
+La Verte du Mont Blanc,La Verte du Mont Blanc,Bière Blonde,France,Mont-Blanc,33.0,5.9,,60,40,20,40,0,2.79,2.83
+Kompaan Badgast 0.5%,Kompaan Badgast 0.5%,Pale Ale,Pays-Bas,Brouwerij Kompaan,30.0,0.5,18.0,60,60,20,40,0,2.29,3.38
+Omer Roodbruin,Omer Roodbruin,Bière Sour,Belgique,,25.0,5.5,20.0,80,40,80,0,0,1.69,3.73
+Jacobins Kriek,Jacobins Kriek,Bière Fruitée,Belgique,,25.0,4.5,,60,60,60,20,0,1.79,3.91
+Brouwerij 'T Verzet Golden Tricky,Brouwerij 'T Verzet Golden Tricky,IPA,Belgique,,33.0,7.5,40.0,20,60,0,20,0,2.59,3.52
+Steenuilke,Steenuilke,Bière Blonde,Belgique,,33.0,6.5,30.0,60,40,0,60,0,2.49,3.47
+Lindemans Faro,Lindemans Faro,Bière Sour,Belgique,Brouwerij Lindemans,25.0,4.5,,60,60,20,60,0,2.19,3.54
+Bosbier,Bosbier,Bière Fruitée,Belgique,,25.0,4.5,13.0,80,80,0,20,0,2.19,2.74
+Brouwerij 'T Verzet Rebel Local,Brouwerij 'T Verzet Rebel Local,IPA,Pays-Bas,,33.0,8.5,47.0,80,80,0,80,0,2.69,3.43
+Wild Beer Co Nebula,Wild Beer Co Nebula,IPA,Royaume-Uni,Wild Beer Company,33.0,5.0,,60,60,20,20,0,3.09,3.66
+Camba Märzen,Camba Märzen,Lager,Allemagne,,50.0,5.6,16.0,40,60,0,40,0,2.69,3.49
+Hoop Awesome Autumn Rum Bock,Hoop Awesome Autumn Rum Bock,Bière Bock,Pays-Bas,Brouwerij Hoop,33.0,6.9,28.0,60,60,0,20,20,,
+Mélusine,Mélusine,Bière Blonde,France,,33.0,6.5,,60,60,0,40,0,2.69,3.26
+Mélusine Barbe Bleue,Mélusine Barbe Bleue,Bière Porter & Stout,France,,33.0,7.0,,80,40,0,60,40,2.69,3.26
+Abbaye des Rocs Triple Impériale,Abbaye des Rocs Triple Impériale,Bière Quadruple,Belgique,Abbaye des Rocs,33.0,10.0,,60,80,0,40,0,2.59,3.72
+Weihenstephaner Festbier,Weihenstephaner Festbier,Lager,Allemagne,Bayerische Staatsbrauerei Weihenstephan,50.0,5.8,26.0,40,60,0,40,0,2.79,3.59
+Oedipus / Kees Starter,Oedipus / Kees Starter,Bière Sour,Pays-Bas,Brasserie Oedipus,33.0,4.0,,60,40,80,20,0,2.69,3.55
+Five Points Pale,Five Points Pale,Pale Ale,Royaume-Uni,Five Points Brewing Company,33.0,4.4,50.0,60,40,0,80,0,,
+Brixton Low Voltage,Brixton Low Voltage,IPA,Royaume-Uni,,33.0,4.3,40.0,40,40,20,60,0,,
+Moor RAW,Moor RAW,Pale Ale,Royaume-Uni,,33.0,4.3,,60,40,0,80,0,2.69,3.69
+Five Points XPA,Five Points XPA,Pale Ale,Royaume-Uni,Five Points Brewing Company,33.0,4.0,,60,40,0,80,0,,
+Silly Pils Bio,Silly Pils Bio,Pils & Hoppy Lager,Belgique,Brasserie de Silly,25.0,5.0,,40,60,20,40,0,1.89,2.85
+Silly Triple Swaf,Silly Triple Swaf,Bière Triple,Belgique,Brasserie de Silly,33.0,8.0,,80,60,20,40,0,2.69,3.31
+Vandestreek Four Stroke Quad,Vandestreek Four Stroke Quad,Bière Quadruple,Pays-Bas,vandeStreek,33.0,9.2,,60,60,0,20,0,2.89,3.52
+Les 3 Croquants Brune du Leberou,Les 3 Croquants Brune du Leberou,Bière Brune,France,,33.0,5.2,,0,40,20,60,0,2.89,3.32
+Founders Centennial IPA,Founders Centennial IPA,IPA,Etats-Unis d'Amérique,,36.0,7.2,65.0,60,60,0,80,0,3.29,3.79
+Founders KBS,Founders KBS,Bière Porter & Stout,Etats-Unis d'Amérique,,36.0,12.3,70.0,100,80,0,80,40,7.99,4.45
+Brixton Atlantic APA,Brixton Atlantic APA,Pale Ale,Royaume-Uni,,33.0,5.4,45.0,60,40,0,60,0,,
+Brewdog Cybernaut,Brewdog Cybernaut,IPA,Royaume-Uni,Brewdog,33.0,4.5,30.0,40,40,0,40,0,,
+Montagnarde,Montagnarde,Bière Quadruple,Belgique,Abbaye des Rocs,33.0,9.0,,40,80,20,20,20,2.29,3.51
+De Leckere Resurrection,De Leckere Resurrection,Bière Brune,Pays-Bas,Brouwerij De Leckere,25.0,5.5,,80,60,0,40,0,,
+Les Brassés Qui Mousse n'amasse pas Rousse,Les Brassés Qui Mousse n'amasse pas Rousse,Bière Ambrée,France,,33.0,5.6,,40,40,0,40,0,3.0,3.26
+Colomba Rosée,Colomba Rosée,Bière Fruitée,France,,33.0,4.5,,40,60,20,20,0,2.49,2.7
+Guinness Nitro IPA,Guinness Nitro IPA,IPA,Irlande,,44.0,5.8,44.0,60,40,0,60,0,2.89,3.03
+Kraftbier Het Witte Kasteel,Kraftbier Het Witte Kasteel,Bière Triple,Pays-Bas,,33.0,8.0,27.0,60,40,0,60,0,2.99,3.55
+De 7 Deugden Scherp + Zinnig,De 7 Deugden Scherp + Zinnig,Pils & Hoppy Lager,Pays-Bas,,33.0,5.0,35.0,60,40,0,60,0,2.59,3.14
+Bellfield Session Ale,Bellfield Session Ale,Pale Ale,Royaume-Uni,Bellfield Brewery Ltd,33.0,3.8,,40,40,0,40,0,,
+Strubbe Keyte Oostendse Tripel,Strubbe Keyte Oostendse Tripel,Bière Triple,Belgique,,33.0,7.7,,60,60,20,60,0,2.39,3.45
+Choulette de Printemps,Choulette de Printemps,Bière de Garde & Saison,France,,33.0,6.0,,40,60,0,40,0,2.39,3.23
+Hoop Sweet Spring Bison Grass Bock,Hoop Sweet Spring Bison Grass Bock,Bière Bock,Pays-Bas,Brouwerij Hoop,33.0,6.6,25.0,60,40,0,60,0,2.49,3.39
+Bronckhorster James Blond,Bronckhorster James Blond,Bière Blonde,Pays-Bas,Bronckhorster Brewing Company,33.0,6.0,,60,60,20,40,0,3.29,3.61
+Cherry Chouffe,Cherry Chouffe,Bière Sour,Belgique,Brasserie d'Achouffe,33.0,8.0,10.0,40,100,20,20,0,2.59,3.35
+Musa Mick Lager,Musa Mick Lager,Pils & Hoppy Lager,Portugal,,33.0,4.5,20.0,40,40,20,20,0,2.59,3.32
+Peroni Nastro Azzurro,Peroni Nastro Azzurro,Lager,Italie,,33.0,5.1,,40,40,0,40,0,2.49,3.14
+Ninkasi Hell of a Saison,Ninkasi Hell of a Saison,Bière de Garde & Saison,France,Ninkasi Fabriques,33.0,6.0,,60,60,0,40,0,,
+Oedipus Avatar,Oedipus Avatar,Pils & Hoppy Lager,Pays-Bas,Brasserie Oedipus,33.0,4.5,,0,40,20,60,0,2.49,3.5
+Choulette Blonde,Choulette Blonde,Bière Blonde,France,,33.0,7.5,,40,60,0,0,0,2.49,3.34
+Five Points Railway Porter,Five Points Railway Porter,Bière Porter & Stout,Royaume-Uni,Five Points Brewing Company,33.0,4.8,,,,,,,2.69,3.74
+La Débauche IPA,La Débauche IPA,IPA,France,Brasserie La Débauche,33.0,6.0,,80,40,0,80,0,3.29,3.66
+La Débauche Black Ale India Stout,La Débauche Black Ale India Stout,IPA,France,Brasserie La Débauche,33.0,8.0,,100,60,20,80,0,3.09,3.79
+Poesiat & Kater Little Smuling,Poesiat & Kater Little Smuling,IPA,Pays-Bas,Poesiat & Kater,33.0,3.1,56.0,60,60,40,80,0,2.89,3.44
+Poesiat & Kater Smuling,Poesiat & Kater Smuling,IPA,Pays-Bas,Poesiat & Kater,33.0,6.5,71.0,60,40,0,80,0,2.59,3.53
+Bière Des Sans-Culottes Blonde Légère,Bière Des Sans-Culottes Blonde Légère,Bière Blonde,France,,33.0,6.0,,60,60,0,40,0,2.39,3.2
+Het Nest Wild Card Sour Blend 2019,Het Nest Wild Card Sour Blend 2019,Bière Sour,Belgique,,33.0,9.0,30.0,60,40,60,40,0,3.5,3.46
+Moersleutel Motorolie,Moersleutel Motorolie,Bière Porter & Stout,Pays-Bas,,44.0,12.0,55.0,100,80,20,80,20,5.59,3.89
+Moersleutel Smeerolie Mexicake,Moersleutel Smeerolie Mexicake,Bière Porter & Stout,Pays-Bas,,44.0,10.0,50.0,100,80,0,80,40,5.99,3.96
+Brewdog Raspberry Blitz,Brewdog Raspberry Blitz,Bière Sour,Brewdog,,33.0,0.5,8.0,0,0,0,0,0,2.29,2.88
+Mount Saint Bernard Tynt Meadow,Mount Saint Bernard Tynt Meadow,Bière Brune,Royaume-Uni,,33.0,7.4,,80,60,0,40,0,3.49,3.81
+Brouwerij Noordt Chocolade Porter,Brouwerij Noordt Chocolade Porter,Bière Porter & Stout,Pays-Bas,Brouwerij Noordt,33.0,7.0,25.0,80,40,0,80,20,,
+Gebrouwen Door Vrouwen Strawberry Blond,Gebrouwen Door Vrouwen Strawberry Blond,Bière Blonde,Pays-Bas,Gebrouwen Door Vrouwen,33.0,6.3,18.0,60,40,0,60,0,,
+Kapittel Watou Triple Abt 10,Kapittel Watou Triple Abt 10,Bière Triple,Belgique,,33.0,10.0,,60,60,0,60,0,2.39,3.56
+Les Brassés Spring Break Beer,Les Brassés Spring Break Beer,Bière Blanche,France,,33.0,4.8,,40,40,40,20,0,3.0,3.11
+Amsterdam Brewboys Bombay Bastard,Amsterdam Brewboys Bombay Bastard,IPA,Pays-Bas,,33.0,6.2,50.0,60,60,20,60,0,2.89,3.46
+Brand Gose,Brand Gose,Bière Sour,Pays-Bas,,33.0,4.8,22.0,40,40,20,40,0,1.29,3.14
+Maisel & Friends Alkoholfrei,Maisel & Friends Alkoholfrei,Pale Ale,Allemagne,,33.0,0.5,34.0,60,60,40,60,0,1.99,3.68
+Budels White Gose Bio,Budels White Gose Bio,Bière Sour,Pays-Bas,Budelse Brouwerij,33.0,4.5,12.0,80,20,60,0,0,,2.9
+Wild Beer Co Choked Up,Wild Beer Co Choked Up,Bière Sour,Royaume-Uni,Wild Beer Company,33.0,5.8,14.0,100,40,80,0,0,,
+Baptist Wit,Baptist Wit,Bière Blanche,Belgique,Brouwerij Van Steenberge,33.0,5.0,,40,40,40,20,0,,
+Baptist Saison,Baptist Saison,Bière de Garde & Saison,Belgique,Brouwerij Van Steenberge,33.0,6.5,,60,40,20,40,0,1.69,3.21
+Baptist Blond,Baptist Blond,Bière Blonde,Belgique,Brouwerij Van Steenberge,33.0,5.0,,60,60,0,40,0,1.59,3.07
+Van Moll Wanderlust,Van Moll Wanderlust,IPA,Pays-Bas,,33.0,0.3,,0,0,0,0,0,,
+Musa Low Me Tender,Musa Low Me Tender,Pale Ale,Portugal,,33.0,2.5,22.0,60,40,20,60,0,,
+La Débauche Magic Baboon,La Débauche Magic Baboon,Bière Sour,France,Brasserie La Débauche,44.0,4.2,,60,20,60,20,0,3.59,3.69
+Bush de Noël,Bush de Noël,Bière Quadruple,Belgique,Brasserie Dubuisson Freres,33.0,12.0,21.0,80,80,20,80,40,2.59,3.79
+Bird Brewery / Jopen Fazantisch,Bird Brewery / Jopen Fazantisch,Bière Porter & Stout,Pays-Bas,Bird Brewery,33.0,8.0,35.0,80,80,0,60,0,,
+Bird Brewery / Stanislaus Brewskovitch Thunderbird,Bird Brewery / Stanislaus Brewskovitch Thunderbird,Bière Porter & Stout,Pays-Bas,Bird Brewery,33.0,7.5,34.0,80,60,0,60,0,,3.67
+Het Uiltje Blazin' Raisin,Het Uiltje Blazin' Raisin,Bière Bock,Pays-Bas,,33.0,6.5,,60,40,0,40,0,2.99,3.38
+Steamworks Pumpkin Ale,Steamworks Pumpkin Ale,Bière Brune,Canada,Steamworks Brewing Co.,33.0,6.5,,,,,,,2.99,3.43
+Roman Adriaen Brouwer Oaked,Roman Adriaen Brouwer Oaked,Bière Quadruple,Belgique,,33.0,10.0,,,,,,,2.49,3.57
+Brewdog Zwickl Helles,Brewdog Zwickl Helles,Lager,Royaume-Uni,Brewdog,33.0,5.0,20.0,40,40,0,40,0,3.09,3.36
+Mélusine Bio,Mélusine Bio,Pale Ale,France,,33.0,5.0,,,,,,,2.59,3.29
+Mélusine La Cervoise,Mélusine La Cervoise,Bière Ambrée,France,,33.0,6.5,,,,,,,2.59,3.31
+Mélusine La Dame Blanche,Mélusine La Dame Blanche,Bière Blanche,France,,33.0,4.2,,,,,,,2.59,3.0
+Rodenbach Classic,Rodenbach Classic,Bière Sour,Belgique,Brasserie Rodenbach,25.0,5.2,30.0,60,40,60,20,0,2.39,3.58
+St. Feuillien Five,St. Feuillien Five,Bière Blonde,Belgique,St. Feuillien,33.0,5.0,,,,,,,2.39,3.02
+Het Uiltje Dikke Lul 3 Bier,Het Uiltje Dikke Lul 3 Bier,Pale Ale,Pays-Bas,,33.0,5.6,60.0,80,60,0,100,0,2.75,3.45
+Studio Oedipus No. 18,Studio Oedipus No. 18,Bière de Garde & Saison,Pays-Bas,Brasserie Oedipus,38.0,4.5,,,,,,,5.29,3.53
+Studio Oedipus No. 19,Studio Oedipus No. 19,Bière Sour,Pays-Bas,Brasserie Oedipus,38.0,8.0,,,,,,,5.49,3.55
+Studio Oedipus No. 27,Studio Oedipus No. 27,Bière Sour,Pays-Bas,Brasserie Oedipus,38.0,5.0,,,,,,,4.49,3.61
+Poesiat & Kater: Van Vollenhoven Princesse Bier,Poesiat & Kater: Van Vollenhoven Princesse Bier,Bière Blanche,Pays-Bas,Poesiat & Kater,33.0,5.0,17.0,40,0,20,0,0,3.19,3.29
+Roman Adriaen Brouwer Tripel,Roman Adriaen Brouwer Tripel,Bière Triple,Belgique,,33.0,9.0,,,,,,,2.39,3.56
+Brasseurs Savoyards Blanche,Brasseurs Savoyards Blanche,Bière Blanche,France,,33.0,5.0,14.0,60,40,20,60,0,2.75,3.96
+Maredsous Brune,Maredsous Brune,Bière Double,Belgique,,33.0,8.0,24.0,60,60,0,40,0,2.79,3.66
+Noordt Lagerlab Enkel,Noordt Lagerlab Enkel,Bière Blonde,Pays-Bas,Brouwerij Noordt,33.0,4.2,20.0,40,40,0,40,0,,
+Noordt Lagerlab Blond,Noordt Lagerlab Blond,Bière Blonde,Pays-Bas,Brouwerij Noordt,33.0,6.5,25.0,60,40,0,40,0,,
+Noordt Lagerlab Quadruppel,Noordt Lagerlab Quadruppel,Bière Quadruple,Pays-Bas,Brouwerij Noordt,33.0,10.3,30.0,80,60,0,40,0,,
+Uiltje Mind Your Step - Salted Caramel & Pretzel,Uiltje Mind Your Step - Salted Caramel & Pretzel,Bière Porter & Stout,Pays-Bas,Brouwerij Het Uiltje,33.0,14.5,70.0,100,60,0,20,40,4.5,3.99
+Stone / Metallica Enter Night,Stone / Metallica Enter Night,Pils & Hoppy Lager,Allemagne,Stone Brewing,47.0,5.7,45.0,40,40,0,60,0,2.89,3.54
+Stone Arrogant Bastard Ale,Stone Arrogant Bastard Ale,Bière Brune,Etats-Unis d'Amérique,Stone Brewing,47.0,7.2,100.0,80,60,0,80,0,3.49,3.78
+Hanscraft & Co. Original Helles,Hanscraft & Co. Original Helles,Lager,Allemagne,,33.0,5.6,,,,,,,,3.38
+Corsendonk Agnus Tripel,Corsendonk Agnus Tripel,Bière Triple,Belgique,Brasserie Du Bocq,33.0,7.5,,60,60,20,40,0,2.79,3.7
+Budels Goudblond,Budels Goudblond,Bière Blonde,Pays-Bas,Budelse Brouwerij,30.0,6.0,,60,40,20,60,0,1.69,3.16
+Brugge Tripel,Brugge Tripel,Bière Triple,Belgique,Brouwerij De Gouden Boom,33.0,8.7,,60,40,0,60,0,2.49,3.58
+Anderson Valley Hop Ottin' IPA,Anderson Valley Hop Ottin' IPA,Lager,Etats-Unis d'Amérique,Anderson Valley Brewing Company,36.0,7.0,78.0,60,60,20,60,0,3.29,3.57
+De Molen Amarillo,De Molen Amarillo,IPA,Pays-Bas,Brouwerij De Molen,33.0,9.3,60.0,80,60,40,80,0,3.49,3.86
+De Molen Vuur & Vlam IPA,De Molen Vuur & Vlam IPA,IPA,Pays-Bas,Brouwerij De Molen,33.0,6.2,63.0,60,60,20,80,0,2.79,3.7
+De Prael I.P.A.,De Prael I.P.A.,IPA,Pays-Bas,Brouwerij De Prael,33.0,6.5,,60,60,20,60,0,2.49,3.48
+Emelisse Blond IPA,Emelisse Blond IPA,IPA,Pays-Bas,Brouwerij Emelisse,33.0,6.8,35.0,60,40,20,60,0,,3.51
+Baxbier Kon Minder,Baxbier Kon Minder,Pale Ale,Pays-Bas,Bax Bier Brouwerij,33.0,5.1,30.0,60,40,40,60,0,2.99,3.49
+Brewdog Dead Pony Club,Brewdog Dead Pony Club,Pale Ale,Royaume-Uni,Brewdog,33.0,3.8,25.0,60,40,20,60,0,2.79,3.61
+De Molen Hel & Verdoemenis,De Molen Hel & Verdoemenis,Bière Porter & Stout,Pays-Bas,Brouwerij De Molen,33.0,10.0,102.0,80,60,20,80,40,4.99,4.06
+De Prael Milk Stout,De Prael Milk Stout,Bière Porter & Stout,Pays-Bas,Brouwerij De Prael,33.0,4.9,,60,80,20,40,0,2.39,3.38
+Boon Oude Geuze,Boon Oude Geuze,Bière Sour,Belgique,Brouwerij Boon,38.0,7.0,,80,60,80,20,0,2.99,3.57
+De Koninck Apa,De Koninck Apa,Pale Ale,Belgique,Brouwerij De Koninck,33.0,5.2,,40,40,20,40,0,2.29,3.31
+Budels Weizen Bio,Budels Weizen Bio,Bière Weiss,Pays-Bas,Budelse Brouwerij,30.0,5.0,,40,60,20,20,0,2.19,3.22
+De Prael Barleywine,De Prael Barleywine,Bière Barley Wine,Pays-Bas,Brouwerij De Prael,33.0,9.6,,60,60,0,40,20,3.49,3.48
+Frankendael Tramp Stamp,Frankendael Tramp Stamp,Bière de Garde & Saison,Pays-Bas,Brouwerij Frankendael,33.0,3.5,16.0,60,60,40,20,0,2.99,3.69
+Berging Brouwerij BB18 Oak Aged Bock,Berging Brouwerij BB18 Oak Aged Bock,Bière Bock,Pays-Bas,Berging Brouwerij,33.0,6.4,30.0,60,40,0,60,0,,
+Silly Double Enghien Blonde,Silly Double Enghien Blonde,Bière Blonde,Belgique,Brasserie de Silly,33.0,7.5,,40,60,0,60,0,,3.24
+Schoppe Bräu No Juice,Schoppe Bräu No Juice,IPA,Allemagne,,33.0,0.5,,60,40,0,60,0,,
+Oedipus Madeleine,Oedipus Madeleine,Bière Bock,Pays-Bas,Brasserie Oedipus,33.0,6.5,,60,40,0,60,0,,
+Schoppe Das ist kein Oktober****bier,Schoppe Das ist kein Oktober****bier,Lager,Allemagne,,33.0,5.8,,40,60,0,40,0,,
+Oedipus Slomo,Oedipus Slomo,Bière de Garde & Saison,Pays-Bas,Brasserie Oedipus,33.0,3.5,10.0,60,60,0,20,0,2.39,3.2
+Seefbier,Seefbier,Bière Blonde,Belgique,,33.0,6.5,17.0,40,60,20,20,0,2.59,3.52
+Vandestreek BlackBock,Vandestreek BlackBock,Bière Bock,Pays-Bas,vandeStreek,33.0,6.0,44.0,60,40,0,80,0,2.89,3.34
+Delirium Nocturnum,Delirium Nocturnum,Bière Quadruple,Belgique,Huyghe,33.0,8.5,26.0,60,60,0,40,0,,
+Brasserie De Sutter Ictis,Brasserie De Sutter Ictis,Bière Blonde,France,Brasserie de Sutter,33.0,6.2,45.0,60,60,0,40,0,2.89,3.56
+Bush Triple,Bush Triple,Bière Blonde,Belgique,Brasserie Dubuisson Freres,33.0,10.5,21.0,60,80,0,40,0,2.59,3.55
+Blanche des Honnelles,Blanche des Honnelles,Bière Blanche,Belgique,Abbaye des Rocs,33.0,6.5,,60,60,20,20,20,2.39,4.39
+Hellfest IPA,Hellfest IPA,IPA,France,,33.0,6.7,,60,40,0,60,0,2.89,3.46
+Delirium Christmas,Delirium Christmas,Bière Blonde,Belgique,Huyghe,33.0,10.0,20.0,60,80,0,40,0,2.89,3.82
+Founders All Day IPA,Founders All Day IPA,IPA,Etats-Unis d'Amérique,,36.0,4.7,42.0,60,60,0,60,0,3.29,3.74
+Brixton Electric IPA,Brixton Electric IPA,IPA,Royaume-Uni,,33.0,6.5,60.0,60,40,20,80,0,,
+Lagunitas 12th of Never Ale,Lagunitas 12th of Never Ale,IPA,Etats-Unis d'Amérique,Lagunitas Brewing Company,36.0,5.5,,40,40,0,60,20,2.29,3.75
+Les Brassés Thank You Very Mousse,Les Brassés Thank You Very Mousse,Pale Ale,France,,33.0,5.2,,60,40,0,40,0,3.0,3.32
+Barrel-Aged n°1 de la Brasserie du Mont Blanc,Barrel-Aged n°1 de la Brasserie du Mont Blanc,Bière Ambrée,France,Mont-Blanc,33.0,7.9,,80,80,20,20,0,,
+Guinness Draught,Guinness Draught,Bière Porter & Stout,Irlande,,50.0,4.2,45.0,80,40,20,80,40,2.79,3.79
+Guinness Hop House 13,Guinness Hop House 13,Lager,Irlande,,33.0,4.1,,40,40,0,40,0,2.39,3.39
+Braxzz Tripel,Braxzz Tripel,Bière Triple,Pays-Bas,,33.0,0.2,,40,80,20,40,0,2.49,2.93
+Kraftbier Hoppakee,Kraftbier Hoppakee,Pale Ale,Pays-Bas,,33.0,5.2,33.0,60,60,0,60,0,2.98,3.48
+Wolfscraft THE Export,Wolfscraft THE Export,Lager,Allemagne,,33.0,5.6,,60,60,20,60,0,2.69,3.69
+Brouwerij Noordt Lentebier,Brouwerij Noordt Lentebier,Pale Ale,Pays-Bas,Brouwerij Noordt,33.0,6.0,28.0,60,40,0,60,0,3.09,3.48
+Straffe Hendrik Quadruppel,Straffe Hendrik Quadruppel,Bière Quadruple,Belgique,Brouwerij De Halve Maan,33.0,11.0,35.0,80,80,0,40,0,3.19,3.94
+Bird Brewery Nog Eendje,Bird Brewery Nog Eendje,Bière Blonde,Pays-Bas,Bird Brewery,33.0,6.0,30.0,40,60,0,40,0,2.99,3.4
+Bronckhorster Dubbelganger,Bronckhorster Dubbelganger,Bière Double,Pays-Bas,Bronckhorster Brewing Company,33.0,7.5,32.0,60,40,20,60,0,3.09,3.52
+Bronckhorster Hoptimist,Bronckhorster Hoptimist,IPA,Pays-Bas,Bronckhorster Brewing Company,33.0,9.5,82.0,80,60,20,80,0,3.19,3.69
+Musa Frank APA,Musa Frank APA,Pale Ale,Portugal,,33.0,5.0,35.0,40,40,0,20,0,2.69,3.61
+Musa Red Zeppelin,Musa Red Zeppelin,IPA,Portugal,,33.0,5.0,35.0,40,60,20,40,0,2.79,3.53
+Musa Twist & Stout,Musa Twist & Stout,Bière Porter & Stout,Portugal,,33.0,5.5,35.0,40,60,20,40,40,2.79,3.34
+Grolsch Kruidige Tripel,Grolsch Kruidige Tripel,Bière Triple,Pays-Bas,,45.0,8.3,,80,60,0,40,0,3.39,3.5
+La Débauche Saison,La Débauche Saison,Bière de Garde & Saison,France,Brasserie La Débauche,33.0,7.0,,60,60,20,60,0,3.19,3.45
+Het Uiltje Trackdown,Het Uiltje Trackdown,Pale Ale,Pays-Bas,Brouwerij Het Uiltje,33.0,5.2,,60,60,20,60,0,2.99,3.61
+Galibier Alpine APA,Galibier Alpine APA,Pale Ale,France,,33.0,4.8,17.0,60,40,0,40,0,3.19,3.56
+Les 3 Croquants English Best Bitter,Les 3 Croquants English Best Bitter,Pale Ale,France,,33.0,5.0,,60,40,40,20,0,,
+Brewdog Lost Lager,Brewdog Lost Lager,Pils & Hoppy Lager,Royaume-Uni,,33.0,4.7,37.0,0,20,0,20,0,,
+La Débauche Slap a Banker,La Débauche Slap a Banker,Bière Barley Wine,France,Brasserie La Débauche,33.0,12.0,,100,80,20,80,0,3.89,3.76
+La Débauche Kiss My Ace,La Débauche Kiss My Ace,Bière Blonde,France,Brasserie La Débauche,33.0,5.5,,60,60,20,40,0,3.39,3.56
+Wild Beer Co Redwood,Wild Beer Co Redwood,Bière Sour,Royaume-Uni,Wild Beer Company,33.0,5.6,9.0,80,20,40,0,0,,
+Wild Beer Co Tepache,Wild Beer Co Tepache,Bière Sour,Royaume-Uni,Wild Beer Company,33.0,6.0,5.0,0,20,40,0,20,3.59,3.65
+Poesiat & Kater Kaintz,Poesiat & Kater Kaintz,Bière Triple,Pays-Bas,Poesiat & Kater,33.0,8.0,16.0,40,60,20,40,0,3.09,3.48
+Zundert Trappist 10,Zundert Trappist 10,Bière Quadruple,Pays-Bas,Trappistenbrouwerij de Kievit,33.0,10.0,53.0,80,80,0,40,0,2.79,3.79
+Boon Framboise,Boon Framboise,Bière Fruitée,Belgique,Brouwerij Boon,38.0,5.0,,80,80,60,0,0,3.99,3.53
+First Chop RED,First Chop RED,Bière Ambrée,Royaume-Uni,First Chop Brewing Arm,33.0,4.6,,40,20,0,60,0,2.69,3.29
+Amsterdam Brewboys Amsterdam Pale Ale,Amsterdam Brewboys Amsterdam Pale Ale,Pale Ale,Pays-Bas,,33.0,5.4,34.0,40,40,0,60,0,2.39,3.44
+Gruut Amber,Gruut Amber,Bière Ambrée,Belgique,Gentse Gruut Stadsbrouwerij,33.0,6.6,,60,60,20,20,0,2.79,3.34
+Gulden Draak,Gulden Draak,Bière Quadruple,Belgique,Brouwerij Van Steenberge,33.0,10.5,,60,80,20,40,0,2.69,3.88
+Het Nest Koekedam,Het Nest Koekedam,Bière de Garde & Saison,Belgique,,33.0,6.5,40.0,60,40,40,40,0,2.59,3.42
+Hof Ten Dormaal Witgoud,Hof Ten Dormaal Witgoud,Bière de Garde & Saison,Belgique,Brouwerij Hof Ten Dormaal,33.0,8.0,25.0,60,40,40,40,0,2.69,3.46
+Houppe,Houppe,Bière Blonde,Belgique,L'Echasse,33.0,7.5,,80,60,20,60,0,3.09,3.73
+Brasserie de la Senne Jambe de Bois,Brasserie de la Senne Jambe de Bois,Bière Triple,Belgique,,33.0,8.0,49.0,60,40,20,60,0,2.89,3.66
+Leffe Tripel,Leffe Tripel,Bière Triple,Belgique,Brasserie Artois,33.0,8.5,,60,60,0,20,0,2.79,3.69
+Leopold 7,Leopold 7,Bière Blonde,Belgique,,33.0,6.2,,60,60,0,60,0,2.89,3.44
+Limburgse Witte,Limburgse Witte,Bière Blanche,Belgique,,25.0,5.0,,60,60,40,20,0,2.19,3.52
+Malheur 12,Malheur 12,Bière Quadruple,Belgique,Brewery De Landtsheer,33.0,11.5,,60,60,0,40,0,3.19,3.89
+Moinette Biologique,Moinette Biologique,Bière de Garde & Saison,Belgique,Brasserie Dupont,25.0,7.5,,60,60,40,60,0,,3.71
+St. Feuillien Belgian Coast IPA,St. Feuillien Belgian Coast IPA,IPA,Belgique,St. Feuillien,33.0,5.5,,60,40,20,60,0,2.59,3.46
+Torpah 90,Torpah 90,Pale Ale,Belgium,,33.0,6.0,96.0,60,60,20,80,0,2.79,3.39
+Triporteur From Hell,Triporteur From Hell,Bière Double,Belgique,,33.0,6.6,32.0,60,60,0,60,0,2.39,3.45
+Troubadour Imperial Stout,Troubadour Imperial Stout,Bière Porter & Stout,Belgique,Brouwerij The Musketeers,33.0,9.0,45.0,60,60,20,60,20,2.69,3.74
+Urthel Saisonniere 6,Urthel Saisonniere 6,Bière de Garde & Saison,Belgique,Microbrouwerij Urthel,33.0,6.0,,60,60,40,40,0,2.39,3.52
+Urthel Samaranth,Urthel Samaranth,Bière Quadruple,Belgique,Microbrouwerij Urthel,33.0,11.5,,60,80,0,40,0,2.79,3.78
+Val Dieu Tripel,Val Dieu Tripel,Bière Triple,Belgique,Brasserie de l'Abbaye du Val-Dieu,33.0,9.0,20.0,60,60,20,40,0,2.79,3.7
+Vicaris Triple,Vicaris Triple,Bière Triple,Belgique,,33.0,8.5,,60,60,0,60,0,2.79,3.63
+Viven Ale,Viven Ale,Pale Ale,Belgique,Brouwerij Van Viven,33.0,5.0,,60,40,20,40,0,2.39,3.26
+,,Bière Triple,Belgique,Brouwerij Wilderen,33.0,8.2,,60,60,20,40,0,2.79,3.76
+Val Dieu Bruin,Val Dieu Bruin,Bière Double,Belgique,Brasserie de l'Abbaye du Val-Dieu,33.0,8.0,19.0,60,60,20,40,0,2.79,3.49
+De Dolle Dulle Teve,De Dolle Dulle Teve,Bière Triple,Belgique,,33.0,10.0,,60,60,0,40,0,3.85,3.85
+Dochter Van De Korenaar Extase,Dochter Van De Korenaar Extase,IPA,Belgique,,33.0,7.0,110.0,80,60,0,80,0,3.19,3.71
+Oedipus Swingers,Oedipus Swingers,Bière Sour,Pays-Bas,Brasserie Oedipus,33.0,4.0,,40,0,40,0,0,3.19,3.4
+Kees Indian Summer Doppelbock,Kees Indian Summer Doppelbock,Bière Bock,Pays-Bas,Brouwerij Kees,33.0,8.5,,80,40,20,40,0,,
+Texels Bock,Texels Bock,Bière Bock,Pays-Bas,Texels,30.0,7.0,,60,60,0,40,0,2.59,3.53
+Gulpener Herfstbock,Gulpener Herfstbock,Bière Bock,Pays-Bas,Brouwerij Gulpener,30.0,6.5,,60,60,0,40,0,1.19,3.28
+Snab Ezelenbok,Snab Ezelenbok,Bière Bock,Pays-Bas,Snab,38.0,7.5,32.0,80,60,0,40,0,3.39,3.59
+Hooglander India Pale Ale,Hooglander India Pale Ale,IPA,Pays-Bas,Hooglander Bier,33.0,6.8,53.0,60,40,0,60,0,2.59,3.49
+Frankendael Mello Pale Ale,Frankendael Mello Pale Ale,IPA,Pays-Bas,Brouwerij Frankendael,33.0,7.5,26.0,60,60,0,40,0,2.75,3.38
+Het Uiltje Re:Re:Cc Porter,Het Uiltje Re:Re:Cc Porter,Bière Porter & Stout,Pays-Bas,Brouwerij Het Uiltje,33.0,8.0,10.0,60,60,0,40,0,3.59,3.72
+Heineken Club Bottle,Heineken Club Bottle,Lager,Pays-Bas,Heineken Brewery,33.0,5.0,19.0,40,40,0,20,0,2.99,2.92
+Moor Hoppiness,Moor Hoppiness,IPA,Royaume-Uni,,33.0,6.5,65.0,80,20,20,80,0,2.99,3.9
+First Chop POP,First Chop POP,IPA,Royaume-Uni,First Chop Brewing Arm,33.0,5.4,14.0,60,40,0,40,0,3.19,3.41
+Wild Beer Co Bibble,Wild Beer Co Bibble,Pale Ale,Royaume-Uni,Wild Beer Company,33.0,4.2,40.0,40,40,0,60,0,2.79,3.67
+Brewdog Tokyo,Brewdog Tokyo,Bière Porter & Stout,Royaume-Uni,Brewdog,33.0,16.5,90.0,100,80,20,80,20,10.99,4.08
+Magic Rock Cannonball,Magic Rock Cannonball,IPA,Royaume-Uni,,33.0,7.4,60.0,80,60,20,80,0,3.29,3.9
+Magic Rock Common Grounds,Magic Rock Common Grounds,Bière Porter & Stout,Royaume-Uni,,33.0,5.4,25.0,80,60,0,20,0,2.79,3.8
+Fuller's Honey Dew,Fuller's Honey Dew,Bière Blonde,Royaume-Uni,,33.0,5.0,35.0,60,60,0,40,0,2.79,3.36
+Bird Brewery Miss Scarecrow,Bird Brewery Miss Scarecrow,Bière Ambrée,Pays-Bas,Bird Brewery,33.0,7.5,20.0,60,60,0,40,0,2.99,3.56
+Jessenhofke WNTR,Jessenhofke WNTR,Bière Brune,Belgique,Jessenhofke,33.0,10.0,,60,60,20,40,0,2.89,3.43
+Het Uiltje F*ck the Christmas tree is on fire!,Het Uiltje F*ck the Christmas tree is on fire!,Bière Porter & Stout,Pays-Bas,Brouwerij Het Uiltje,33.0,10.0,65.0,80,80,0,40,20,3.39,3.65
+Jopen Ongelovige Thomas,Jopen Ongelovige Thomas,Bière Quadruple,Pays-Bas,Brouwerij Jopenkerk,33.0,10.0,40.0,80,80,0,60,0,3.69,3.7
+Davo Surf Ale,Davo Surf Ale,Bière Blanche,Pays-Bas,Davo Bieren,33.0,6.4,24.0,60,40,20,60,0,3.09,3.5
+Breugem Saense Tripel,Breugem Saense Tripel,Bière Triple,Pays-Bas,Brouwerij Breugem,33.0,8.3,32.0,40,40,0,60,0,2.35,3.56
+Harviestoun Ola Dubh 12 Year,Harviestoun Ola Dubh 12 Year,Bière Porter & Stout,Royaume-Uni,,33.0,8.0,40.0,100,80,20,60,40,4.99,4.03
+Schneider Weisse Meine Hopfenweisse (Tap5),Schneider Weisse Meine Hopfenweisse (Tap5),Bière Weiss,Allemagne,,50.0,8.2,40.0,80,60,0,60,0,2.89,3.87
+Welde Badisch Gose,Welde Badisch Gose,Bière Sour,Allemagne,,33.0,4.6,10.0,60,20,40,40,0,2.59,3.51
+Pietra,Pietra,Lager,France,,33.0,6.0,,40,40,20,40,0,2.69,3.17
+La Débauche Demi Mondaine,La Débauche Demi Mondaine,Bière Porter & Stout,France,Brasserie La Débauche,33.0,11.0,,80,60,0,60,20,5.19,3.93
+La Débauche Lindy Hop,La Débauche Lindy Hop,IPA,France,Brasserie La Débauche,33.0,5.5,,40,40,20,60,0,3.19,3.46
+Lindeboom Herfstbock,Lindeboom Herfstbock,Bière Bock,Pays-Bas,Lindeboom Bierbrouwerij,30.0,6.5,,60,60,0,40,0,1.65,3.31
+Frontaal Tankard,Frontaal Tankard,IPA,Pays-Bas,Brouwerij Frontaal,33.0,3.9,39.0,80,40,40,60,0,2.99,3.34
+Bird Brewery Fuut Fieuw,Bird Brewery Fuut Fieuw,Lager,Pays-Bas,Bird Brewery,33.0,4.6,32.0,60,60,20,60,0,2.99,3.44
+Bird Brewery Vink Heerlijk,Bird Brewery Vink Heerlijk,IPA,Pays-Bas,Bird Brewery,33.0,6.2,45.0,60,60,0,60,0,3.09,3.56
+Two Chefs Brewing White Mamba,Two Chefs Brewing White Mamba,Bière Blanche,Pays-Bas,Two Chefs Brewing,33.0,5.0,12.0,60,40,20,20,0,2.39,3.46
+Samuel Smith Organic Chocolate Stout,Samuel Smith Organic Chocolate Stout,Bière Porter & Stout,Royaume-Uni,,55.0,5.0,28.0,80,80,0,40,0,3.89,4.09
+Brand Bock de printemps,Brand Bock de printemps,Bière Bock,Pays-Bas,Brand,30.0,6.5,24.0,60,40,0,60,0,,
+Samuel Smith Nut Brown Ale,Samuel Smith Nut Brown Ale,Bière Brune,Royaume-Uni,,55.0,5.0,30.0,60,60,20,40,0,3.79,3.62
+Van Moll Ons Blackie,Van Moll Ons Blackie,Bière Porter & Stout,Pays-Bas,,33.0,9.0,,80,60,20,80,0,,3.66
+Kompaan Tommy Double Barrel,Kompaan Tommy Double Barrel,Bière Barley Wine,Pays-Bas,Brouwerij Kompaan,33.0,11.5,,80,80,0,60,20,,
+Oersoep En Garde!,Oersoep En Garde!,Bière de Garde & Saison,Pays-Bas,,33.0,6.5,,60,60,20,40,0,2.95,3.47
+Rock City Beers Koene Ridder,Rock City Beers Koene Ridder,Bière Triple,Pays-Bas,,33.0,8.0,30.0,60,60,20,40,0,2.89,3.53
+Brasserie De Sutter ZinZin,Brasserie De Sutter ZinZin,Bière Quadruple,France,Brasserie de Sutter,33.0,10.5,,80,80,20,40,20,3.09,3.44
+Bellfield Bohemian Pilsner,Bellfield Bohemian Pilsner,Pils & Hoppy Lager,Royaume-Uni,Bellfield Brewery Ltd,33.0,4.5,,40,40,0,40,0,2.59,3.14
+Bellfield Lawless Village IPA,Bellfield Lawless Village IPA,Lager,Royaume-Uni,Bellfield Brewery Ltd,33.0,4.5,,60,40,0,60,0,2.59,3.25
+Stijl Basterd Dubbel,Stijl Basterd Dubbel,Bière Double,Pays-Bas,,33.0,7.0,35.0,60,60,0,60,0,2.79,3.38
+Sint Gummarus Dubbel,Sint Gummarus Dubbel,Bière Double,Belgique,,33.0,7.1,29.0,60,60,0,60,0,2.29,3.29
+Frontaal Rhodesian,Frontaal Rhodesian,Bière Barley Wine,Pays-Bas,Brouwerij Frontaal,33.0,11.3,55.0,80,60,0,60,0,3.79,3.76
+Sint Gummarus Tripel,Sint Gummarus Tripel,Bière Triple,Belgique,,33.0,8.3,29.0,60,40,0,60,0,2.39,3.43
+Engelszell Nivard,Engelszell Nivard,Pale Ale,Autriche,Stift Engelszell,33.0,5.5,,60,60,20,60,0,2.89,3.41
+Kompaan WannaBee,Kompaan WannaBee,Bière Blanche,Pays-Bas,Brouwerij Kompaan,33.0,5.5,16.0,60,60,0,20,0,2.89,3.28
+Solaes Acht gemeten,Solaes Acht gemeten,IPA,Pays-Bas,,33.0,8.0,,60,60,0,80,0,3.99,3.81
+Stijl Dennentoppen Blond,Stijl Dennentoppen Blond,Bière Blonde,Pays-Bas,,33.0,7.0,25.0,60,60,20,60,0,2.69,3.33
+Solaes Zes Gemeten,Solaes Zes Gemeten,Bière Blanche,Pays-Bas,,33.0,6.0,,40,60,0,40,0,3.49,3.3
+Hopfmeister Franz Josef,Hopfmeister Franz Josef,Lager,Allemagne,,33.0,5.1,20.0,40,60,0,40,0,2.69,3.67
+Frankendael White Bastard,Frankendael White Bastard,Bière Blanche,Pays-Bas,Brouwerij Frankendael,33.0,5.5,30.0,60,60,20,40,0,2.99,3.32
+Kompaan The Mentor,Kompaan The Mentor,Pale Ale,Pays-Bas,Brouwerij Kompaan,33.0,5.4,24.0,60,20,20,60,0,,
+Walhalla Ares,Walhalla Ares,Bière Ambrée,Pays-Bas,Walhalla Craft Beer,33.0,6.0,40.0,60,40,0,80,0,3.09,3.55
+Gipsy Hill Southpaw,Gipsy Hill Southpaw,Bière Ambrée,Royaume-Uni,Gipsy Hill,33.0,4.2,,60,40,0,60,0,2.45,3.51
+Pontus Brewing Allmouth,Pontus Brewing Allmouth,Bière Porter & Stout,Pays-Bas,,33.0,9.5,60.0,100,80,20,80,40,3.59,3.75
+Paljas Rosé,Paljas Rosé,Bière Fruitée,Belgique,,25.0,3.8,,60,80,20,0,0,2.29,2.78
+Oedipus Pais Tropical,Oedipus Pais Tropical,IPA,Pays-Bas,Brasserie Oedipus,33.0,5.0,30.0,60,40,20,80,0,2.99,3.54
+La Trappe Quadrupel,La Trappe Quadrupel,Bière Quadruple,Pays-Bas,La Trappe (La Brasserie De Koningshoeven),33.0,10.0,20.0,60,60,0,60,0,2.69,4.0
+Steamworks Heroica Red Ale,Steamworks Heroica Red Ale,Bière Ambrée,Canada,Steamworks Brewing Co.,33.0,5.6,40.0,60,60,0,60,0,2.99,3.57
+Bird Brewery Nognietnaar Huismus,Bird Brewery Nognietnaar Huismus,Bière Brune,Pays-Bas,Bird Brewery,33.0,6.4,38.0,60,60,0,60,0,2.99,3.4
+Brouwerij Noordt Zomerbier,Brouwerij Noordt Zomerbier,Pale Ale,Pays-Bas,Brouwerij Noordt,33.0,6.0,30.0,60,60,0,60,0,2.79,3.48
+Seven Bro7hers Hoppy Pale,Seven Bro7hers Hoppy Pale,IPA,Royaume-Uni,,33.0,3.8,,60,60,20,60,0,2.69,3.45
+Seven Bro7hers Watermelon Wheat Beer,Seven Bro7hers Watermelon Wheat Beer,Bière Blanche,Royaume-Uni,,33.0,4.5,,60,60,20,40,0,2.49,3.49
+La Brune Sans Gluten de Vézelay,La Brune Sans Gluten de Vézelay,Bière Brune,France,Brasserie de Vézelay,25.0,5.5,16.0,60,60,0,40,0,2.69,3.32
+Rogue Cold Brew IPA,Rogue Cold Brew IPA,IPA,Etats-Unis d'Amérique,,65.0,7.5,82.0,80,40,20,80,0,6.99,3.76
+Paljas Bruin,Paljas Bruin,Bière Double,Belgique,,33.0,6.0,25.0,60,60,20,40,0,2.49,3.27
+Brasserie Des Cimes Hors Piste,Brasserie Des Cimes Hors Piste,Bière Blonde,France,,33.0,6.5,,40,60,0,20,0,2.89,3.15
+Brasserie Des Cimes Aiguille Blanche,Brasserie Des Cimes Aiguille Blanche,Bière Blanche,France,,33.0,5.0,,40,60,20,20,0,2.79,3.19
+Belgosapiens Colonel Arch,Belgosapiens Colonel Arch,Bière Ambrée,Belgique,Belgo Sapiens Brewers,33.0,6.0,50.0,60,60,20,60,0,2.49,3.32
+Engelszell Gregorius,Engelszell Gregorius,Bière Quadruple,Autriche,Stift Engelszell,33.0,10.5,38.0,80,40,0,40,0,4.29,3.71
+Weihenstephan Hefe Weizen sans Alcool,Weihenstephan Hefe Weizen sans Alcool,Bière Weiss,Allemagne,Bayerische Staatsbrauerei Weihenstephan,50.0,0.5,14.0,40,40,0,20,0,2.09,2.68
+Poesiat & Kater: Van Vollenhoven Extra Stout,Poesiat & Kater: Van Vollenhoven Extra Stout,Bière Porter & Stout,Pays-Bas,Poesiat & Kater,33.0,7.1,57.0,80,80,0,80,20,3.09,3.58
+Achel Brune,Achel Brune,Bière Double,Belgique,Brouwerij De Achelse Kluis,33.0,8.0,19.0,60,40,0,20,40,2.79,3.8
+Augustijn Grand Cru,Augustijn Grand Cru,Bière Blonde,Belgique,Brouwerij Van Steenberge,33.0,9.0,,60,60,20,60,0,2.59,3.58
+Black C,Black C,Bière Porter & Stout,Belgique,,33.0,8.0,55.0,80,60,20,60,0,3.89,3.48
+Brussels Beer Project Dark Sister,Brussels Beer Project Dark Sister,IPA,Belgique,Brussels Beer Project,33.0,6.7,45.0,80,60,20,60,20,2.99,3.7
+De Koninck Triple D'Anvers,De Koninck Triple D'Anvers,Bière Triple,Belgique,Brouwerij De Koninck,33.0,8.0,,60,60,20,40,0,2.69,3.64
+De Ranke Guldenberg,De Ranke Guldenberg,Bière Triple,Belgique,De Ranke,33.0,8.0,40.0,60,60,0,60,0,2.49,3.67
+Delirium Red,Delirium Red,Bière Fruitée,Belgique,Huyghe,33.0,8.0,10.0,60,80,20,20,0,2.69,3.58
+Beavertown Bloody Ell,Beavertown Bloody Ell,IPA,Royaume-Uni,,33.0,5.5,40.0,0,20,0,60,0,,
+Bliksem Hemelvuur,Bliksem Hemelvuur,Bière Triple,Pays-Bas,Brouwerij Bliksem,33.0,9.0,33.0,60,60,0,60,0,2.79,3.61
+Gallia Brut IPA,Gallia Brut IPA,IPA,France,,33.0,7.0,,60,60,20,80,0,2.89,3.61
+Budels Hopped 0.0% Bio,Budels Hopped 0.0% Bio,Pale Ale,Pays-Bas,Budelse Brouwerij,33.0,0.0,30.0,40,40,0,60,0,2.29,2.79
+Musa Cookin Weisse,Musa Cookin Weisse,Bière Sour,Portugal,,33.0,5.5,10.0,60,40,60,0,0,2.99,3.39
+Gulden Draak Imperial Stout,Gulden Draak Imperial Stout,Bière Porter & Stout,Belgique,Brouwerij Van Steenberge,33.0,12.0,,80,80,0,80,20,2.59,3.77
+Gulden Draak Brewmaster,Gulden Draak Brewmaster,Bière Blonde,Belgique,Brouwerij Van Steenberge,33.0,10.5,,60,80,0,40,0,2.49,3.97
+Brand IPA 0.0%,Brand IPA 0.0%,IPA,Pays-Bas,Brand,30.0,0.0,,60,0,0,0,0,1.89,2.96
+Walhalla Loki Golden IPA,Walhalla Loki Golden IPA,IPA,Pays-Bas,Walhalla Craft Beer,33.0,5.5,34.0,60,40,20,60,0,3.29,3.63
+Brasserie Mélusine - Marshall Classic,Brasserie Mélusine - Marshall Classic,Bière Blonde,France,,33.0,6.5,16.0,60,60,0,40,0,2.59,3.21
+La Débauche Baltic Porter Cognac Barrel,La Débauche Baltic Porter Cognac Barrel,Bière Porter & Stout,France,Brasserie La Débauche,33.0,10.0,,80,60,0,80,40,4.79,3.95
+Brlo Down Double IPA,Brlo Down Double IPA,IPA,Allemagne,,33.0,7.5,75.0,80,80,0,80,0,2.49,3.75
+Two Chefs Brewing Boom Bocks,Two Chefs Brewing Boom Bocks,Bière Bock,Pays-Bas,Two Chefs Brewing,33.0,6.0,30.0,60,40,0,60,0,,
+BrewDog Dry Hopped Dortmunder Export,BrewDog Dry Hopped Dortmunder Export,Pils & Hoppy Lager,Royaume-Uni,Brewdog,33.0,5.8,32.0,60,60,0,60,0,3.09,3.45
+Mélusine Blanche Ecume,Mélusine Blanche Ecume,Bière Blanche,France,,33.0,4.2,,,,,,,2.59,3.02
+Rivière d'Ain Ambrée,Rivière d'Ain Ambrée,Bière Ambrée,Pays-Bas,,33.0,6.5,,,,,,,3.59,3.58
+Rivière d'Ain Blanche,Rivière d'Ain Blanche,Bière Blanche,France,,33.0,5.3,,,,,,,3.69,3.75
+Vandestreek Man Man Mango,Vandestreek Man Man Mango,Bière Blonde,Pays-Bas,vandeStreek,33.0,6.6,,,,,,,,
+La Débauche Shut up and drink !,La Débauche Shut up and drink !,IPA,France,,44.0,10.0,,80,60,0,20,0,4.79,4.07
+La Débauche Tanuki,La Débauche Tanuki,Bière Porter & Stout,France,,33.0,6.1,,,,,,,3.59,3.61
+En Stoemelings Tanteke,En Stoemelings Tanteke,Bière de Garde & Saison,Belgique,,33.0,6.0,,60,40,20,60,0,2.99,3.32
+En Stoemelings Curieuse Neus,En Stoemelings Curieuse Neus,Bière Triple,Belgique,,33.0,7.0,,60,60,0,40,0,2.99,3.53
+En Stoemelings Hoppy Madame,En Stoemelings Hoppy Madame,Bière Blanche,Belgique,,33.0,4.5,,40,20,20,60,0,2.89,3.18
+Gouden Carolus Classic,Gouden Carolus Classic,Bière Quadruple,Belgique,Brouwerij Het Anker,33.0,8.5,16.0,60,80,0,20,20,2.29,3.8
+De Leckere Springhaver Lente,De Leckere Springhaver Lente,Bière Bock,Pays-Bas,Brouwerij De Leckere,33.0,6.5,,60,60,0,40,0,2.39,3.26
+Brasserie Lefebvre Barbar Blonde,Brasserie Lefebvre Barbar Blonde,Bière Blonde,Belgique,Brasserie Lefebvre,33.0,8.0,,60,60,0,20,0,2.79,3.52
+Corsendonk Pater Dubbel,Corsendonk Pater Dubbel,Bière Double,Belgique,Brasserie Du Bocq,33.0,6.5,,60,60,0,20,0,2.79,3.63
+Anchor Brewing Go West IPA,Anchor Brewing Go West IPA,Lager,Etats-Unis d'Amérique,Anchor Brewing Company,36.0,6.7,75.0,60,40,20,80,0,2.79,3.61
+Bevog Rudeen Black IPA,Bevog Rudeen Black IPA,IPA,Autriche,Bevog Craft Brewery,33.0,7.4,67.0,80,40,0,80,40,4.29,3.82
+Brewdog Punk IPA,Brewdog Punk IPA,IPA,Royaume-Uni,Brewdog,33.0,5.6,35.0,80,60,20,60,0,2.79,3.85
+De Prael D.I.P.A.,De Prael D.I.P.A.,IPA,Pays-Bas,Brouwerij De Prael,33.0,9.0,,60,60,20,40,0,2.55,3.79
+Flying Dog Raging Bitch,Flying Dog Raging Bitch,IPA,Etats-Unis d'Amérique,Flying Dog,36.0,8.3,60.0,60,60,20,60,0,3.59,3.69
+Anchor Brewing Liberty Ale,Anchor Brewing Liberty Ale,Lager,Etats-Unis d'Amérique,Anchor Brewing Company,36.0,5.9,47.0,60,40,20,60,0,2.89,3.57
+Flying Dog Blood Orange Ale,Flying Dog Blood Orange Ale,Pale Ale,Etats-Unis d'Amérique,Flying Dog,36.0,7.0,40.0,60,60,40,60,0,3.59,3.72
+Brand Imperator,Brand Imperator,Bière Bock,Pays-Bas,Brand,30.0,6.5,27.0,60,60,0,60,20,,3.48
+Bliksem Saison In The Abyss,Bliksem Saison In The Abyss,Bière de Garde & Saison,Pays-Bas,Brouwerij Bliksem,33.0,7.0,37.0,60,40,40,60,0,2.99,3.54
+Dupont Saison,Dupont Saison,Bière de Garde & Saison,Belgique,Brasserie Dupont,33.0,6.5,,60,40,40,40,0,2.59,3.78
+Brand UP,Brand UP,Pils & Hoppy Lager,Pays-Bas,Brand,30.0,5.5,36.0,60,60,20,60,0,1.89,3.25
+Flensburger Pils,Flensburger Pils,Pils & Hoppy Lager,Allemagne,Flensburger Brauerei,33.0,4.8,,40,40,20,60,0,2.59,3.28
+Chimay Bleue,Chimay Bleue,Bière Quadruple,Belgique,Chimay,33.0,9.0,35.0,60,60,0,40,20,2.89,3.99
+Duvel,Duvel,Bière Blonde,Belgique,Brouwerij Duvel Moortgat,33.0,8.5,33.0,60,60,40,40,0,2.59,3.81
+De Molen Bommen & Granaten,De Molen Bommen & Granaten,Bière Barley Wine,Pays-Bas,Brouwerij De Molen,33.0,11.9,30.0,80,80,20,40,0,3.79,3.91
+La Débauche Super Vanilla Brew,La Débauche Super Vanilla Brew,Bière Porter & Stout,France,Brasserie La Débauche,33.0,5.9,,80,60,0,60,40,2.89,3.78
+Pietra Bionda,Pietra Bionda,Lager,France,,25.0,5.5,,40,60,0,40,0,,3.12
+Amsterdam Brewboys Kama Citra,Amsterdam Brewboys Kama Citra,Bière Blanche,Pays-Bas,,33.0,4.4,28.0,60,40,40,20,0,2.69,3.35
+Amsterdam Brewboys Hophead Heaven,Amsterdam Brewboys Hophead Heaven,IPA,Pays-Bas,,33.0,7.5,75.0,80,60,0,80,0,3.09,3.71
+De Leckere WIPA,De Leckere WIPA,IPA,Pays-Bas,,25.0,5.5,,60,60,20,40,0,2.09,3.47
+Brouwerij Noordt Pomelo IPA,Brouwerij Noordt Pomelo IPA,IPA,Pays-Bas,Brouwerij Noordt,33.0,6.0,20.0,60,40,20,40,0,3.09,3.65
+Hopfmeister Free Rider,Hopfmeister Free Rider,Pils & Hoppy Lager,Allemagne,,33.0,0.5,,40,40,20,40,0,1.99,3.14
+Wild Beer Co Epic Saison,Wild Beer Co Epic Saison,Bière de Garde & Saison,Royaume-Uni,Wild Beer Company,33.0,5.0,48.0,0,20,20,20,0,,
+Piraat Red,Piraat Red,Bière Fruitée,Belgique,Brouwerij Van Steenberge,33.0,10.5,,80,100,20,40,0,2.19,3.64
+Marshall Dark Ale,Marshall Dark Ale,Bière Brune,France,,33.0,7.0,,60,80,0,60,0,2.59,3.31
+John Smiths Extra Smooth,John Smiths Extra Smooth,Pale Ale,Royaume-Uni,,50.0,3.6,23.0,60,40,0,60,20,1.99,2.89
+"Vagabund My Saddle, My Pony & Me","Vagabund My Saddle, My Pony & Me",Pale Ale,Allemagne,,33.0,5.2,,,,,,,2.99,3.53
+BrewDog Himbeer Berliner Weisse,BrewDog Himbeer Berliner Weisse,Bière Sour,Royaume-Uni,Brewdog,33.0,3.8,,,,,,,3.09,3.46
+Vagabund Brauerei Bindlestiff IPA,Vagabund Brauerei Bindlestiff IPA,IPA,Allemagne,,33.0,6.2,,,,,,,3.19,3.69
+Uiltje Brewing Company Wingman,Uiltje Brewing Company Wingman,Bière Blanche,Pays-Bas,Brouwerij Het Uiltje,33.0,6.0,,,,,,,3.29,3.32
+Mélusine Mandragore,Mélusine Mandragore,Pale Ale,France,,33.0,4.8,,,,,,,2.59,3.25
+Mélusine Nonnette,Mélusine Nonnette,Bière Brune,France,,33.0,5.6,,,,,,,2.59,3.32
+Dochter van de Korenaar Noblesse,Dochter van de Korenaar Noblesse,Bière Blonde,Belgique,,33.0,5.5,35.0,60,40,20,60,0,2.59,3.44
+Dochter van de Korenaar Embrasse,Dochter van de Korenaar Embrasse,Bière Quadruple,Belgique,,33.0,9.0,46.0,80,40,20,80,40,2.79,3.74
+De Dochter van de Korenaar Finesse,De Dochter van de Korenaar Finesse,Bière Triple,Belgique,,33.0,8.5,38.0,60,40,0,60,0,2.99,3.62
+Het Nest Schuppenboer Belgian Owl Barrel Aged,Het Nest Schuppenboer Belgian Owl Barrel Aged,Bière Triple,Belgique,,33.0,10.0,38.0,60,60,0,40,0,,3.7
+Brouwerij de Brabandere Petrus Nitro Quad,Brouwerij de Brabandere Petrus Nitro Quad,Bière Quadruple,Belgique,Brouwerij De Brabandere,33.0,11.5,,,,,,,2.39,3.7
+N'ice Chouffe,N'ice Chouffe,Bière Quadruple,Belgique,Brasserie d'Achouffe,33.0,10.0,,,,,,,,
+Frontaal South,Frontaal South,Bière Weiss,Pays-Bas,Brouwerij Frontaal,33.0,4.8,16.0,60,40,60,0,0,3.09,3.17
+Rivière d’Ain Rousse,Rivière d’Ain Rousse,Bière Ambrée,France,,33.0,6.6,,60,60,0,20,0,3.79,3.66
+Rivière d'Ain Thou Blanche,Rivière d'Ain Thou Blanche,Bière Blanche,France,,33.0,5.4,,60,60,40,20,0,3.69,3.8
+Rivière d'Ain Blonde,Rivière d'Ain Blonde,Bière Blonde,France,,33.0,6.0,,,,,,,3.79,3.54
+Rock City Brewing SmulBock,Rock City Brewing SmulBock,Bière Bock,Pays-Bas,,33.0,9.0,,,,,,,3.39,3.71
+Noordt Chrismas Pale Ale,Noordt Chrismas Pale Ale,Pale Ale,Pays-Bas,,33.0,7.0,,,,,,,,
+Brumore Weizen 0.0%,Brumore Weizen 0.0%,Bière Weiss,Belgique,,33.0,0.0,,,,,,,,
+Brumore Lager 0.0%,Brumore Lager 0.0%,Lager,Belgique,,33.0,0.0,,40,40,20,40,0,,
+Brumore IPA 0.0%,Brumore IPA 0.0%,IPA,Belgique,,33.0,0.0,,,,,,,,
+Frontaal West,Frontaal West,Bière Bock,Pays-Bas,Brouwerij Frontaal,33.0,6.5,22.0,60,60,0,40,0,,3.29
+Mort Subite Witte Lambic,Mort Subite Witte Lambic,Bière Blanche,Belgique,,25.0,5.5,,,,,,,1.79,3.43
+Gouden Carolus Whisky Infused,Gouden Carolus Whisky Infused,Bière Brune,Belgique,Brouwerij Het Anker,33.0,11.7,17.0,80,60,0,40,20,3.39,4.09
+Brouwerij 't IJ IPA,Brouwerij 't IJ IPA,IPA,Pays-Bas,Brouwerij 't IJ,33.0,7.0,60.0,60,40,0,80,0,2.49,3.62
+Fourpure Star City,Fourpure Star City,IPA,Royaume-Uni,Fourpure,44.0,7.4,65.0,80,60,0,80,0,4.59,3.66
+Road Runner Coffee Stout Alkoholfrei,Road Runner Coffee Stout Alkoholfrei,Bière Porter & Stout,Allemagne,,33.0,0.4,,60,60,20,80,20,3.39,3.53
+Brouwerij 't IJ Zatte Tripel,Brouwerij 't IJ Zatte Tripel,Bière Triple,Pays-Bas,Brouwerij 't IJ,33.0,8.0,19.0,60,60,0,40,0,2.29,3.7
+Mikkeller Milk Stout,Mikkeller Milk Stout,Bière Porter & Stout,Danemark,Mikkeller,33.0,6.0,,60,60,20,60,0,4.39,3.88
+St-Feuillien Quadrupel,St-Feuillien Quadrupel,Bière Quadruple,Belgique,St. Feuillien,33.0,11.0,,60,80,0,60,0,2.79,3.89
+Belgosapiens Blanche de Thines,Belgosapiens Blanche de Thines,Bière Blanche,Belgique,Belgo Sapiens Brewers,33.0,4.8,20.0,60,60,20,20,0,,3.27
+Camba 4 Sessions,Camba 4 Sessions,Pale Ale,Allemagne,,33.0,4.1,,,,,,,2.49,3.32
+Camba Mastrobator,Camba Mastrobator,Bière Bock,Allemagne,,33.0,8.5,,,,,,,2.69,3.55
+Camba SamBa Collab,Camba SamBa Collab,IPA,Allemagne,,33.0,7.2,,,,,,,2.89,3.65
+Studio Oedipus No. 34,Studio Oedipus No. 34,Bière de Garde & Saison,Pays-Bas,Brasserie Oedipus,33.0,5.0,,,,,,,5.29,3.48
+Jessenhofke RSRV,Jessenhofke RSRV,Bière Quadruple,Belgique,Jessenhofke,33.0,10.0,,60,60,20,40,0,2.89,3.45
+Jessenhofke TRPL,Jessenhofke TRPL,Bière Triple,Belgique,Jessenhofke,33.0,8.0,26.0,60,60,20,40,0,,3.42
+Lupulus Organicus,Lupulus Organicus,Bière Triple,Belgique,,33.0,8.5,32.0,60,40,40,40,0,2.39,3.63
+Malheur 6,Malheur 6,Bière Blonde,Belgique,Brewery De Landtsheer,25.0,6.0,,60,60,20,40,0,,3.35
+Moinette Bruin,Moinette Bruin,Bière Brune,Belgique,Brasserie Dupont,33.0,8.5,35.0,60,60,20,40,0,,3.57
+Saison Voisin,Saison Voisin,Bière de Garde & Saison,Belgique,Brasserie des Légendes,33.0,5.0,40.0,60,40,20,60,0,2.29,3.38
+Straffe Hendrik Triple,Straffe Hendrik Triple,Bière Triple,Belgique,Brouwerij De Halve Maan,33.0,9.0,35.0,60,60,20,40,0,2.99,3.83
+Ter Dolen Donker,Ter Dolen Donker,Bière Double,Belgique,Ter Dolen,33.0,7.1,,60,60,0,40,0,2.59,3.48
+Triporteur From Heaven,Triporteur From Heaven,Bière Blonde,Belgique,,33.0,6.2,28.0,60,60,20,40,0,2.39,3.59
+Troubadour Blond,Troubadour Blond,Bière Blonde,Belgique,Brouwerij The Musketeers,33.0,6.5,30.0,60,60,20,60,0,2.59,3.49
+Urthel Hop-It,Urthel Hop-It,,Belgique,Microbrouwerij Urthel,33.0,9.5,80.0,60,60,20,60,0,2.69,3.58
+Viven Imperial IPA,Viven Imperial IPA,IPA,Belgique,Brouwerij Van Viven,33.0,8.0,124.0,80,40,20,80,0,2.99,3.72
+Wilderen Goud,Wilderen Goud,Bière Blonde,Belgique,Brouwerij Wilderen,33.0,6.2,,60,60,20,40,0,,3.51
+Bornem Dubbel,Bornem Dubbel,Bière Double,Belgique,Brouwerij Van Steenberge,33.0,7.2,,60,60,0,20,0,2.29,3.45
+Bornem Tripel,Bornem Tripel,Bière Triple,Belgique,Brouwerij Van Steenberge,33.0,9.0,,60,60,20,40,0,2.49,3.55
+Dochter Van De Korenaar Charbon,Dochter Van De Korenaar Charbon,Bière Porter & Stout,Belgique,,33.0,6.2,46.0,80,40,20,80,0,2.59,3.65
+Dupont Bons Voeux,Dupont Bons Voeux,Bière de Garde & Saison,Belgique,Brasserie Dupont,38.0,9.5,28.0,60,60,20,40,0,2.99,3.9
+Piraat Tripel Hop,Piraat Tripel Hop,Bière Blonde,Belgique,Brouwerij Van Steenberge,33.0,10.5,65.0,60,60,0,60,0,2.79,3.64
+Van Moll Toewijding,Van Moll Toewijding,Bière Blonde,Pays-Bas,,33.0,6.5,,40,20,0,60,0,2.79,3.5
+Walhalla Minerva,Walhalla Minerva,Bière Blanche,Pays-Bas,Walhalla Craft Beer,33.0,4.4,15.0,60,40,20,40,0,2.39,3.22
+Neleman Vrolijkheid Mocha,Neleman Vrolijkheid Mocha,Bière Ambrée,Pays-Bas,,33.0,5.0,,60,60,20,20,0,2.49,3.08
+De Eeuwige Jeugd Bokkelul,De Eeuwige Jeugd Bokkelul,Bière Bock,Pays-Bas,Brouwerij De Eeuwige Jeugd,33.0,6.5,,60,60,40,40,0,,
+Kompaan Bock's,Kompaan Bock's,Bière Bock,Pays-Bas,Brouwerij Kompaan,33.0,7.5,27.0,80,40,0,60,0,,
+Lindeboom Gouverneur Dubbelbock,Lindeboom Gouverneur Dubbelbock,Bière Bock,Pays-Bas,Lindeboom Bierbrouwerij,30.0,7.5,22.0,60,60,0,20,0,1.89,3.32
+Two Chefs Brewing Billy Biscuit,Two Chefs Brewing Billy Biscuit,Bière Bock,Pays-Bas,Two Chefs Brewing,33.0,7.2,38.0,60,80,20,40,20,,
+Oersoep Sexy Motherbocker,Oersoep Sexy Motherbocker,Bière Bock,Pays-Bas,,33.0,8.4,,60,60,40,60,0,,
+Budels Bock d'Automne,Budels Bock d'Automne,Bière Bock,Pays-Bas,Budelse Brouwerij,30.0,6.5,,60,60,0,40,0,,3.28
+Gipsy Hill Hepcat,Gipsy Hill Hepcat,IPA,Royaume-Uni,Gipsy Hill,33.0,4.6,34.0,0,0,0,0,0,2.45,3.71
+First Chop SUP,First Chop SUP,IPA,Royaume-Uni,First Chop Brewing Arm,33.0,3.9,28.0,60,20,0,80,0,2.59,3.24
+Moor Revival,Moor Revival,Pale Ale,Royaume-Uni,,33.0,3.8,35.0,80,0,0,80,0,2.59,3.6
+Fourpure Hemisphere Session IPA,Fourpure Hemisphere Session IPA,IPA,Royaume-Uni,Fourpure,33.0,4.2,40.0,60,40,0,80,0,2.69,3.48
+Galway Bay Bay Ale,Galway Bay Bay Ale,Bière Ambrée,Irlande,,33.0,4.4,35.0,60,60,20,40,0,2.69,3.5
+Fourpure Base Camp Pils Lager,Fourpure Base Camp Pils Lager,Pils & Hoppy Lager,Royaume-Uni,Fourpure,33.0,4.7,30.0,40,20,0,40,0,2.69,3.29
+Thornbridge I Love U Will You Marry Me,Thornbridge I Love U Will You Marry Me,Bière Fruitée,Royaume-Uni,Thornbridge,33.0,4.7,,40,60,40,20,20,2.79,3.4
+Breugem Saens Zoentje,Breugem Saens Zoentje,Bière Blonde,Pays-Bas,Brouwerij Breugem,33.0,6.2,25.0,40,60,0,40,0,2.79,3.43
+Two Chefs Brewing Red Rocket,Two Chefs Brewing Red Rocket,Bière Ambrée,Pays-Bas,Two Chefs Brewing,33.0,5.1,17.0,60,40,20,60,20,2.49,3.42
+Corsendonk Christmas,Corsendonk Christmas,Bière Brune,Belgique,Brasserie Du Bocq,25.0,8.5,,60,60,0,40,0,1.95,3.75
+Kerstpater,Kerstpater,Bière Brune,Belgique,Brouwerij Van den Bossche,33.0,9.0,,60,80,0,40,20,2.89,3.6
+Baladin Isaac,Baladin Isaac,Bière Blanche,Italie,Baladin,33.0,5.0,10.0,60,60,20,20,0,3.79,3.57
+Baladin Leon,Baladin Leon,Bière Quadruple,Italie,Baladin,33.0,9.0,22.0,60,60,20,20,0,3.89,3.78
+Baladin Nazionale,Baladin Nazionale,Bière Blonde,Italie,Baladin,33.0,6.5,29.0,60,60,20,40,0,3.79,3.51
+Harviestoun Schiehallion,Harviestoun Schiehallion,Pils & Hoppy Lager,Royaume-Uni,,33.0,4.8,,60,60,0,20,20,2.79,3.47
+Vandestreek Turf 'n Surf,Vandestreek Turf 'n Surf,Bière Triple,Pays-Bas,vandeStreek,33.0,8.5,15.0,60,60,0,60,0,3.09,3.46
+Saigon Export,Saigon Export,Lager,Vietnam,,36.0,4.9,,40,40,0,60,0,2.29,2.81
+Siren Undercurrent,Siren Undercurrent,Pale Ale,Royaume-Uni,,33.0,4.5,35.0,60,40,0,60,0,3.19,3.59
+Weihenstephan Hefe Weissbier,Weihenstephan Hefe Weissbier,Bière Weiss,Allemagne,Bayerische Staatsbrauerei Weihenstephan,50.0,5.4,14.0,60,60,20,20,0,2.49,3.84
+Kehrwieder Kreativbrauerei ü.NN - überNormalNull,Kehrwieder Kreativbrauerei ü.NN - überNormalNull,,Allemagne,,33.0,0.4,45.0,60,60,20,60,0,2.49,3.37
+Magic Rock Salty Kiss,Magic Rock Salty Kiss,Bière Sour,Royaume-Uni,,33.0,4.1,,60,20,60,20,0,2.79,3.48
+Samuel Smith Oatmeal Stout,Samuel Smith Oatmeal Stout,Bière Porter & Stout,Royaume-Uni,,55.0,5.0,35.0,60,60,20,60,20,3.79,3.83
+Grimbergen Blond,Grimbergen Blond,Bière Blonde,Belgique,Alken-Maes,33.0,6.7,22.0,40,60,20,40,0,2.59,3.5
+Kehrwieder Kreativbrauerei SHIPA,Kehrwieder Kreativbrauerei SHIPA,IPA,Allemagne,,33.0,7.5,65.0,60,60,0,60,0,2.99,3.69
+Welde Kurpfalzbräu Helles,Welde Kurpfalzbräu Helles,Lager,Allemagne,,50.0,5.2,16.0,40,40,0,60,0,2.19,3.4
+La Débauche Nevermore,La Débauche Nevermore,Bière Porter & Stout,France,Brasserie La Débauche,33.0,9.5,,80,60,20,80,20,4.29,4.01
+La Débauche Cognac Barrel,La Débauche Cognac Barrel,Bière Barley Wine,France,Brasserie La Débauche,33.0,9.5,,80,60,20,60,0,4.39,3.66
+Page 24 Robust Porter,Page 24 Robust Porter,Bière Porter & Stout,France,,33.0,5.9,36.0,80,60,20,60,40,3.19,3.38
+Samuel Smith India Ale,Samuel Smith India Ale,IPA,Royaume-Uni,,55.0,5.0,46.0,60,60,0,60,0,3.69,3.43
+Beavertown Gamma Ray,Beavertown Gamma Ray,Pale Ale,Royaume-Uni,,33.0,5.4,45.0,80,60,20,60,0,2.89,3.9
+Frontaal Billiard,Frontaal Billiard,Bière Porter & Stout,Pays-Bas,Brouwerij Frontaal,33.0,10.1,55.0,80,40,0,80,0,3.59,3.65
+De Natte Gijt Vredesgijt,De Natte Gijt Vredesgijt,IPA,Pays-Bas,Brouwerij de Natte Gijt,33.0,6.8,65.0,80,40,0,60,0,2.49,3.42
+Two Chefs Brewing Howling Wolf,Two Chefs Brewing Howling Wolf,Bière Porter & Stout,Pays-Bas,Two Chefs Brewing,33.0,8.0,40.0,80,80,20,60,20,2.89,3.56
+Ninkasi Triple,Ninkasi Triple,Bière Triple,France,Ninkasi Fabriques,33.0,8.4,35.0,60,80,0,40,0,,3.54
+Het Uiltje Uilskuikentje,Het Uiltje Uilskuikentje,IPA,Pays-Bas,Brouwerij Het Uiltje,33.0,4.3,25.0,40,40,0,40,0,2.69,3.52
+Magic Rock Dark Arts,Magic Rock Dark Arts,Bière Porter & Stout,Royaume-Uni,,33.0,6.0,,80,40,0,60,20,2.89,3.76
+Sierra Nevada Pale Ale,Sierra Nevada Pale Ale,Pale Ale,Etats-Unis d'Amérique,,36.0,5.6,38.0,60,60,0,60,0,3.89,3.65
+Texels Goudkoppe,Texels Goudkoppe,Bière Blonde,Pays-Bas,Texels,30.0,6.0,20.0,60,60,0,40,0,2.59,3.48
+Texels Dubbel,Texels Dubbel,Bière Double,Pays-Bas,Texels,30.0,6.4,22.0,60,60,0,40,0,2.49,3.42
+Samuel Smith Imperial Stout,Samuel Smith Imperial Stout,Bière Porter & Stout,Royaume-Uni,,36.0,7.0,35.0,60,60,20,60,40,3.19,3.8
+Bax Bier Rokkenjager,Bax Bier Rokkenjager,Pale Ale,Pays-Bas,Bax Bier Brouwerij,33.0,6.5,35.0,20,0,0,60,0,2.29,3.24
+Van Moll Doerak,Van Moll Doerak,IPA,Pays-Bas,,33.0,6.3,,80,60,20,60,0,2.69,3.63
+Ardwen Woinic APA,Ardwen Woinic APA,Pale Ale,France,Ardwen,33.0,6.5,79.0,60,40,20,60,0,2.79,3.46
+First Chop PIP,First Chop PIP,Bière de Garde & Saison,Royaume-Uni,First Chop Brewing Arm,33.0,6.3,,60,40,20,60,0,3.29,3.48
+Hoppebrau Fuchsteufelswuid,Hoppebrau Fuchsteufelswuid,IPA,Allemagne,,33.0,8.2,72.0,80,60,0,80,0,3.09,3.65
+Cinema Brewers $5 Shake,Cinema Brewers $5 Shake,Bière Blanche,Pays-Bas,Cinema Brewers,33.0,5.5,,60,60,20,40,0,3.09,3.56
+Brasserie De Sutter Dément'brée,Brasserie De Sutter Dément'brée,Bière Ambrée,France,Brasserie de Sutter,33.0,7.0,,60,60,20,40,0,2.79,3.25
+Bokkereyer,Bokkereyer,Bière Ambrée,Belgique,,25.0,6.0,23.0,60,60,0,40,0,1.99,3.07
+Stanislaus Brewskovitch SambalBij,Stanislaus Brewskovitch SambalBij,Bière Blonde,Pays-Bas,Stanislaus Brewskovitch,33.0,5.6,23.0,40,60,0,40,0,3.09,3.38
+Robinsons Trooper,Robinsons Trooper,Pale Ale,Royaume-Uni,,33.0,4.7,35.0,60,40,20,60,0,3.99,3.39
+Ardwen Ambrée,Ardwen Ambrée,Bière Ambrée,France,Ardwen,33.0,6.5,,20,60,0,20,0,2.69,3.06
+Gipsy Hill Beatnik,Gipsy Hill Beatnik,Pale Ale,Royaume-Uni,Gipsy Hill,33.0,3.8,,60,60,0,60,0,2.39,3.51
+Two Chefs Brewing Hippie Fish,Two Chefs Brewing Hippie Fish,Pale Ale,Pays-Bas,Two Chefs Brewing,33.0,4.7,27.0,60,60,20,60,0,2.39,3.4
+First Chop IPA,First Chop IPA,IPA,Royaume-Uni,First Chop Brewing Arm,33.0,5.0,,40,60,20,40,0,3.29,2.91
+Oersoep Sergeant Pepper,Oersoep Sergeant Pepper,Bière de Garde & Saison,Pays-Bas,,33.0,7.0,,60,40,0,40,0,3.09,3.54
+Berging Brouwerij BW18 Champagne Cognac Barley Wine,Berging Brouwerij BW18 Champagne Cognac Barley Wine,Bière Barley Wine,Pays-Bas,Berging Brouwerij,33.0,10.0,70.0,100,60,0,40,20,3.45,3.93
+Hopfmeister Brazilian Road Trip,Hopfmeister Brazilian Road Trip,Bière Porter & Stout,Allemagne,,33.0,6.5,,60,60,0,60,0,3.99,3.19
+La Trappe Dubbel,La Trappe Dubbel,Bière Double,Pays-Bas,La Trappe (La Brasserie De Koningshoeven),33.0,7.0,22.0,60,60,0,20,0,2.39,3.63
+La Trappe Tripel,La Trappe Tripel,Bière Triple,Pays-Bas,La Trappe (La Brasserie De Koningshoeven),33.0,8.0,30.0,60,60,20,60,0,2.69,3.81
+Fourpure Southern Latitude,Fourpure Southern Latitude,Pale Ale,Royaume-Uni,Fourpure,50.0,4.4,30.0,60,40,0,40,0,,
+Rogue Brutal IPA,Rogue Brutal IPA,IPA,Etats-Unis d'Amérique,,36.0,6.0,46.0,60,40,0,60,0,3.39,3.69
+Rogue Dead Guy Ale,Rogue Dead Guy Ale,Bière Bock,France,,36.0,6.8,40.0,60,60,0,40,0,2.99,3.72
+La Violette du Mont Blanc,La Violette du Mont Blanc,Bière Fruitée,France,Mont-Blanc,33.0,4.7,,20,60,40,0,20,2.79,2.69
+La Rousse du Mont Blanc,La Rousse du Mont Blanc,Bière Ambrée,France,Mont-Blanc,33.0,6.5,21.0,40,60,0,20,0,2.79,3.54
+Belgosapiens P'tit Granit,Belgosapiens P'tit Granit,Bière Porter & Stout,Belgique,Belgo Sapiens Brewers,33.0,4.9,48.0,80,60,0,60,20,2.49,3.2
+Ayinger Bräuweisse,Ayinger Bräuweisse,Bière Weiss,Allemagne,Ayinger,33.0,5.1,13.0,60,60,40,20,0,2.49,3.76
+Palm Hop Select,Palm Hop Select,Pale Ale,Belgique,Brouwerij Palm,33.0,6.0,34.0,40,60,0,40,0,2.59,3.34
+Estaminet Premium Pils,Estaminet Premium Pils,Pils & Hoppy Lager,Belgique,Brouwerij Palm,25.0,5.2,,40,60,0,40,0,1.99,3.07
+,,,,,,,,,,,,,,
+Ninkasi Quadruple,Ninkasi Quadruple,Bière Quadruple,France,Ninkasi Fabriques,33.0,10.0,,100,80,0,20,0,3.29,3.75
+La Blonde du Mont Blanc,La Blonde du Mont Blanc,Bière Blonde,France,Mont-Blanc,33.0,5.8,,20,40,20,20,0,2.79,3.36
+Kees Export Porter 1750,Kees Export Porter 1750,Bière Porter & Stout,Pays-Bas,Brouwerij Kees,33.0,10.5,110.0,100,60,20,100,40,3.69,3.97
+Wild Card Brewery King of Hearts,Wild Card Brewery King of Hearts,Bière Blonde,Royaume-Uni,,33.0,4.5,,0,0,0,0,0,,
+Pietra Corsican IPA,Pietra Corsican IPA,IPA,France,,33.0,6.0,40.0,60,60,0,60,0,2.89,3.49
+Moor Amoor,Moor Amoor,Bière Porter & Stout,Royaume-Uni,,33.0,4.5,,,,,,,,
+Het Nest Kleveretien,Het Nest Kleveretien,Bière Quadruple,Belgique,,33.0,10.1,45.0,60,80,0,60,0,2.59,3.57
+Het Nest Schuppenaas,Het Nest Schuppenaas,Bière Blonde,Belgique,,33.0,6.5,44.0,60,40,40,60,0,2.59,3.33
+Hertog Jan Grand Prestige,Hertog Jan Grand Prestige,Bière Barley Wine,Pays-Bas,,30.0,10.0,25.0,60,80,0,40,0,2.39,3.83
+Kehrwieder Kreativbrauerei SHIPA Hull Melon,Kehrwieder Kreativbrauerei SHIPA Hull Melon,IPA,Allemagne,,33.0,7.5,65.0,60,60,0,60,0,2.99,3.69
+Kraftbier Schoon Mèdje,Kraftbier Schoon Mèdje,IPA,Pays-Bas,,33.0,6.3,65.0,60,40,20,60,0,2.89,3.46
+Grisette Blanche Bio,Grisette Blanche Bio,Bière Blanche,Belgique,St. Feuillien,25.0,5.5,26.0,60,40,40,0,0,1.99,3.52
+Palm Session IPA,Palm Session IPA,IPA,Belgique,Brouwerij Palm,33.0,3.5,,40,40,0,40,0,2.29,3.21
