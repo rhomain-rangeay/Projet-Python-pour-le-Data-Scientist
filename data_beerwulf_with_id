@@ -1,0 +1,748 @@
+,beer_name,beer_style,country,brewery_name,bottle,abv,ibu,intensite,longueur,acidite,amertume,price,note,prix_de_la_pinte,id_beer
+0,Affligem Blond,Bière Blonde,BE,Affligem,30.0,6.8,,3.0,3.0,0.0,2.0,,3.76,,620
+1,Affligem Tripel,Bière Triple,BE,Affligem,30.0,9.0,,3.0,3.0,1.25,3.0,1.79,3.57,2.98,2311
+2,Atlantic Blanche des Gabariers,Bière Blanche,FR,Brasserie des Gabariers,33.0,5.0,,2.0,3.0,1.25,1.0,2.79,2.93,4.23,146077
+3,Bacchus Framboos,Bière Fruitée,BE,Brouwerij Van Honsebrouck,38.0,5.0,,4.0,3.0,3.75,1.0,3.49,3.6,4.59,54016
+4,Baladin Nora,Bière Blonde,IT,Baladin,33.0,6.8,11.0,3.0,3.0,0.0,1.0,3.49,3.63,5.29,4773
+5,Belgosapiens Polarius,Pils & Hoppy Lager,BE,Belgo Sapiens Brewers,33.0,5.0,30.0,2.0,2.0,0.0,3.0,2.49,3.09,3.77,216278
+6,Birra Ichnusa,Lager,IT,Ichnusa,33.0,4.7,,1.0,2.0,0.0,1.0,1.79,2.85,2.71,18552
+7,Birra Moretti L'Autentica,Lager,IT,,33.0,4.6,12.0,2.0,2.0,0.0,2.0,1.69,3.1,2.56,242573
+8,Boon Kriek Mariage Parfait,Bière Sour,BE,Brouwerij Boon,38.0,8.0,,4.0,2.0,3.75,0.0,4.99,3.9,6.57,5961
+9,Boon Oude Kriek,Bière Sour,BE,Brouwerij Boon,38.0,6.5,,3.0,1.0,5.0,0.0,4.49,3.65,5.91,8047
+10,Brasserie Des Cimes Impérial Stout,Bière Porter & Stout,FR,,33.0,9.0,,5.0,4.0,1.25,4.0,3.69,3.19,5.59,81130
+11,Brasserie Des Cimes IPA,IPA,FR,,33.0,5.0,,2.0,2.0,0.0,2.0,,3.13,,65539
+12,Brewdog Elvis Juice,Lager,GB,Brewdog,33.0,6.5,40.0,3.0,3.0,1.25,3.0,2.99,3.85,4.53,222579
+13,Brewdog Punk IPA,IPA,GB,Brewdog,33.0,5.6,35.0,4.0,3.0,1.25,3.0,2.79,3.85,4.23,39435
+14,Brixton Low Voltage,IPA,GB,,33.0,4.3,40.0,2.0,2.0,1.25,3.0,,,,227290
+15,BRLO Pale Ale,Pale Ale,DE,,33.0,6.0,35.0,3.0,3.0,0.0,3.0,2.89,3.55,4.38,170812
+16,Brlo Berliner Weisse,Bière Sour,DE,,33.0,4.0,5.0,4.0,2.0,5.0,0.0,2.69,3.15,4.08,365372
+17,Bronckhorster Slimme Rhakker,Lager,NL,Bronckhorster Brewing Company,33.0,2.5,26.0,3.0,3.0,1.25,3.0,3.19,3.11,4.83,239622
+18,Brouwerij 't IJ Natte Dubbel,Bière Double,NL,Brouwerij 't IJ,33.0,6.5,,3.0,3.0,0.0,2.0,2.65,3.44,4.02,240667
+19,Brouwerij 'T Verzet Oud Bruin,Bière Sour,BE,,33.0,6.0,,5.0,1.0,5.0,0.0,2.99,3.71,4.53,102496
+20,Brussels Beer Project Grosse Bertha,Bière Weiss,BE,Brussels Beer Project,33.0,7.0,20.0,2.0,4.0,1.25,2.0,2.89,3.57,4.38,139516
+21,Budels Honing Bio,Lager,NL,Budelse Brouwerij,30.0,4.5,,3.0,3.0,0.0,1.0,2.19,3.08,3.65,20582
+22,Chimay Triple,Bière Triple,BE,Chimay,33.0,8.0,,3.0,3.0,1.25,3.0,2.59,3.81,3.92,1346
+23,Davo Tripel,Bière Triple,NL,Davo Bieren,33.0,8.5,28.0,3.0,3.0,1.25,3.0,3.19,3.6,4.83,262387
+24,De Ranke Simplex,Bière Blonde,BE,De Ranke,33.0,4.5,50.0,3.0,3.0,0.0,3.0,2.49,3.25,3.77,283204
+25,Desperados,Lager,FR,Desperados,33.0,5.9,,3.0,3.0,1.25,1.0,1.79,3.15,2.71,53375
+26,Fagnes Brune,Bière Double,BE,Brasserie des Fagnes,33.0,7.5,,3.0,3.0,1.25,2.0,2.69,3.35,4.08,9104
+27,Ename Blond,Bière Blonde,BE,,33.0,6.5,,2.0,3.0,0.0,2.0,2.49,3.44,3.77,7017
+28,Erdinger sans Alcool,Bière Weiss,DE,Erdinger,33.0,0.5,,2.0,3.0,1.25,1.0,1.79,2.8,2.71,39457
+29,Erdinger Hefeweizen,Bière Weiss,DE,Erdinger,50.0,5.3,,2.0,3.0,1.25,1.0,2.39,3.71,2.39,175631
+30,Fuller's London Pride,Pale Ale,GB,,33.0,4.7,35.0,3.0,3.0,0.0,3.0,3.49,3.44,5.29,222
+31,Gallia Lager,Bière Blonde,FR,,33.0,5.5,25.0,2.0,2.0,0.0,2.0,2.59,3.06,3.92,269063
+32,La Goudale Blonde,Bière de Garde & Saison,FR,Goudale,33.0,7.2,28.0,3.0,4.0,0.0,2.0,2.49,3.4,3.77,354103
+33,Grisette Triple Bio,Bière Triple,BE,St. Feuillien,25.0,8.0,,3.0,3.0,1.25,3.0,2.29,3.67,4.58,135965
+34,Gruut Blond,Bière Blonde,BE,Gentse Gruut Stadsbrouwerij,33.0,5.5,,3.0,3.0,0.0,2.0,2.69,3.32,4.08,67676
+35,Het Nest Pokerface,Bière Blanche,BE,,33.0,5.5,30.0,2.0,2.0,1.25,1.0,2.29,3.41,3.47,288999
+36,Hoppebrau Wuida Hund,Pils & Hoppy Lager,DE,,33.0,4.5,38.0,3.0,2.0,0.0,3.0,2.79,3.44,4.23,194398
+37,Hoppebrau Helles,Lager,DE,,50.0,4.9,,2.0,2.0,0.0,2.0,2.49,3.34,2.49,57970
+38,Judas,Bière Blonde,BE,Alken-Maes,33.0,8.5,,3.0,4.0,1.25,2.0,2.39,3.51,3.62,7604
+39,Jopen Koyt,Bière Brune,NL,Brouwerij Jopenkerk,33.0,8.5,18.0,4.0,3.0,1.25,2.0,2.89,3.65,4.38,4897
+40,Kapittel Watou Prior 9,Bière Brune,BE,,33.0,9.0,,3.0,3.0,0.0,2.0,2.29,3.49,3.47,9279
+41,Jopen Jacobus RPA,Pale Ale,NL,Brouwerij Jopenkerk,33.0,5.5,45.0,3.0,3.0,1.25,3.0,2.89,3.48,4.38,77900
+42,Kompaan Bondgenoot,Pale Ale,NL,Brouwerij Kompaan,33.0,5.2,38.0,2.0,3.0,2.5,2.0,,3.32,,88566
+43,Kompaan Kameraad,Pils & Hoppy Lager,NL,Brouwerij Kompaan,33.0,5.0,24.0,3.0,1.0,1.25,3.0,2.49,3.23,3.77,117954
+44,Kona Hanalei Island,IPA,US,,36.0,4.5,40.0,3.0,3.0,0.0,3.0,2.99,3.63,4.15,242043
+45,La Brune de Vézelay,Bière Brune,FR,Brasserie de Vézelay,50.0,5.5,16.0,3.0,3.0,0.0,2.0,4.39,3.32,4.39,164556
+46,La Trappe Blonde,Bière Blonde,NL,La Trappe (La Brasserie De Koningshoeven),33.0,6.5,20.0,3.0,3.0,1.25,2.0,2.49,3.71,3.77,86924
+47,La Trappe Witte Trappist,Bière Blanche,NL,La Trappe (La Brasserie De Koningshoeven),33.0,5.5,14.0,3.0,3.0,1.25,2.0,2.29,3.64,3.47,20298
+48,Lagunitas A Little Sumpin' Sumpin',IPA,US,Lagunitas Brewing Company,36.0,7.5,64.0,3.0,3.0,1.25,2.0,2.99,3.87,4.15,299712
+49,Lagunitas IPA,IPA,US,Lagunitas Brewing Company,36.0,6.2,46.0,3.0,3.0,0.0,2.0,2.89,3.82,4.01,916
+50,Leffe Blonde,Bière Blonde,BE,Brasserie Artois,30.0,6.6,,3.0,3.0,3.75,0.0,2.39,3.71,3.98,2137
+51,Liefmans Goudenband,Bière Sour,BE,Liefmans,33.0,8.0,,4.0,2.0,5.0,1.0,2.89,3.83,4.38,773
+52,Lowlander White Ale,Bière Blanche,NL,Lowlander,33.0,5.0,12.0,2.0,2.0,1.25,2.0,3.19,3.48,4.83,225181
+53,Maximus Pandora 6,Pale Ale,NL,Brouwerij Maximus,33.0,6.0,30.0,3.0,3.0,0.0,2.0,2.19,3.49,3.32,91568
+54,Mongozo Premium Pilsener,Pils & Hoppy Lager,BE,Huyghe,33.0,5.0,,2.0,3.0,1.25,2.0,,2.82,,9080
+55,Oedipus Thai Thai,Bière Triple,NL,Brasserie Oedipus,33.0,8.0,20.0,3.0,3.0,1.25,2.0,2.99,3.64,4.53,371022
+56,Oedipus Mama,Pale Ale,NL,Brasserie Oedipus,33.0,5.0,30.0,3.0,3.0,1.25,2.0,2.89,3.46,4.38,261206
+57,Oedipus Mannenliefde,Bière de Garde & Saison,NL,Brasserie Oedipus,33.0,6.0,25.0,3.0,2.0,2.5,3.0,2.99,3.49,4.53,110258
+58,Oedipus Pilsner,Pils & Hoppy Lager,NL,,33.0,5.0,20.0,2.0,2.0,0.0,2.0,2.89,3.21,4.38,20353
+59,Oud Beersel Framboise,Bière Sour,BE,Oud Beersel Brouwerij,38.0,5.0,,3.0,3.0,2.5,0.0,6.49,3.57,8.54,25277
+60,Oud Beersel Oude Geuze Vieille,Bière Sour,BE,Oud Beersel Brouwerij,38.0,6.0,,5.0,2.0,5.0,1.0,,3.78,,2595
+61,Oud Beersel Oude Kriek Vieille,Bière Sour,BE,Oud Beersel Brouwerij,38.0,6.0,,4.0,2.0,5.0,0.0,5.89,3.84,7.75,2595
+62,Paljas IPA,IPA,BE,,33.0,6.0,35.0,3.0,3.0,1.25,2.0,2.29,3.47,3.47,152783
+63,Petrus Aged Pale,Bière Sour,BE,Brouwerij De Brabandere,33.0,7.3,,5.0,1.0,5.0,2.0,2.79,3.73,4.23,2184
+64,Petrus Red,Bière Sour,BE,Brouwerij De Brabandere,33.0,8.5,18.0,3.0,3.0,2.5,1.0,2.39,3.72,3.62,90671
+65,Petrus Rood Bruin,Bière Sour,BE,Brouwerij De Brabandere,33.0,5.5,17.0,4.0,2.0,5.0,1.0,2.29,3.59,3.47,283344
+66,Postel Dubbel,Bière Double,BE,,33.0,7.0,,3.0,4.0,0.0,2.0,2.59,3.38,3.92,7008
+67,Rochefort 8',Bière Quadruple,BE,Brouwerij Rochefort,33.0,9.2,,4.0,3.0,0.0,1.0,2.89,4.03,4.38,1696
+68,Roman Gentse Strop,Bière Blonde,BE,,33.0,6.9,,2.0,3.0,0.0,2.0,2.39,3.44,3.62,70950
+69,Schoppe Bräu Juice,IPA,DE,,33.0,5.6,40.0,3.0,2.0,0.0,3.0,3.29,3.5,4.98,104787
+70,Sol,Lager,MX,,33.0,4.5,,2.0,2.0,0.0,1.0,,3.01,,2803
+71,St. Feuillien Tripel,Bière Triple,BE,St. Feuillien,33.0,8.5,28.0,3.0,3.0,1.25,2.0,2.59,3.74,3.92,7456
+72,St. Feuillien Brune,Bière Double,BE,St. Feuillien,33.0,8.5,,3.0,3.0,0.0,2.0,2.49,3.57,3.77,7456
+73,Steenbrugge Blond,Bière Blonde,BE,Brouwerij Palm,33.0,6.5,,3.0,3.0,1.25,2.0,2.79,3.45,4.23,43829
+74,Steenbrugge Dubbel,Bière Double,BE,Brouwerij Palm,33.0,6.5,,3.0,3.0,0.0,2.0,2.79,3.45,4.23,671
+75,Ter Dolen Blond,Bière Blonde,BE,Ter Dolen,33.0,6.1,,3.0,3.0,0.0,2.0,2.49,3.5,3.77,70612
+76,Texels Springtij,Bière Bock,NL,Texels,30.0,7.5,25.0,3.0,3.0,0.0,3.0,2.59,3.53,4.32,93617
+77,Texels Skiller Wit,Bière Blanche,NL,Texels,30.0,5.0,,3.0,2.0,1.25,3.0,2.49,3.33,4.15,51770
+78,Troubadour Magma,IPA,BE,Brouwerij The Musketeers,33.0,9.0,45.0,4.0,3.0,1.25,3.0,2.79,3.73,4.23,58261
+79,Troubadour Obscura,Bière Brune,BE,Brouwerij The Musketeers,33.0,8.2,30.0,4.0,4.0,0.0,2.0,2.79,3.61,4.23,12804
+80,Two Chefs Brewing Funky Falcon,Pale Ale,NL,Two Chefs Brewing,33.0,5.2,22.0,3.0,3.0,1.25,1.0,2.89,3.61,4.38,135321
+81,Valeir Extra,IPA,BE,,33.0,6.5,,3.0,3.0,1.25,3.0,2.69,3.53,4.08,50435
+82,Vedett Extra Session IPA,IPA,BE,Brouwerij Duvel Moortgat,33.0,2.7,,1.0,2.0,0.0,2.0,2.29,2.93,3.47,199623
+83,Wild Beer Co Modus Operandi,Bière Sour,GB,Wild Beer Company,33.0,7.0,,2.0,3.0,2.5,1.0,4.49,3.7,6.8,98135
+84,Wolfscraft Brutal Alkoholfrei,Pils & Hoppy Lager,DE,,33.0,0.4,,3.0,3.0,0.0,1.0,2.29,3.51,3.47,72283
+85,Bird of Prey,IPA,NL,Brouwerij Het Uiltje,33.0,5.8,50.0,4.0,3.0,1.25,3.0,3.09,3.68,4.68,265393
+86,Maredsous Blonde,Bière Blonde,BE,,33.0,6.0,29.0,4.0,1.0,1.25,3.0,2.59,3.54,3.92,6972
+87,Uddelaer Blond,Bière Blonde,NL,,25.0,6.5,25.0,3.0,1.0,0.0,2.0,,,,75258
+88,Brasseurs Savoyards Brune,Bière Brune,FR,,33.0,7.0,24.0,4.0,3.0,0.0,0.0,2.89,3.14,4.38,220636
+89,Troost Honing Blond,Bière Blonde,NL,Brouwerij Troost,30.0,7.0,26.0,4.0,3.0,0.0,2.0,2.65,3.5,4.42,226980
+90,Perle Pils,Pils & Hoppy Lager,FR,,33.0,5.4,35.0,3.0,3.0,1.25,3.0,2.89,3.23,4.38,232523
+91,Tyris IPA,IPA,ES,,33.0,6.0,,,,,,2.79,3.54,4.23,273497
+92,Stone Go To IPA,IPA,US,Stone Brewing,36.0,4.7,65.0,4.0,3.0,1.25,3.0,2.69,3.74,3.74,369016
+93,Stone Ripper Pale Ale,Pale Ale,US,Stone Brewing,36.0,5.7,40.0,4.0,3.0,0.0,3.0,2.99,3.44,4.15,240456
+94,Les 3 Croquants Blonde d'Aquitaine,Bière Blonde,FR,,33.0,4.7,,2.0,3.0,0.0,1.0,2.69,3.12,4.08,52782
+95,Dos Equis Lager Especial,Lager,MX,,36.0,4.5,,1.0,2.0,0.0,1.0,,3.09,,199587
+96,Brand Weizen,Bière Weiss,NL,Brand,30.0,5.1,12.0,3.0,3.0,1.25,1.0,,3.59,,74475
+97,Wolfscraft Das Helle,Lager,DE,,33.0,4.9,,3.0,2.0,1.25,1.0,2.69,3.62,4.08,288814
+98,Maisel & Friends IPA,IPA,DE,Brauerei Gebr. Maisel,33.0,6.3,50.0,4.0,3.0,0.0,3.0,2.39,3.56,3.62,240391
+99,And Union Friday,Lager,DE,And Union,33.0,6.5,55.0,3.0,3.0,0.0,3.0,2.49,3.66,3.77,183376
+100,Brunehaut ambrée bio,Bière Ambrée,BE,Brasserie de Brunehaut,33.0,6.5,17.0,3.0,3.0,1.25,1.0,2.79,2.97,4.23,9344
+101,Brouwerij Noordt New England IPA,IPA,NL,Brouwerij Noordt,33.0,3.0,20.0,2.0,2.0,1.25,1.0,,3.52,,340721
+102,Crew Republic In Your Face,IPA,DE,Crew Republic,33.0,6.8,70.0,3.0,3.0,0.0,3.0,3.09,3.77,4.68,269560
+103,Fourpure Easy Peeler Session IPA,IPA,GB,Fourpure,33.0,4.0,30.0,2.0,2.0,1.25,3.0,2.59,3.49,3.92,214682
+104,Val Dieu Blond,Bière Blonde,BE,Brasserie de l'Abbaye du Val-Dieu,33.0,6.0,18.0,3.0,3.0,1.25,2.0,2.59,3.45,3.92,311272
+105,Hapkin,Bière Blonde,BE,Alken-Maes,33.0,8.5,,2.0,3.0,0.0,2.0,2.19,3.53,3.32,1802
+106,Saison De Silly,Bière de Garde & Saison,BE,Brasserie de Silly,33.0,5.0,,3.0,3.0,2.5,1.0,2.09,3.32,3.17,9077
+107,Brand IPA,IPA,NL,Brand,30.0,7.0,45.0,4.0,2.0,1.25,3.0,1.79,3.41,2.98,161188
+108,Pax Pils,Pils & Hoppy Lager,BE,,25.0,5.0,20.0,2.0,2.0,0.0,2.0,1.79,2.67,3.58,11542
+109,Blanche De Silly,Bière Blanche,BE,Brasserie de Silly,25.0,5.0,,2.0,3.0,1.25,1.0,1.89,3.22,3.78,5407
+110,Mort Subite Kriek Lambic,Bière Fruitée,BE,Alken-Maes,25.0,4.0,,4.0,3.0,1.25,4.0,1.99,3.45,3.98,230735
+111,Cuvée des Trolls,Bière Blonde,BE,Brasserie Dubuisson Freres,25.0,7.0,19.0,3.0,3.0,2.5,2.0,2.09,3.51,4.18,13067
+112,Kapittel Watou Blond 6,Bière Blonde,BE,,33.0,6.5,,3.0,3.0,1.25,2.0,2.09,3.36,3.17,13566
+113,Petrus Blonde,Bière Blonde,BE,Brouwerij De Brabandere,33.0,6.5,,3.0,3.0,1.25,2.0,2.29,3.34,3.47,31137
+114,Augustijn Blond,Bière Blonde,BE,Brouwerij Van Steenberge,33.0,7.0,,3.0,3.0,1.25,3.0,2.29,3.52,3.47,57684
+115,Ciney Blonde,Bière Blonde,BE,Ciney,25.0,7.0,,2.0,2.0,0.0,1.0,1.79,3.46,3.58,2143
+116,St. Feuillien Blonde,Bière Blonde,BE,St. Feuillien,33.0,7.0,,3.0,3.0,1.25,2.0,2.69,3.55,4.08,353582
+117,Grisette Blond Gluten Free,Bière Blonde,BE,St. Feuillien,25.0,5.5,10.0,3.0,2.0,0.0,3.0,1.99,3.02,3.98,235503
+118,Paljas Blond,Bière Blonde,BE,,33.0,6.0,30.0,3.0,3.0,0.0,2.0,2.29,3.37,3.47,129878
+119,Silly Abbaye de Forest,Bière Blonde,BE,Brasserie de Silly,33.0,6.5,,3.0,3.0,0.0,2.0,,3.25,,42338
+120,Poperings Hommelbier,Bière Blonde,BE,,33.0,7.5,,3.0,2.0,1.25,3.0,,3.52,,1692
+121,Paulaner Hefe Weissbier sans Alcool,Bière Weiss,DE,Paulaner Brauerei,33.0,0.5,10.0,3.0,2.0,1.25,3.0,1.79,2.67,2.71,18829
+122,Gouden Carolus Triple,Bière Triple,BE,Brouwerij Het Anker,33.0,9.0,22.0,3.0,3.0,0.0,1.0,2.69,3.89,4.08,5423
+123,Bird Brewery Lekkerinde Kauw,Bière Bock,NL,Bird Brewery,33.0,7.0,32.0,3.0,3.0,0.0,3.0,,3.55,,306368
+124,Steamworks Craft Lager,Pils & Hoppy Lager,CA,Steamworks Brewing Co.,33.0,5.0,30.0,2.0,2.0,0.0,3.0,2.99,3.55,4.53,296908
+125,Bintang,Lager,ID,Bintang,33.0,4.7,,2.0,3.0,1.25,2.0,2.19,2.0,3.32,1432
+126,Sapporo Premium Beer,Lager,JP,,33.0,4.7,24.0,2.0,2.0,1.25,2.0,2.79,3.17,4.23,38910
+127,Brooklyn Lager,Lager,US,Brooklyn Brewery,36.0,5.2,33.0,3.0,3.0,1.25,3.0,2.99,3.51,4.15,148
+128,Mélusine Love and Flowers,Bière Blanche,FR,,33.0,4.2,,3.0,2.0,1.25,1.0,,3.18,,92844
+129,Affligem Dubbel,Bière Double,BE,Affligem,30.0,6.8,,3.0,4.0,0.0,2.0,,3.56,,157
+130,Barcelona Beer Company La Bella Lola,Pale Ale,ES,,33.0,4.0,,,,,,2.79,3.25,4.23,147525
+131,Beavertown Lupuloid,IPA,GB,,33.0,6.7,55.0,0.0,0.0,0.0,3.0,,,,250528
+132,Brasserie De Sutter Brin de Folie,Bière Blonde,FR,Brasserie de Sutter,33.0,6.5,,2.0,3.0,1.25,1.0,2.69,3.42,4.08,269510
+133,Kompaan Sassy Threesome,Bière Triple,NL,,33.0,9.0,15.0,0.0,0.0,0.0,0.0,2.95,3.49,4.47,111799
+134,Silly Green Killer,IPA,BE,Brasserie de Silly,33.0,6.5,,3.0,2.0,0.0,2.0,2.29,3.25,3.47,173824
+135,La Rouget De Lisle La Marseillaise,Bière de Garde & Saison,FR,La Rouget de Lisle,33.0,6.0,,3.0,3.0,0.0,1.0,2.79,3.32,4.23,71206
+136,Kees Double Rye IPA,IPA,NL,Brouwerij Kees,33.0,8.9,90.0,4.0,2.0,1.25,4.0,3.29,3.76,4.98,343973
+137,Steamworks Flagship IPA,IPA,CA,Steamworks Brewing Co.,33.0,6.7,65.0,3.0,3.0,1.25,4.0,2.99,3.95,4.53,251901
+138,Brlo Baltic Porter,Bière Porter & Stout,DE,,33.0,7.0,30.0,3.0,3.0,0.0,3.0,2.89,3.47,4.38,170813
+139,Oproer Black Flag,IPA,NL,,33.0,6.5,75.0,4.0,2.0,0.0,4.0,3.29,3.51,4.98,252399
+140,La Guillotine,Bière Blonde,BE,Huyghe,33.0,8.5,,2.0,3.0,0.0,2.0,2.89,3.61,4.38,3976
+141,Pistonhead Amber,Bière Ambrée,GB,,33.0,6.0,30.0,0.0,2.0,0.0,2.0,,,,17707
+142,Kompaan Badgast,Pale Ale,NL,Brouwerij Kompaan,33.0,5.7,18.0,3.0,3.0,1.25,2.0,2.89,3.38,4.38,261666
+143,Postel Tripel,Bière Triple,BE,,33.0,9.0,,3.0,3.0,1.25,2.0,,3.58,,135032
+144,Boon Kriek,Bière Fruitée,BE,Brouwerij Boon,38.0,4.0,,3.0,4.0,3.75,1.0,3.39,3.54,4.46,62406
+145,Lindemans Apple,Bière Fruitée,BE,Brouwerij Lindemans,25.0,4.0,,3.0,3.0,2.5,1.0,2.19,3.36,4.38,600
+146,Lindemans Cassis,Bière Fruitée,BE,Brouwerij Lindemans,25.0,3.5,,3.0,3.0,3.75,1.0,2.49,3.67,4.98,601
+147,Alken Maes Pils,Pils & Hoppy Lager,BE,,25.0,5.2,,,,,,,2.83,,2145
+148,Mort Subite Geuze Lambic,Bière Sour,BE,Alken-Maes,25.0,4.5,,3.0,3.0,0.0,2.0,,3.3,,1796
+149,Ardwen Cerise,Bière Fruitée,FR,Ardwen,33.0,4.5,,0.0,3.0,1.25,0.0,,2.73,,112306
+150,La Cristal IPA du Mont Blanc,IPA,FR,Mont-Blanc,33.0,4.7,30.0,3.0,2.0,0.0,2.0,2.79,3.44,4.23,30177
+151,Wilderen Kriek,Bière Fruitée,BE,Brouwerij Wilderen,25.0,3.5,,3.0,4.0,3.75,1.0,,3.24,,29250
+152,Blanche De Namur,Bière Blanche,BE,Brasserie Du Bocq,25.0,4.5,11.0,3.0,3.0,2.5,2.0,2.19,3.51,4.38,6057
+153,Meantime India Pale Ale,IPA,GB,Meantime Brewing,33.0,7.4,65.0,3.0,3.0,0.0,3.0,3.49,3.44,5.29,90785
+154,Brouwerij 'T Verzet Moose Blues,Bière Brune,BE,,33.0,7.5,30.0,2.0,3.0,0.0,1.0,,3.36,,101690
+155,Vicaris Generaal,Bière Brune,BE,,33.0,8.5,,3.0,3.0,0.0,2.0,,3.54,,95247
+156,Belfort 8°,Bière Blonde,BE,Belfort,33.0,8.0,24.0,3.0,3.0,0.0,3.0,2.99,3.47,4.53,253002
+157,Postel Blond,Bière Blonde,BE,,33.0,7.0,,3.0,3.0,1.25,2.0,,3.45,,25698
+158,Jopen Gin Trinitas Tripel,Bière Triple,NL,,33.0,9.0,35.0,0.0,3.0,0.0,0.0,,3.53,,68383
+159,Ciney Brune,Bière Double,BE,Ciney,25.0,7.0,,3.0,3.0,2.5,2.0,,3.39,,2142
+160,Moinette Blonde,Bière Blonde,BE,Brasserie Dupont,33.0,8.5,,3.0,3.0,1.25,3.0,,3.63,,1713
+161,Gulpener Ur-Weizen,,NL,Brouwerij Gulpener,30.0,5.3,,2.0,3.0,1.25,1.0,2.49,3.42,4.15,82539
+162,Sainte Hélène Gypsy Rose,Bière Triple,BE,Brasserie Sainte-Hélène,33.0,9.0,42.0,2.0,3.0,0.0,2.0,3.39,3.45,5.14,107649
+163,Torpah 60,,BE,,33.0,6.0,64.0,3.0,3.0,0.0,3.0,2.99,3.29,4.53,163538
+164,Urthel Hop-It,,BE,Microbrouwerij Urthel,33.0,9.5,80.0,3.0,3.0,1.25,3.0,2.69,3.58,4.08,26159
+165,Heineken Club Bottle,Lager,NL,Heineken Brewery,33.0,5.0,19.0,2.0,2.0,0.0,1.0,2.99,2.92,4.53,247194
+166,Kehrwieder Kreativbrauerei SHIPA,IPA,DE,,33.0,7.5,65.0,3.0,3.0,0.0,3.0,2.99,3.69,4.53,119170
+167,Wolfscraft Frisch Pils,Pils & Hoppy Lager,DE,,33.0,5.2,,2.0,2.0,0.0,2.0,2.69,3.52,4.08,19048
+168,Cherry Chouffe,Bière Sour,BE,Brasserie d'Achouffe,33.0,8.0,10.0,2.0,5.0,1.25,1.0,2.59,3.35,3.92,292771
+169,Two Chefs Funky Falcon,Pale Ale,NL,Two Chefs Brewing,33.0,5.2,22.0,3.0,3.0,1.25,1.0,2.89,3.61,4.38,135321
+170,Bière Des Sans-Culottes Blonde Légère,Bière Blonde,FR,,33.0,6.0,,3.0,3.0,0.0,2.0,2.39,3.2,3.62,167113
+171,Texels Blond,Bière Blonde,NL,,33.0,5.0,,,,,,2.49,3.6,3.77,5917
+172,Roman Adriaen Brouwer Oaked,Bière Quadruple,BE,,33.0,10.0,,,,,,2.49,3.57,3.77,154339
+173,Mélusine La Cervoise,Bière Ambrée,FR,,33.0,6.5,,,,,,2.59,3.31,3.92,36144
+174,100 Watt 75 Watt,Bière Triple,NL,Stadsbrouwerij Eindhoven,33.0,8.0,30.0,3.0,3.0,0.0,2.0,2.89,3.48,4.38,348274
+175,Mélusine Blanche Ecume,Bière Blanche,FR,,33.0,4.2,,,,,,2.59,3.02,3.92,145023
+176,Mélusine La Dame Blanche,Bière Blanche,FR,,33.0,4.2,,,,,,2.59,3.0,3.92,189652
+177,Achel Blonde,Bière Blonde,BE,Brouwerij De Achelse Kluis,33.0,8.0,20.0,3.0,3.0,1.25,2.0,2.79,3.74,4.23,78118
+178,Adriaen Brouwer Dark gold,Bière Brune,BE,,33.0,8.5,,3.0,3.0,1.25,2.0,2.29,3.55,3.47,56600
+179,Achel Brune,Bière Double,BE,Brouwerij De Achelse Kluis,33.0,8.0,19.0,3.0,2.0,0.0,1.0,2.79,3.8,4.23,15739
+180,Affligem Patersvat,Bière Blonde,BE,Affligem,30.0,6.8,,3.0,3.0,1.25,3.0,2.59,3.5,4.32,35148
+181,Amsterdam Brewboys Amsterdam Pale Ale,Pale Ale,NL,,33.0,5.4,34.0,2.0,2.0,0.0,3.0,2.39,3.44,3.62,155963
+182,Anchor Brewing Go West IPA,Lager,US,Anchor Brewing Company,36.0,6.7,75.0,3.0,2.0,1.25,4.0,2.79,3.61,3.88,342705
+183,And Union Saturday Lager,Lager,DE,And Union,33.0,5.0,25.0,3.0,3.0,1.25,2.0,2.39,3.49,3.62,53371
+184,Anchor Brewing Liberty Ale,Lager,US,Anchor Brewing Company,36.0,5.9,47.0,3.0,2.0,1.25,3.0,2.89,3.57,4.01,665
+185,Ardwen Hop's Cure,Bière Triple,FR,Ardwen,33.0,7.5,,3.0,2.0,1.25,2.0,2.79,3.39,4.23,165954
+186,Anderson Valley Hop Ottin' IPA,Lager,US,Anderson Valley Brewing Company,36.0,7.0,78.0,3.0,3.0,1.25,3.0,3.29,3.57,4.57,611
+187,Ardwen Ambrée,Bière Ambrée,FR,Ardwen,33.0,6.5,,1.0,3.0,0.0,1.0,2.69,3.06,4.08,70535
+188,Ardwen Woinic APA,Pale Ale,FR,Ardwen,33.0,6.5,79.0,3.0,2.0,1.25,3.0,2.79,3.46,4.23,70535
+189,Arend Blond,Bière Blonde,BE,,33.0,6.5,24.0,3.0,3.0,0.0,2.0,2.49,3.31,3.77,33483
+190,Arend Dubbel,Bière Double,BE,,33.0,6.5,30.0,3.0,3.0,0.0,3.0,,3.21,,39736
+191,Atlantic Blonde des Gabariers,Bière Blonde,FR,Brasserie des Gabariers,33.0,5.0,,2.0,2.0,0.0,2.0,2.69,2.8,4.08,62199
+192,Arend Tripel,Bière Triple,BE,,33.0,8.0,36.0,3.0,3.0,1.25,3.0,,3.64,,46541
+193,Averbode Abdijbier,Bière Blonde,BE,Huyghe,33.0,7.5,38.0,0.0,3.0,1.25,2.0,,3.53,,121082
+194,Ayinger Urweisse,Bière Weiss,DE,Ayinger,50.0,5.8,13.0,3.0,3.0,0.0,1.0,2.59,3.79,2.59,135
+195,Augustijn Grand Cru,Bière Blonde,BE,Brouwerij Van Steenberge,33.0,9.0,,3.0,3.0,1.25,3.0,2.59,3.58,3.92,3490
+196,Augustijn Donker,Bière Double,BE,Brouwerij Van Steenberge,33.0,8.0,,3.0,3.0,0.0,1.0,2.39,3.5,3.62,273119
+197,Ayinger Bräuweisse,Bière Weiss,DE,Ayinger,33.0,5.1,13.0,3.0,3.0,2.5,1.0,2.49,3.76,3.77,132
+198,Baladin Isaac,Bière Blanche,IT,Baladin,33.0,5.0,10.0,3.0,3.0,1.25,1.0,3.79,3.57,5.74,10107
+199,Baptist Blond,Bière Blonde,BE,Brouwerij Van Steenberge,33.0,5.0,,3.0,3.0,0.0,2.0,1.59,3.07,2.41,8978
+200,Baptist Saison,Bière de Garde & Saison,BE,Brouwerij Van Steenberge,33.0,6.5,,3.0,2.0,1.25,2.0,1.69,3.21,2.56,215336
+201,Baptist Wit,Bière Blanche,BE,Brouwerij Van Steenberge,33.0,5.0,,2.0,2.0,2.5,1.0,,,,34308
+202,Bax Bier Rokkenjager,Pale Ale,NL,Bax Bier Brouwerij,33.0,6.5,35.0,1.0,0.0,0.0,3.0,2.29,3.24,3.47,228418
+203,Baxbier Koud Vuur,Bière Brune,NL,Bax Bier Brouwerij,33.0,6.2,38.0,4.0,2.0,1.25,3.0,3.09,3.37,4.68,149015
+204,Baladin Nazionale,Bière Blonde,IT,Baladin,33.0,6.5,29.0,3.0,3.0,1.25,2.0,3.79,3.51,5.74,75695
+205,Beavertown Gamma Ray,Pale Ale,GB,,33.0,5.4,45.0,4.0,3.0,1.25,3.0,2.89,3.9,4.38,208564
+206,Belgosapiens P'tit Granit,Bière Porter & Stout,BE,Belgo Sapiens Brewers,33.0,4.9,48.0,4.0,3.0,0.0,3.0,2.49,3.2,3.77,207817
+207,Beavertown Neck Oil,IPA,GB,,33.0,4.3,31.0,4.0,3.0,1.25,3.0,2.99,3.75,4.53,105397
+208,Belgosapiens Colonel Arch,Bière Ambrée,BE,Belgo Sapiens Brewers,33.0,6.0,50.0,3.0,3.0,1.25,3.0,2.49,3.32,3.77,216277
+209,Berging Brouwerij BW18 Champagne Cognac Barley Wine,Bière Barley Wine,NL,Berging Brouwerij,33.0,10.0,70.0,5.0,3.0,0.0,2.0,3.45,3.93,5.23,361551
+210,Bellfield Lawless Village IPA,Lager,GB,Bellfield Brewery Ltd,33.0,4.5,,3.0,2.0,0.0,3.0,2.59,3.25,3.92,310671
+211,Bellfield Session Ale,Pale Ale,GB,Bellfield Brewery Ltd,33.0,3.8,,2.0,2.0,0.0,2.0,,,,177498
+212,Bellfield Bohemian Pilsner,Pils & Hoppy Lager,GB,Bellfield Brewery Ltd,33.0,4.5,,2.0,2.0,0.0,2.0,2.59,3.14,3.92,300151
+213,Bevog Rudeen Black IPA,IPA,AT,Bevog Craft Brewery,33.0,7.4,67.0,4.0,2.0,0.0,4.0,4.29,3.82,6.5,181264
+214,Bevog Tak Pale Ale,Pale Ale,AT,Bevog Craft Brewery,33.0,5.5,35.0,3.0,2.0,0.0,3.0,2.79,3.68,4.23,102463
+215,Bevog Deetz Kolsch,Pale Ale,AT,Bevog Craft Brewery,33.0,4.8,27.0,3.0,1.0,2.5,3.0,2.89,3.53,4.38,123256
+216,Bird Brewery Fuut Fieuw,Lager,NL,Bird Brewery,33.0,4.6,32.0,3.0,3.0,1.25,3.0,2.99,3.44,4.53,247395
+217,Bird Brewery De Rumoerige Roodborst,Bière Ambrée,NL,Bird Brewery,33.0,5.8,34.0,3.0,3.0,0.0,3.0,2.99,3.58,4.53,248056
+218,Bird Brewery Datisandere Koekoek,Bière de Garde & Saison,NL,Bird Brewery,33.0,5.6,15.0,3.0,3.0,2.5,3.0,,3.46,,290853
+219,Bird Brewery Datsmaaktnaar Meerkoet,Bière Brune,NL,Bird Brewery,33.0,6.8,35.0,3.0,4.0,0.0,2.0,,3.49,,262041
+220,Bird Brewery Miss Scarecrow,Bière Ambrée,NL,Bird Brewery,33.0,7.5,20.0,3.0,3.0,0.0,2.0,2.99,3.56,4.53,311957
+221,Bird Brewery Nog Eendje,Bière Blonde,NL,Bird Brewery,33.0,6.0,30.0,2.0,3.0,0.0,2.0,2.99,3.4,4.53,334794
+222,Bird Brewery Vink Heerlijk,IPA,NL,Bird Brewery,33.0,6.2,45.0,3.0,3.0,0.0,3.0,3.09,3.56,4.68,294007
+223,Bird Brewery Nognietnaar Huismus,Bière Brune,NL,Bird Brewery,33.0,6.4,38.0,3.0,3.0,0.0,3.0,2.99,3.4,4.53,251665
+224,Black C,Bière Porter & Stout,BE,,33.0,8.0,55.0,4.0,3.0,1.25,3.0,3.89,3.48,5.89,162316
+225,Blanche des Honnelles,Bière Blanche,BE,Abbaye des Rocs,33.0,6.5,,3.0,3.0,1.25,1.0,2.39,4.39,3.62,259669
+226,Bliksem Kermis In De Ale,Lager,NL,Brouwerij Bliksem,33.0,7.3,70.0,3.0,2.0,0.0,4.0,2.99,3.5,4.53,265785
+227,Blanche Watou Witbier,Bière Blanche,BE,,33.0,4.8,,2.0,2.0,2.5,1.0,1.99,3.11,3.02,350276
+228,Boon Geuze Mariage Parfait,Bière Sour,BE,Brouwerij Boon,38.0,8.0,,3.0,1.0,6.25,1.0,3.39,3.93,4.46,5357
+229,Boon Framboise,Bière Fruitée,BE,Brouwerij Boon,38.0,5.0,,4.0,4.0,3.75,0.0,3.99,3.53,5.25,14105
+230,Bliksem Hemelvuur,Bière Triple,NL,Brouwerij Bliksem,33.0,9.0,33.0,3.0,3.0,0.0,3.0,2.79,3.61,4.23,261873
+231,Bokkereyer,Bière Ambrée,BE,,25.0,6.0,23.0,3.0,3.0,0.0,2.0,1.99,3.07,3.98,264777
+232,Brand Zwaar Blond,Bière Blonde,NL,Brand,30.0,8.5,36.0,3.0,3.0,0.0,2.0,1.99,3.65,3.32,126782
+233,Boon Oude Geuze,Bière Sour,BE,Brouwerij Boon,38.0,7.0,,4.0,3.0,5.0,1.0,2.99,3.57,3.93,332644
+234,Bornem Tripel,Bière Triple,BE,Brouwerij Van Steenberge,33.0,9.0,,3.0,3.0,1.25,2.0,2.49,3.55,3.77,1672
+235,Bosbier,Bière Fruitée,BE,,25.0,4.5,13.0,4.0,4.0,0.0,1.0,2.19,2.74,4.38,13510
+236,Brand Dubbelbock,Bière Bock,NL,Brand,30.0,7.5,23.0,4.0,3.0,0.0,2.0,,3.46,,1435
+237,Brand Oud Bruin,Lager,NL,Brand,30.0,3.5,16.0,2.0,4.0,0.0,1.0,1.99,2.7,3.32,5886
+238,Brand Bock de printemps,Bière Bock,NL,Brand,30.0,6.5,24.0,3.0,2.0,0.0,3.0,,,,60683
+239,Brand Imperator,Bière Bock,NL,Brand,30.0,6.5,27.0,3.0,3.0,0.0,3.0,,3.48,,5888
+240,Brand UP,Pils & Hoppy Lager,NL,Brand,30.0,5.5,36.0,3.0,3.0,1.25,3.0,1.89,3.25,3.15,24463
+241,Brasserie De Sutter Folle FurieuZ,Bière Triple,FR,Brasserie de Sutter,33.0,9.0,,2.0,4.0,1.25,1.0,2.89,3.52,4.38,299189
+242,Brasserie De Sutter Ictis,Bière Blonde,FR,Brasserie de Sutter,33.0,6.2,45.0,3.0,3.0,0.0,2.0,2.89,3.56,4.38,46436
+243,Brasserie Des Cimes Aiguille Blanche,Bière Blanche,FR,,33.0,5.0,,2.0,3.0,1.25,1.0,2.79,3.19,4.23,8279
+244,Brasserie Lefebvre Barbar Blonde,Bière Blonde,BE,Brasserie Lefebvre,33.0,8.0,,3.0,3.0,0.0,1.0,2.79,3.52,4.23,224751
+245,Brasserie Des Cimes Piste Noire,Bière de Garde & Saison,FR,,33.0,5.9,,2.0,3.0,0.0,2.0,,3.21,,9504
+246,Breugem Kracht Hout,Bière Quadruple,NL,Brouwerij Breugem,33.0,11.0,28.0,4.0,3.0,1.25,2.0,3.29,3.76,4.98,252229
+247,Breugem Saense Tripel,Bière Triple,NL,Brouwerij Breugem,33.0,8.3,32.0,2.0,2.0,0.0,3.0,2.35,3.56,3.56,372758
+248,Brewdog Dead Pony Club,Pale Ale,GB,Brewdog,33.0,3.8,25.0,3.0,2.0,1.25,3.0,2.79,3.61,4.23,83463
+249,BrewDog Jet Black Heart,Bière Porter & Stout,GB,Brewdog,33.0,4.7,30.0,3.0,3.0,1.25,3.0,3.65,3.76,5.53,218090
+250,Brewdog Jack Hammer,IPA,GB,Brewdog,33.0,7.2,220.0,5.0,3.0,1.25,5.0,2.99,3.92,4.53,89096
+251,Brewdog Five AM Saint,Bière Ambrée,GB,Brewdog,33.0,5.0,25.0,3.0,3.0,1.25,2.0,2.49,3.66,3.77,55191
+252,Brewdog Nanny State sans Alcool,Lager,GB,Brewdog,33.0,0.5,45.0,3.0,2.0,1.25,3.0,2.49,2.82,3.77,53885
+253,Brewdog Lost Lager,Pils & Hoppy Lager,GB,,33.0,4.7,37.0,0.0,1.0,0.0,1.0,,,,370303
+254,Brixton Atlantic APA,Pale Ale,GB,,33.0,5.4,45.0,3.0,2.0,0.0,3.0,,,,158768
+255,Brewdog Tokyo,Bière Porter & Stout,GB,Brewdog,33.0,16.5,90.0,5.0,4.0,1.25,4.0,,4.08,,52204
+256,Brlo Down Double IPA,IPA,DE,,33.0,7.5,75.0,4.0,4.0,0.0,4.0,2.49,3.75,3.77,368793
+257,Brlo Helles,Lager,DE,,33.0,5.0,25.0,3.0,3.0,1.25,2.0,2.49,3.27,3.77,170811
+258,Brixton Electric IPA,IPA,GB,,33.0,6.5,60.0,3.0,2.0,1.25,4.0,,,,139097
+259,Brixton Reliance,Pale Ale,GB,,33.0,4.0,40.0,2.0,2.0,0.0,3.0,,,,228325
+260,Bronckhorster Dubbelganger,Bière Double,NL,Bronckhorster Brewing Company,33.0,7.5,32.0,3.0,2.0,1.25,3.0,3.09,3.52,4.68,217197
+261,Bronckhorster Hoptimist,IPA,NL,Bronckhorster Brewing Company,33.0,9.5,82.0,4.0,3.0,1.25,4.0,3.19,3.69,4.83,118308
+262,Bronckhorster Brok in de Keel,Bière Brune,NL,Bronckhorster Brewing Company,33.0,8.5,28.0,3.0,3.0,1.25,2.0,3.59,3.49,5.44,198811
+263,Bronckhorster James Blond,Bière Blonde,NL,Bronckhorster Brewing Company,33.0,6.0,,3.0,3.0,1.25,2.0,3.29,3.61,4.98,240244
+264,Brooklyn East IPA,IPA,US,Brooklyn Brewery,36.0,6.9,47.0,3.0,3.0,1.25,3.0,2.99,3.55,4.15,147
+265,Brooklyn Sorachi Ace,Bière de Garde & Saison,US,Brooklyn Brewery,36.0,7.2,34.0,3.0,3.0,1.25,2.0,3.99,3.69,5.54,51480
+266,Brouwerij Kees Blushing Blond,Bière Blonde,NL,Brouwerij Kees,33.0,6.0,21.0,3.0,3.0,0.0,2.0,2.59,3.22,3.92,347061
+267,Brouwerij de Brabandere Petrus Nitro Quad,Bière Quadruple,BE,Brouwerij De Brabandere,33.0,11.5,,,,,,2.39,3.7,3.62,313627
+268,Brouwerij Noordt Chocolade Porter,Bière Porter & Stout,NL,Brouwerij Noordt,33.0,7.0,25.0,4.0,2.0,0.0,4.0,,,,352967
+269,Brouwerij Noordt Pomelo IPA,IPA,NL,Brouwerij Noordt,33.0,6.0,20.0,3.0,2.0,1.25,2.0,3.09,3.65,4.68,348061
+270,Brouwerij Noordt Tripel,Bière Triple,NL,Brouwerij Noordt,33.0,7.5,25.0,3.0,3.0,0.0,1.0,3.09,3.5,4.68,71129
+271,Brugge Tripel,Bière Triple,BE,Brouwerij De Gouden Boom,33.0,8.7,,3.0,2.0,0.0,3.0,2.49,3.58,3.77,36778
+272,Brussel Beer Project Babylone,Bière Ambrée,BE,Brussels Beer Project,33.0,7.0,55.0,3.0,2.0,0.0,3.0,3.09,3.52,4.68,169960
+273,Brugse Zot Dubbel,Bière Double,BE,Brouwerij De Halve Maan,33.0,7.5,27.0,3.0,3.0,0.0,3.0,2.65,3.59,4.02,32320
+274,Bruut Gajes Tripel,Bière Triple,NL,Bruut Bier,33.0,8.0,38.0,3.0,3.0,2.5,3.0,2.99,3.76,4.53,231467
+275,Budels Batavier,Pale Ale,NL,Budelse Brouwerij,30.0,5.0,,2.0,2.0,1.25,2.0,,2.95,,5901
+276,Budels Kolos,Bière Blonde,NL,Budelse Brouwerij,30.0,7.5,,3.0,4.0,0.0,1.0,,3.22,,64835
+277,Budels Goudblond,Bière Blonde,NL,Budelse Brouwerij,30.0,6.0,,3.0,2.0,1.25,3.0,1.69,3.16,2.82,64834
+278,Budels Capucijn,Bière Double,NL,Budelse Brouwerij,30.0,6.5,,2.0,3.0,1.25,2.0,2.69,3.31,4.48,5896
+279,Budels Bock d'Automne,Bière Bock,NL,Budelse Brouwerij,30.0,6.5,,3.0,3.0,0.0,2.0,,3.28,,5904
+280,Budels Bio Pilsener,Pils & Hoppy Lager,NL,Budelse Brouwerij,30.0,5.0,,2.0,3.0,1.25,1.0,,3.07,,5899
+281,Budels Weizen Bio,Bière Weiss,NL,Budelse Brouwerij,30.0,5.0,,2.0,3.0,1.25,1.0,2.19,3.22,3.65,347543
+282,Budels Zware Dobber Bio,Bière Triple,NL,Budelse Brouwerij,30.0,8.5,,3.0,4.0,0.0,2.0,3.29,3.31,5.48,144621
+283,Brugse Zot blonde,Bière Blonde,BE,Brouwerij De Halve Maan,33.0,6.0,23.0,3.0,2.0,1.25,2.0,2.69,3.71,4.08,25130
+284,Bruxellensis,Bière Blonde,BE,,33.0,6.5,,3.0,3.0,1.25,2.0,,3.67,,239853
+285,Budels White Gose Bio,Bière Sour,NL,Budelse Brouwerij,33.0,4.5,12.0,4.0,1.0,3.75,0.0,,2.9,,20582
+286,Bush Triple,Bière Blonde,BE,Brasserie Dubuisson Freres,33.0,10.5,21.0,3.0,4.0,0.0,2.0,2.59,3.55,3.92,49063
+287,Camba Märzen,Lager,DE,,50.0,5.6,16.0,2.0,3.0,0.0,2.0,2.69,3.49,2.69,98968
+288,Bush de Noël,Bière Quadruple,BE,Brasserie Dubuisson Freres,33.0,12.0,21.0,4.0,4.0,1.25,4.0,2.59,3.79,3.92,46751
+289,Butcher's Tears Pantagruel,Bière Ambrée,NL,Butcher's Tears,33.0,5.6,,3.0,3.0,0.0,2.0,,,,322285
+290,Choulette Ambrée,Bière Ambrée,FR,,33.0,8.0,35.0,3.0,3.0,0.0,2.0,2.49,3.4,3.77,5214
+291,Choulette Blonde,Bière Blonde,FR,,33.0,7.5,,2.0,3.0,0.0,0.0,2.49,3.34,3.77,5213
+292,Chimay Rouge,Bière Double,BE,Chimay,33.0,7.0,,3.0,3.0,0.0,2.0,2.49,3.82,3.77,320852
+293,Chimay Bleue,Bière Quadruple,BE,Chimay,33.0,9.0,35.0,3.0,3.0,0.0,2.0,2.89,3.99,4.38,2512
+294,Chouffe Soleil,Bière Blonde,BE,Brasserie d'Achouffe,33.0,6.0,20.0,3.0,3.0,1.25,2.0,2.49,3.73,3.77,118416
+295,Chang Beer,Lager,TH,,32.0,5.0,,2.0,3.0,1.25,1.0,2.39,2.93,3.73,166529
+296,Cinema Brewers Dancing Dirty,Pale Ale,NL,Cinema Brewers,33.0,5.3,19.0,3.0,3.0,1.25,2.0,2.79,3.58,4.23,349730
+297,Cinema Brewers King Kong,Bière Triple,NL,Cinema Brewers,33.0,8.0,33.0,3.0,3.0,1.25,1.0,3.29,3.4,4.98,215345
+298,Choulette de Printemps,Bière de Garde & Saison,FR,,33.0,6.0,,2.0,3.0,0.0,2.0,2.39,3.23,3.62,72318
+299,Choulette Framboise,Bière Fruitée,FR,,33.0,6.0,,3.0,4.0,1.25,2.0,2.69,3.58,4.08,12021
+300,Colomba,Bière Blanche,FR,,33.0,5.0,,2.0,3.0,1.25,1.0,2.69,3.23,4.08,10053
+301,Cornet,Bière Blonde,BE,Brouwerij Palm,33.0,8.5,18.0,4.0,3.0,2.5,2.0,2.79,3.66,4.23,127164
+302,Corsendonk Christmas,Bière Brune,BE,Brasserie Du Bocq,25.0,8.5,,3.0,3.0,0.0,2.0,1.95,3.75,3.9,140
+303,Corsendonk Pater Dubbel,Bière Double,BE,Brasserie Du Bocq,33.0,6.5,,3.0,3.0,0.0,1.0,2.79,3.63,4.23,39736
+304,Pietra Corsican IPA,IPA,FR,,33.0,6.0,40.0,3.0,3.0,0.0,3.0,2.89,3.49,4.38,83847
+305,Crew Republic Roundhouse Kick,Bière Porter & Stout,DE,Crew Republic,33.0,9.2,,4.0,5.0,0.0,2.0,3.49,3.78,5.29,116645
+306,De Dochter van de Korenaar Crime Passionnel,IPA,BE,,33.0,7.5,50.0,4.0,3.0,1.25,4.0,2.49,3.71,3.77,124158
+307,Cuvee Watou 8,Bière Blonde,BE,,33.0,8.0,,3.0,3.0,0.0,2.0,2.29,3.33,3.47,112818
+308,Davo Surf Ale,Bière Blanche,NL,Davo Bieren,33.0,6.4,24.0,3.0,2.0,1.25,3.0,3.09,3.5,4.68,157979
+309,De 7 Deugden Scherp + Zinnig,Pils & Hoppy Lager,NL,,33.0,5.0,35.0,3.0,2.0,0.0,3.0,2.59,3.14,3.92,74256
+310,De Eeuwige Jeugd Bokkelul,Bière Bock,NL,Brouwerij De Eeuwige Jeugd,33.0,6.5,,3.0,3.0,2.5,2.0,,,,257453
+311,De Dolle Dulle Teve,Bière Triple,BE,,33.0,10.0,,3.0,3.0,0.0,2.0,3.85,3.85,5.83,1116
+312,De Koninck Apa,Pale Ale,BE,Brouwerij De Koninck,33.0,5.2,,2.0,2.0,1.25,2.0,2.29,3.31,3.47,133199
+313,De Koninck Triple D'Anvers,Bière Triple,BE,Brouwerij De Koninck,33.0,8.0,,3.0,3.0,1.25,2.0,2.69,3.64,4.08,24754
+314,De Dolle Oerbier,Bière Quadruple,BE,,33.0,9.0,,4.0,3.0,2.5,1.0,3.39,3.86,5.14,18905
+315,De Leckere Blauwe Bijl,Bière Barley Wine,NL,Brouwerij De Leckere,25.0,10.0,,4.0,4.0,0.0,3.0,2.89,3.49,5.78,47824
+316,De Leckere Rode Toren,Bière Bock,NL,Brouwerij De Leckere,25.0,6.5,,2.0,3.0,0.0,1.0,,3.41,,45081
+317,De Leckere Sonnen Borgh,Bière de Garde & Saison,NL,Brouwerij De Leckere,25.0,6.2,,2.0,1.0,1.25,2.0,1.89,3.38,3.78,282314
+318,De Leckere Razende Swaen,Bière Triple,NL,Brouwerij De Leckere,25.0,8.0,,2.0,3.0,0.0,2.0,2.49,3.4,4.98,49110
+319,De Molen Amarillo,IPA,NL,Brouwerij De Molen,33.0,9.3,60.0,4.0,3.0,2.5,4.0,3.49,3.86,5.29,358280
+320,De Molen Hel & Verdoemenis,Bière Porter & Stout,NL,Brouwerij De Molen,33.0,10.0,102.0,4.0,3.0,1.25,4.0,4.99,4.06,7.56,56700
+321,De Molen Hemel & Aarde,Bière Porter & Stout,NL,Brouwerij De Molen,33.0,10.0,108.0,5.0,3.0,1.25,5.0,4.99,3.92,7.56,52132
+322,De Molen Op & Top,Pale Ale,NL,Brouwerij De Molen,33.0,4.5,38.0,3.0,1.0,1.25,3.0,,3.51,,61977
+323,De Molen Vuur & Vlam IPA,IPA,NL,Brouwerij De Molen,33.0,6.2,63.0,3.0,3.0,1.25,4.0,2.79,3.7,4.23,53172
+324,De Koninck Wild Jo,Bière Blonde,BE,Brouwerij De Koninck,33.0,5.8,28.0,3.0,2.0,2.5,2.0,2.49,3.25,3.77,180299
+325,De Natte Gijt Stoute Gijt,Bière Porter & Stout,NL,Brouwerij de Natte Gijt,33.0,8.8,85.0,4.0,2.0,0.0,4.0,2.75,3.58,4.17,78725
+326,De Natte Gijt Vredesgijt,IPA,NL,Brouwerij de Natte Gijt,33.0,6.8,65.0,4.0,2.0,0.0,3.0,2.49,3.42,3.77,217152
+327,De Prael Milk Stout,Bière Porter & Stout,NL,Brouwerij De Prael,33.0,4.9,,3.0,4.0,1.25,2.0,2.39,3.38,3.62,207629
+328,De Prael D.I.P.A.,IPA,NL,Brouwerij De Prael,33.0,9.0,,3.0,3.0,1.25,2.0,2.55,3.79,3.86,170907
+329,De Prael I.P.A.,IPA,NL,Brouwerij De Prael,33.0,6.5,,3.0,3.0,1.25,3.0,2.49,3.48,3.77,261342
+330,De Prael Barleywine,Bière Barley Wine,NL,Brouwerij De Prael,33.0,9.6,,3.0,3.0,0.0,2.0,3.49,3.48,5.29,19859
+331,Delirium Christmas,Bière Blonde,BE,Huyghe,33.0,10.0,20.0,3.0,4.0,0.0,2.0,2.89,3.82,4.38,2347
+332,De Ranke XX Bitter,IPA,BE,De Ranke,33.0,6.0,60.0,3.0,2.0,0.0,4.0,2.59,3.56,3.92,97035
+333,Delirium Red,Bière Fruitée,BE,Huyghe,33.0,8.0,10.0,3.0,4.0,1.25,1.0,2.69,3.58,4.08,68452
+334,Delirium Nocturnum,Bière Quadruple,BE,Huyghe,33.0,8.5,26.0,3.0,3.0,0.0,2.0,,,,1421
+335,De Molen Bommen & Granaten,Bière Barley Wine,NL,Brouwerij De Molen,33.0,11.9,30.0,4.0,4.0,1.25,2.0,3.79,3.91,5.74,201213
+336,Delirium Argentum,Bière Blonde,BE,Huyghe,33.0,7.0,,3.0,3.0,0.0,2.0,2.89,3.7,4.38,141574
+337,De Prael Weizen,Bière Weiss,NL,Brouwerij De Prael,33.0,5.4,,3.0,3.0,1.25,2.0,3.29,2.93,4.98,12233
+338,De Ranke Guldenberg,Bière Triple,BE,De Ranke,33.0,8.0,40.0,3.0,3.0,0.0,3.0,2.49,3.67,3.77,64771
+339,Delirium Tremens,Bière Blonde,BE,Huyghe,33.0,8.5,26.0,3.0,4.0,0.0,2.0,2.69,3.94,4.08,1385
+340,Dochter Van De Korenaar Extase,IPA,BE,,33.0,7.0,110.0,4.0,3.0,0.0,4.0,3.19,3.71,4.83,25032
+341,Duits & Lauret Winterstout,Bière Porter & Stout,NL,Speciaalbierbrouwerij Duits & Lauret,33.0,8.5,40.0,4.0,3.0,1.25,4.0,2.35,3.59,3.56,97294
+342,Dupont Saison,Bière de Garde & Saison,BE,Brasserie Dupont,33.0,6.5,,3.0,2.0,2.5,2.0,2.59,3.78,3.92,257913
+343,Dupont Bons Voeux,Bière de Garde & Saison,BE,Brasserie Dupont,38.0,9.5,28.0,3.0,3.0,1.25,2.0,2.99,3.9,3.93,1716
+344,Duvel Tripel Hop,Bière Blonde,BE,Brouwerij Duvel Moortgat,33.0,9.5,50.0,3.0,3.0,1.25,3.0,2.89,3.77,4.38,40114
+345,Duits & Lauret Houtgerijpte Rook Dubbelbock,Bière Bock,NL,Speciaalbierbrouwerij Duits & Lauret,33.0,7.5,,5.0,3.0,1.25,2.0,2.45,3.48,3.71,65190
+346,Emelisse Vanille Ice Cream Stout,Bière Porter & Stout,NL,Brouwerij Emelisse,33.0,5.5,40.0,4.0,3.0,0.0,3.0,3.49,3.66,5.29,259348
+347,Fagnes Blonde,Bière Blonde,BE,Brasserie des Fagnes,33.0,7.5,,3.0,3.0,1.25,3.0,2.49,3.48,3.77,9103
+348,Estaminet Premium Pils,Pils & Hoppy Lager,BE,Brouwerij Palm,25.0,5.2,,2.0,3.0,0.0,2.0,1.99,3.07,3.98,65218
+349,Engelszell Nivard,Pale Ale,AT,Stift Engelszell,33.0,5.5,,3.0,3.0,1.25,3.0,2.89,3.41,4.38,145103
+350,Fagnes Tripel,Bière Triple,BE,Brasserie des Fagnes,33.0,9.0,,3.0,3.0,0.0,3.0,2.79,3.52,4.23,272529
+351,First Chop POD,Bière Porter & Stout,GB,First Chop Brewing Arm,33.0,4.2,14.0,3.0,3.0,0.0,1.0,2.49,3.51,3.77,296576
+352,First Chop JAM,Pale Ale,GB,First Chop Brewing Arm,33.0,4.0,27.0,4.0,2.0,0.0,3.0,2.89,3.14,4.38,28540
+353,First Chop IPA,IPA,GB,First Chop Brewing Arm,33.0,5.0,,2.0,3.0,1.25,2.0,3.29,2.91,4.98,48787
+354,Flensburger Pils,Pils & Hoppy Lager,DE,Flensburger Brauerei,33.0,4.8,,2.0,2.0,1.25,3.0,2.59,3.28,3.92,6710
+355,Flying Dog Blood Orange Ale,Pale Ale,US,Flying Dog,36.0,7.0,40.0,3.0,3.0,2.5,3.0,3.59,3.72,4.99,92018
+356,Flying Dog Gonzo Imperial Porter,Bière Porter & Stout,US,Flying Dog,36.0,9.2,85.0,3.0,3.0,0.0,3.0,4.09,3.85,5.68,24071
+357,Five Points Railway Porter,Bière Porter & Stout,GB,Five Points Brewing Company,33.0,4.8,,,,,,2.69,3.74,4.08,125916
+358,Five Points XPA,Pale Ale,GB,Five Points Brewing Company,33.0,4.0,,3.0,2.0,0.0,4.0,,,,261514
+359,Five Points Pale,Pale Ale,GB,Five Points Brewing Company,33.0,4.4,50.0,3.0,2.0,0.0,4.0,,,,96596
+360,Founders All Day IPA,IPA,US,,36.0,4.7,42.0,3.0,3.0,0.0,3.0,3.29,3.74,4.57,58914
+361,Founders Breakfast Stout,Bière Porter & Stout,US,,36.0,8.3,60.0,4.0,2.0,0.0,4.0,4.49,4.17,6.24,11757
+362,Fourpure Last Train Oatmeal Stout,Bière Porter & Stout,GB,Fourpure,33.0,5.1,28.0,3.0,2.0,0.0,2.0,2.79,3.63,4.23,120204
+363,Founders Centennial IPA,IPA,US,,36.0,7.2,65.0,3.0,3.0,0.0,4.0,3.29,3.79,4.57,68980
+364,Fourpure Hemisphere Session IPA,IPA,GB,Fourpure,33.0,4.2,40.0,3.0,2.0,0.0,4.0,2.69,3.48,4.08,280092
+365,Frankendael Mello Pale Ale,IPA,NL,Brouwerij Frankendael,33.0,7.5,26.0,3.0,3.0,0.0,2.0,2.75,3.38,4.17,265194
+366,Frankendael Tramp Stamp,Bière de Garde & Saison,NL,Brouwerij Frankendael,33.0,3.5,16.0,3.0,3.0,2.5,1.0,2.99,3.69,4.53,336267
+367,Frankendael White Bastard,Bière Blanche,NL,Brouwerij Frankendael,33.0,5.5,30.0,3.0,3.0,1.25,2.0,2.99,3.32,4.53,265195
+368,Frontaal Rhodesian,Bière Barley Wine,NL,Brouwerij Frontaal,33.0,11.3,55.0,4.0,3.0,0.0,3.0,3.79,3.76,5.74,265763
+369,Frontaal Tankard,IPA,NL,Brouwerij Frontaal,33.0,3.9,39.0,4.0,2.0,2.5,3.0,2.99,3.34,4.53,269502
+370,Fuller's Honey Dew,Bière Blonde,GB,,33.0,5.0,35.0,3.0,3.0,0.0,2.0,2.79,3.36,4.23,1166
+371,Gallia Brut IPA,IPA,FR,,33.0,7.0,,3.0,3.0,1.25,4.0,2.89,3.61,4.38,227718
+372,Gebrouwen Door Vrouwen Tricky Tripel,Bière Triple,NL,Gebrouwen Door Vrouwen,33.0,7.8,,3.0,3.0,1.25,0.0,3.09,3.53,4.68,231264
+373,Gipsy Hill Beatnik,Pale Ale,GB,Gipsy Hill,33.0,3.8,,3.0,3.0,0.0,3.0,2.39,3.51,3.62,108318
+374,Goliath Blond,Bière Blonde,BE,Brasserie des Légendes,33.0,6.0,,3.0,3.0,1.25,2.0,2.49,3.37,3.77,295146
+375,Gipsy Hill Southpaw,Bière Ambrée,GB,Gipsy Hill,33.0,4.2,,3.0,2.0,0.0,3.0,2.45,3.51,3.71,218287
+376,Gebrouwen Door Vrouwen Zonnig Zeewit,Bière Blanche,NL,Gebrouwen Door Vrouwen,33.0,3.8,,2.0,1.0,0.0,2.0,2.99,3.21,4.53,367368
+377,Gipsy Hill Hepcat,IPA,GB,Gipsy Hill,33.0,4.6,34.0,0.0,0.0,0.0,0.0,2.45,3.71,3.71,274782
+378,Grimbergen Tripel,Bière Triple,BE,Alken-Maes,33.0,9.0,,3.0,3.0,2.5,2.0,2.79,3.74,4.23,4111
+379,Grimbergen Blond,Bière Blonde,BE,Alken-Maes,33.0,6.7,22.0,2.0,3.0,1.25,2.0,2.59,3.5,3.92,7864
+380,Grimbergen Dubbel,Bière Double,BE,Alken-Maes,33.0,6.5,,3.0,3.0,1.25,2.0,2.69,3.64,4.08,1496
+381,Gouden Carolus Classic,Bière Quadruple,BE,Brouwerij Het Anker,33.0,8.5,16.0,3.0,4.0,0.0,1.0,2.29,3.8,3.47,4106
+382,Grisette Blanche Bio,Bière Blanche,BE,St. Feuillien,25.0,5.5,26.0,3.0,2.0,2.5,0.0,1.99,3.52,3.98,272267
+383,Grisette Fruits des Bois,Bière Fruitée,BE,St. Feuillien,25.0,3.5,,3.0,3.0,1.25,1.0,2.29,3.02,4.58,27976
+384,Gruut Amber,Bière Ambrée,BE,Gentse Gruut Stadsbrouwerij,33.0,6.6,,3.0,3.0,1.25,1.0,2.79,3.34,4.23,43838
+385,Grolsch Kruidige Tripel,Bière Triple,NL,,45.0,8.3,,4.0,3.0,0.0,2.0,3.39,3.5,3.77,372758
+386,Gulden Draak Quadruple,Bière Quadruple,BE,Brouwerij Van Steenberge,33.0,10.5,25.0,3.0,4.0,0.0,1.0,2.69,3.94,4.08,155
+387,Gulden Draak Brewmaster,Bière Blonde,BE,Brouwerij Van Steenberge,33.0,10.5,,3.0,4.0,0.0,2.0,2.49,3.97,3.77,104581
+388,Gulpener Château Neubourg,Pils & Hoppy Lager,NL,Brouwerij Gulpener,33.0,5.5,33.0,2.0,3.0,1.25,3.0,2.69,3.26,4.08,19203
+389,Gulpener Herfstbock,Bière Bock,NL,Brouwerij Gulpener,30.0,6.5,,3.0,3.0,0.0,2.0,1.19,3.28,1.98,19206
+390,Gulden Draak,Bière Quadruple,BE,Brouwerij Van Steenberge,33.0,10.5,,3.0,4.0,1.25,2.0,2.69,3.88,4.08,155
+391,Harviestoun Old Engine Oil,Bière Porter & Stout,GB,,33.0,6.0,40.0,4.0,3.0,0.0,2.0,3.09,3.8,4.68,875
+392,Harviestoun Bitter & Twisted,Bière Blonde,GB,,33.0,4.2,34.0,1.0,3.0,0.0,1.0,,3.42,,4720
+393,Harviestoun Schiehallion,Pils & Hoppy Lager,GB,,33.0,4.8,,3.0,3.0,0.0,1.0,2.79,3.47,4.23,6438
+394,Hertog Jan Grand Prestige,Bière Barley Wine,NL,,30.0,10.0,25.0,3.0,4.0,0.0,2.0,2.39,3.83,3.98,5863
+395,Het Nest Dead Man's Hand,Bière Porter & Stout,BE,,33.0,10.0,80.0,4.0,3.0,1.25,4.0,2.89,3.77,4.38,106016
+396,Herkenrode Noctis,Bière Double,BE,,33.0,7.0,28.0,3.0,3.0,0.0,2.0,2.49,3.26,3.77,117677
+397,Het Uiltje Bird of Prey IPA,IPA,NL,Brouwerij Het Uiltje,33.0,5.8,50.0,4.0,3.0,1.25,3.0,2.89,3.68,4.38,265393
+398,Het Nest Schuppenaas,Bière Blonde,BE,,33.0,6.5,44.0,3.0,2.0,2.5,3.0,2.59,3.33,3.92,98393
+399,Het Nest Koekedam,Bière de Garde & Saison,BE,,33.0,6.5,40.0,3.0,2.0,2.5,2.0,2.59,3.42,3.92,129871
+400,Gulden Draak Imperial Stout,Bière Porter & Stout,BE,Brouwerij Van Steenberge,33.0,12.0,,4.0,4.0,0.0,4.0,2.59,3.77,3.92,93834
+401,Het Uiltje Bon Bon bock,Bière Bock,NL,Brouwerij Het Uiltje,33.0,6.5,,3.0,4.0,0.0,2.0,2.95,3.48,4.47,45081
+402,Het Nest Schuppenboer Belgian Owl Barrel Aged,Bière Triple,BE,,33.0,10.0,38.0,3.0,3.0,0.0,2.0,,3.7,,130936
+403,Het Uiltje Dr. Raptor,IPA,NL,Brouwerij Het Uiltje,33.0,9.2,75.0,4.0,3.0,0.0,4.0,3.49,3.85,5.29,262259
+404,Het Uiltje F*ck the Christmas tree is on fire!,Bière Porter & Stout,NL,Brouwerij Het Uiltje,33.0,10.0,65.0,4.0,4.0,0.0,2.0,3.39,3.65,5.14,150050
+405,Het Uiltje Schwarzwalder Kirsch,Bière Porter & Stout,NL,Brouwerij Het Uiltje,33.0,8.0,65.0,4.0,3.0,0.0,3.0,3.49,3.73,5.29,261925
+406,Het Uiltje Most Wonderful Time For A Beer,Bière Brune,NL,Brouwerij Het Uiltje,33.0,10.0,20.0,4.0,3.0,1.25,2.0,3.19,3.68,4.83,207221
+407,Hopfmeister Brazilian Road Trip,Bière Porter & Stout,DE,,33.0,6.5,,3.0,3.0,0.0,3.0,3.99,3.19,6.05,329079
+408,Hopfmeister Franz Josef,Lager,DE,,33.0,5.1,20.0,2.0,3.0,0.0,2.0,2.69,3.67,4.08,296771
+409,Hoop Awesome Autumn Rum Bock,Bière Bock,NL,Brouwerij Hoop,33.0,6.9,28.0,3.0,3.0,0.0,1.0,,,,371495
+410,Hoop Waterwolf,Bière de Garde & Saison,NL,Brouwerij Hoop,33.0,5.5,20.0,4.0,0.0,2.5,1.0,3.25,3.52,4.92,322303
+411,Hof Ten Dormaal Blond,Bière Blonde,BE,Brouwerij Hof Ten Dormaal,33.0,8.0,,3.0,3.0,1.25,2.0,3.09,3.5,4.68,53029
+412,Hite Pale Lager,Lager,KR,,33.0,4.3,,2.0,3.0,0.0,1.0,2.29,2.72,3.47,182436
+413,Hoppebrau Wuidsau,Bière Ambrée,DE,,33.0,5.6,45.0,3.0,3.0,0.0,3.0,2.89,3.53,4.38,194401
+414,Hoppebrau Fuchsteufelswuid,IPA,DE,,33.0,8.2,72.0,4.0,3.0,0.0,4.0,3.09,3.65,4.68,261783
+415,Houblon Chouffe,IPA,BE,Brasserie d'Achouffe,33.0,9.0,59.0,3.0,3.0,1.25,3.0,,3.79,,27804
+416,Houppe,Bière Blonde,BE,L'Echasse,33.0,7.5,,4.0,3.0,1.25,3.0,3.09,3.73,4.68,260689
+417,Jacobins Kriek,Bière Fruitée,BE,,25.0,4.5,,3.0,3.0,3.75,1.0,1.79,3.91,3.58,279452
+418,Jessenhofke BRWN,Bière Brune,BE,Jessenhofke,33.0,7.0,21.0,3.0,3.0,0.0,1.0,,3.22,,60847
+419,Jessenhofke PMPRNL,Bière Triple,BE,Jessenhofke,33.0,8.0,26.0,4.0,3.0,1.25,3.0,2.79,3.38,4.23,77319
+420,Jopen 4 Granen Bokbier,Bière Bock,NL,Brouwerij Jopenkerk,33.0,6.5,30.0,3.0,3.0,0.0,2.0,2.69,3.5,4.08,11985
+421,Jopen Adriaan Wit,Bière Blanche,NL,Brouwerij Jopenkerk,33.0,5.0,12.0,2.0,2.0,1.25,1.0,2.69,3.47,4.08,14334
+422,Jessenhofke WNTR,Bière Brune,BE,Jessenhofke,33.0,10.0,,3.0,3.0,1.25,2.0,2.89,3.43,4.38,102516
+423,Hoppebrau Weissbier,Bière Weiss,DE,,50.0,5.5,,2.0,3.0,1.25,1.0,,3.46,,104538
+424,Instock Bammetjes Bier,Bière Weiss,NL,,33.0,4.5,,2.0,2.0,1.25,1.0,2.99,3.14,4.53,309031
+425,Jessenhofke TRPL,Bière Triple,BE,Jessenhofke,33.0,8.0,26.0,3.0,3.0,1.25,2.0,,3.42,,77319
+426,Jessenhofke RSRV,Bière Quadruple,BE,Jessenhofke,33.0,10.0,,3.0,3.0,1.25,2.0,2.89,3.45,4.38,102516
+427,Jessenhofke RGLR,Pale Ale,BE,Jessenhofke,33.0,3.5,15.0,3.0,2.0,1.25,2.0,,2.92,,123252
+428,Jopen Hoppenbier,Bière Blonde,NL,Brouwerij Jopenkerk,33.0,6.8,40.0,3.0,1.0,1.25,3.0,2.69,3.54,4.08,34047
+429,Jopen Gerstebier,Bière Blonde,NL,Brouwerij Jopenkerk,33.0,4.5,25.0,2.0,3.0,1.25,2.0,2.69,3.23,4.08,92540
+430,Jopen Johannieter,Bière Bock,NL,Brouwerij Jopenkerk,33.0,9.0,25.0,4.0,4.0,0.0,2.0,2.39,3.74,3.62,74510
+431,John Smiths Extra Smooth,Pale Ale,GB,,50.0,3.6,23.0,3.0,2.0,0.0,3.0,1.99,2.89,1.99,4019
+432,Jopen Extra Stout,Bière Porter & Stout,NL,Brouwerij Jopenkerk,33.0,5.5,45.0,4.0,2.0,1.25,4.0,2.89,3.44,4.38,26801
+433,Jopen Ongelovige Thomas,Bière Quadruple,NL,Brouwerij Jopenkerk,33.0,10.0,40.0,4.0,4.0,0.0,3.0,3.69,3.7,5.59,69557
+434,Jopen Lentebier,Pale Ale,NL,Brouwerij Jopenkerk,33.0,7.0,40.0,4.0,3.0,1.25,3.0,2.79,3.56,4.23,23622
+435,Kapittel Watou Triple Abt 10,Bière Triple,BE,,33.0,10.0,,3.0,3.0,0.0,3.0,2.39,3.56,3.62,7334
+436,Kasteel Blonde,Bière Blonde,BE,Brouwerij Van Honsebrouck,33.0,7.0,,3.0,3.0,1.25,2.0,2.49,3.49,3.77,1712
+437,Kasteel Donker,Bière Quadruple,BE,Brouwerij Van Honsebrouck,33.0,11.0,14.0,3.0,4.0,0.0,1.0,2.79,3.69,4.23,1711
+438,Jopen Malle Babbe,Bière Weiss,NL,Brouwerij Jopenkerk,33.0,5.5,12.0,3.0,3.0,0.0,1.0,2.89,3.53,4.38,92508
+439,Jopen Mooie Nel IPA,IPA,NL,Brouwerij Jopenkerk,33.0,6.5,70.0,4.0,3.0,1.25,4.0,2.89,3.86,4.38,92516
+440,Kasteel Tripel,Bière Triple,BE,Brouwerij Van Honsebrouck,33.0,11.0,,3.0,3.0,1.25,2.0,2.79,3.67,4.23,44892
+441,Kerstpater,Bière Brune,BE,Brouwerij Van den Bossche,33.0,9.0,,3.0,4.0,0.0,2.0,2.89,3.6,4.38,122673
+442,Kees Farmhouse IPA,IPA,NL,Brouwerij Kees,33.0,6.0,63.0,3.0,3.0,2.5,3.0,2.49,3.49,3.77,348061
+443,Kees Pale Ale Citra,Pale Ale,NL,Brouwerij Kees,33.0,4.6,52.0,4.0,3.0,1.25,3.0,3.19,3.51,4.83,180869
+444,Kees Export Porter 1750,Bière Porter & Stout,NL,Brouwerij Kees,33.0,10.5,110.0,5.0,3.0,1.25,5.0,3.69,3.97,5.59,172407
+445,Kees Pink Grapefruit IPA,IPA,NL,Brouwerij Kees,33.0,5.5,65.0,4.0,2.0,1.25,4.0,2.99,3.46,4.53,185218
+446,Kees American Barley Wine,Bière Barley Wine,NL,Brouwerij Kees,33.0,11.5,70.0,4.0,4.0,1.25,3.0,3.29,3.76,4.98,178836
+447,Kees Spring Blossom Pale Ale,Pale Ale,NL,Brouwerij Kees,33.0,6.5,50.0,3.0,3.0,0.0,3.0,2.69,3.29,4.08,182278
+448,Kehrwieder Kreativbrauerei Prototyp Lager,Pils & Hoppy Lager,DE,,33.0,5.9,25.0,3.0,2.0,1.25,2.0,,3.76,,113052
+449,Kehrwieder Kreativbrauerei SHIPA Hull Melon,IPA,DE,,33.0,7.5,65.0,3.0,3.0,0.0,3.0,2.99,3.69,4.53,119170
+450,Kompaan Boris The Butcher,Bière Porter & Stout,NL,Brouwerij Kompaan,33.0,9.5,,4.0,3.0,0.0,2.0,,,,323387
+451,Kirin Ichiban,Lager,JP,Kirin Brewing Company,33.0,5.0,,2.0,2.0,1.25,2.0,2.29,3.1,3.47,1249
+452,Kompaan Bloedbroeder,Bière Porter & Stout,NL,Brouwerij Kompaan,33.0,9.1,62.0,4.0,3.0,0.0,3.0,3.29,3.58,4.98,143843
+453,Kompaan Tommy Double Barrel,Bière Barley Wine,NL,Brouwerij Kompaan,33.0,11.5,,4.0,4.0,0.0,3.0,,,,322297
+454,Kompaan WannaBee,Bière Blanche,NL,Brouwerij Kompaan,33.0,5.5,16.0,3.0,3.0,0.0,1.0,2.89,3.28,4.38,334573
+455,Kompaan Vrijbuiter,Bière Porter & Stout,NL,Brouwerij Kompaan,33.0,7.1,34.0,4.0,2.0,1.25,3.0,2.99,3.48,4.53,115718
+456,Kompaan Joey Greenhorn,IPA,NL,Brouwerij Kompaan,33.0,6.0,60.0,3.0,2.0,1.25,3.0,2.99,3.67,4.53,282316
+457,La Blanche du Mont Blanc,Bière Blanche,FR,Mont-Blanc,33.0,4.7,13.0,2.0,3.0,1.25,1.0,2.79,3.51,4.23,19312
+458,Kwaremont Pittig Blond,Bière Blonde,BE,Brouwerij De Brabandere,33.0,6.6,,3.0,3.0,1.25,2.0,2.39,3.49,3.62,81486
+459,La Blonde du Mont Blanc,Bière Blonde,FR,Mont-Blanc,33.0,5.8,,1.0,2.0,1.25,1.0,2.79,3.36,4.23,36161
+460,La Bleue du Mont Blanc,Bière Fruitée,FR,Mont-Blanc,33.0,5.8,,1.0,4.0,1.25,0.0,2.79,2.86,4.23,36161
+461,La Débauche Baltic Porter Cognac Barrel,Bière Porter & Stout,FR,Brasserie La Débauche,33.0,10.0,,4.0,3.0,0.0,4.0,4.79,3.95,7.26,280677
+462,La Chouffe Blonde D'ardenne,Bière Blonde,BE,Brasserie d'Achouffe,33.0,8.0,20.0,3.0,3.0,1.25,1.0,2.59,3.89,3.92,31712
+463,La Débauche Cognac Barrel,Bière Barley Wine,FR,Brasserie La Débauche,33.0,9.5,,4.0,3.0,1.25,3.0,4.39,3.66,6.65,220487
+464,La Débauche Demi Mondaine,Bière Porter & Stout,FR,Brasserie La Débauche,33.0,11.0,,4.0,3.0,0.0,3.0,5.19,3.93,7.86,280673
+465,La Débauche Big Boy,Bière Porter & Stout,FR,Brasserie La Débauche,33.0,12.0,,4.0,3.0,1.25,3.0,4.99,3.97,7.56,208549
+466,La Débauche Black Ale India Stout,IPA,FR,Brasserie La Débauche,33.0,8.0,,5.0,3.0,1.25,4.0,3.09,3.79,4.68,234196
+467,La Débauche IPA,IPA,FR,Brasserie La Débauche,33.0,6.0,,4.0,2.0,0.0,4.0,3.29,3.66,4.98,164895
+468,La Débauche Slap a Banker,Bière Barley Wine,FR,Brasserie La Débauche,33.0,12.0,,5.0,4.0,1.25,4.0,3.89,3.76,5.89,223340
+469,La Débauche Nevermore,Bière Porter & Stout,FR,Brasserie La Débauche,33.0,9.5,,4.0,3.0,1.25,4.0,4.29,4.01,6.5,176009
+470,La Rouget Blanche des Plateaux,Bière de Garde & Saison,FR,La Rouget de Lisle,33.0,4.8,,2.0,3.0,0.0,1.0,2.79,3.33,4.23,18913
+471,La Rousse du Mont Blanc,Bière Ambrée,FR,Mont-Blanc,33.0,6.5,21.0,2.0,3.0,0.0,1.0,2.79,3.54,4.23,69056
+472,La Trappe Bockbier,Bière Bock,NL,La Trappe (La Brasserie De Koningshoeven),33.0,7.0,38.0,3.0,2.0,0.0,3.0,1.79,3.55,2.71,20299
+473,La Trappe Isid'or,Bière Ambrée,NL,La Trappe (La Brasserie De Koningshoeven),33.0,7.5,27.0,3.0,3.0,0.0,2.0,2.59,3.83,3.92,51030
+474,La Trappe Dubbel,Bière Double,NL,La Trappe (La Brasserie De Koningshoeven),33.0,7.0,22.0,3.0,3.0,0.0,1.0,2.39,3.63,3.62,20299
+475,La Trappe Quadrupel,Bière Quadruple,NL,La Trappe (La Brasserie De Koningshoeven),33.0,10.0,20.0,3.0,3.0,0.0,3.0,2.69,4.0,4.08,53946
+476,La Trappe Tripel,Bière Triple,NL,La Trappe (La Brasserie De Koningshoeven),33.0,8.0,30.0,3.0,3.0,1.25,3.0,2.69,3.81,4.08,348535
+477,La Violette du Mont Blanc,Bière Fruitée,FR,Mont-Blanc,33.0,4.7,,1.0,3.0,2.5,0.0,2.79,2.69,4.23,30177
+478,Lagunitas 12th of Never Ale,IPA,US,Lagunitas Brewing Company,36.0,5.5,,2.0,2.0,0.0,3.0,2.29,3.75,3.18,232372
+479,La Verte du Mont Blanc,Bière Blonde,FR,Mont-Blanc,33.0,5.9,,3.0,2.0,1.25,2.0,2.79,2.83,4.23,19313
+480,Leffe Brune Dubbel,Bière Double,BE,Brasserie Artois,30.0,6.5,20.0,3.0,3.0,3.75,1.0,,3.64,,1862
+481,Lefort Belgian Brown Ale,Bière Quadruple,BE,,33.0,9.0,,3.0,3.0,1.25,2.0,2.69,3.63,4.08,20345
+482,Leffe Tripel,Bière Triple,BE,Brasserie Artois,33.0,8.5,,3.0,3.0,0.0,1.0,2.79,3.69,4.23,1358
+483,Leopold 7,Bière Blonde,BE,,33.0,6.2,,3.0,3.0,0.0,3.0,2.89,3.44,4.38,105590
+484,Les Brassés Spring Break Beer,Bière Blanche,FR,,33.0,4.8,,2.0,2.0,2.5,1.0,3.0,3.11,4.55,224327
+485,Liefmans Fruitesse,Bière Fruitée,BE,Liefmans,25.0,3.8,,4.0,4.0,2.5,1.0,2.29,3.34,4.58,56414
+486,Lindeboom Gouverneur Dubbel,Bière Double,NL,Lindeboom Bierbrouwerij,30.0,6.5,24.0,3.0,4.0,0.0,1.0,2.59,3.33,4.32,240667
+487,Liefmans Yell'oh,Bière Fruitée,BE,Liefmans,25.0,3.8,,3.0,4.0,2.5,1.0,2.19,2.84,4.38,275918
+488,Liefmans Kriek Brut,Bière Sour,BE,,33.0,6.0,,2.0,4.0,2.5,1.0,2.89,3.76,4.38,283112
+489,Lindeboom Herfstbock,Bière Bock,NL,Lindeboom Bierbrouwerij,30.0,6.5,,3.0,3.0,0.0,2.0,1.65,3.31,2.75,33937
+490,Lindeboom Gouverneur Dubbelbock,Bière Bock,NL,Lindeboom Bierbrouwerij,30.0,7.5,22.0,3.0,3.0,0.0,1.0,1.89,3.32,3.15,198580
+491,Limburgse Witte,Bière Blanche,BE,,25.0,5.0,,3.0,3.0,2.5,1.0,2.19,3.52,4.38,7807
+492,Lindemans Faro,Bière Sour,BE,Brouwerij Lindemans,25.0,4.5,,3.0,3.0,1.25,3.0,2.19,3.54,4.38,7712
+493,Lindemans Kriek,Bière Fruitée,BE,Brouwerij Lindemans,25.0,3.5,,3.0,3.0,1.25,2.0,2.29,3.54,4.58,36583
+494,Lindeboom Kersen Radler,Bière Fruitée,NL,Lindeboom Bierbrouwerij,30.0,2.0,12.0,2.0,3.0,1.25,1.0,2.19,2.94,3.65,171502
+495,Lowlander American Pale Ale,Pale Ale,NL,Lowlander,33.0,4.5,40.0,3.0,1.0,3.75,4.0,3.49,3.34,5.29,298192
+496,Lowlander Poorter,Bière Porter & Stout,NL,Lowlander,33.0,6.0,45.0,3.0,3.0,1.25,2.0,3.49,3.43,5.29,226101
+497,Lowlander IPA,IPA,NL,Lowlander,33.0,6.0,70.0,3.0,2.0,0.0,3.0,3.19,3.77,4.83,217201
+498,Magic Rock Cannonball,IPA,GB,,33.0,7.4,60.0,4.0,3.0,1.25,4.0,3.29,3.9,4.98,77413
+499,Magic Rock Common Grounds,Bière Porter & Stout,GB,,33.0,5.4,25.0,4.0,3.0,0.0,1.0,2.79,3.8,4.23,207065
+500,Lowlander Winter Ale,Bière Brune,NL,Lowlander,33.0,6.0,37.0,4.0,3.0,1.25,3.0,2.79,3.02,4.23,226101
+501,Lupulus Organicus,Bière Triple,BE,,33.0,8.5,32.0,3.0,2.0,2.5,2.0,2.39,3.63,3.62,135610
+502,Lupulus Hopera,Pale Ale,BE,,33.0,6.0,30.0,3.0,2.0,1.25,3.0,2.59,3.56,3.92,200153
+503,Maisel & Friends Pale Ale,Pale Ale,DE,Brauerei Gebr. Maisel,33.0,5.2,32.0,3.0,3.0,1.25,3.0,2.39,3.66,3.62,135133
+504,Magic Rock High Wire Grapefruit,Pale Ale,GB,,33.0,5.5,,3.0,2.0,1.25,3.0,2.89,3.71,4.38,192942
+505,Magic Rock Salty Kiss,Bière Sour,GB,,33.0,4.1,,3.0,1.0,3.75,1.0,2.79,3.48,4.23,96879
+506,Malheur 10,Bière Blonde,BE,Brewery De Landtsheer,33.0,10.0,,3.0,3.0,1.25,2.0,2.89,3.73,4.38,6118
+507,Magic Rock High Wire,Pale Ale,GB,,33.0,5.5,35.0,3.0,2.0,2.5,3.0,2.89,3.8,4.38,74667
+508,Magic Rock Dark Arts,Bière Porter & Stout,GB,,33.0,6.0,,4.0,2.0,0.0,3.0,2.89,3.76,4.38,72292
+509,Magic Rock Inhaler,IPA,GB,,33.0,4.5,55.0,2.0,2.0,0.0,2.0,2.89,3.8,4.38,218316
+510,Maisel & Friends Alkoholfrei,Pale Ale,DE,,33.0,0.5,34.0,3.0,3.0,2.5,3.0,1.99,3.68,3.02,104938
+511,Malheur 6,Bière Blonde,BE,Brewery De Landtsheer,25.0,6.0,,3.0,3.0,1.25,2.0,,3.35,,7844
+512,Maneblusser Herfstbok,Bière Bock,BE,Brouwerij Het Anker,33.0,6.5,,2.0,3.0,0.0,1.0,,,,261886
+513,Mélusine Bio,Pale Ale,FR,,33.0,5.0,,,,,,2.59,3.29,3.92,29821
+514,Mélusine Barbe Bleue,Bière Porter & Stout,FR,,33.0,7.0,,4.0,2.0,0.0,3.0,2.69,3.26,4.08,36256
+515,Mélusine Mandragore,Pale Ale,FR,,33.0,4.8,,,,,,2.59,3.25,3.92,51434
+516,Maximus Saison 5,Bière de Garde & Saison,NL,Brouwerij Maximus,33.0,5.0,27.0,3.0,3.0,1.25,3.0,2.29,3.36,3.47,148442
+517,Maximus Stout 8,Bière Porter & Stout,NL,Brouwerij Maximus,33.0,8.0,55.0,5.0,3.0,0.0,5.0,2.59,3.52,3.92,91570
+518,Mc Chouffe,Bière Brune,BE,Brasserie d'Achouffe,33.0,8.0,20.0,3.0,3.0,0.0,2.0,2.69,3.69,4.08,1581
+519,Meantime Chocolate Porter,Bière Porter & Stout,GB,Meantime Brewing,33.0,6.5,,3.0,3.0,0.0,2.0,3.49,3.66,5.29,365840
+520,Moersleutel Motorolie,Bière Porter & Stout,NL,,44.0,12.0,55.0,5.0,4.0,1.25,4.0,5.59,3.89,6.35,234477
+521,Moinette Biologique,Bière de Garde & Saison,BE,Brasserie Dupont,25.0,7.5,,3.0,3.0,2.5,3.0,,3.71,,276062
+522,Moersleutel Smeerolie Mexicake,Bière Porter & Stout,NL,,44.0,10.0,50.0,5.0,4.0,0.0,4.0,5.99,3.96,6.81,332478
+523,Moinette Bruin,Bière Brune,BE,Brasserie Dupont,33.0,8.5,35.0,3.0,3.0,1.25,2.0,,3.57,,1714
+524,Moor Amoor,Bière Porter & Stout,GB,,33.0,4.5,,,,,,,,,14996
+525,Moor Nor'Hop,Pale Ale,GB,,33.0,4.1,35.0,3.0,2.0,0.0,2.0,2.69,3.7,4.08,81550
+526,Moor Hoppiness,IPA,GB,,33.0,6.5,65.0,4.0,1.0,1.25,4.0,2.99,3.9,4.53,87496
+527,Moor RAW,Pale Ale,GB,,33.0,4.3,,3.0,2.0,0.0,4.0,2.69,3.69,4.08,245053
+528,Moor Revival,Pale Ale,GB,,33.0,3.8,35.0,4.0,0.0,0.0,4.0,2.59,3.6,3.92,190243
+529,Mondo Little Victories,IPA,GB,,33.0,4.3,,,,,,,,,333052
+530,Musa Cookin Weisse,Bière Sour,PT,,33.0,5.5,10.0,3.0,2.0,3.75,0.0,2.99,3.39,4.53,176120
+531,Musa Baltic Sabbath,Bière Porter & Stout,PT,,33.0,7.0,50.0,4.0,2.0,0.0,1.0,2.99,3.6,4.53,335101
+532,Muifel D'n Ossebock,Bière Bock,NL,Muifelbrouwerij,33.0,7.0,40.0,3.0,2.0,1.25,3.0,,3.66,,140863
+533,Mount Saint Bernard Tynt Meadow,Bière Brune,GB,,33.0,7.4,,4.0,3.0,0.0,2.0,3.49,3.81,5.29,354491
+534,Muifelbrouwerij Zuster Agatha,Bière Quadruple,NL,Muifelbrouwerij,33.0,10.0,30.0,3.0,4.0,0.0,2.0,3.19,3.69,4.83,34667
+535,Musa Mick Lager,Pils & Hoppy Lager,PT,,33.0,4.5,20.0,2.0,2.0,1.25,1.0,2.59,3.32,3.92,261414
+536,Musa Red Zeppelin,IPA,PT,,33.0,5.0,35.0,2.0,3.0,1.25,2.0,2.79,3.53,4.23,257356
+537,Newcastle Brown Ale,Bière Brune,GB,Scottish Newcastle,33.0,4.7,18.0,3.0,2.0,3.75,2.0,2.19,3.42,3.32,222023
+538,New Castle Brown Ale,Bière Brune,GB,Scottish Newcastle,55.0,4.7,18.0,3.0,2.0,3.75,2.0,2.09,3.42,1.9,222023
+539,N'ice Chouffe,Bière Quadruple,BE,Brasserie d'Achouffe,33.0,10.0,,,,,,,,,2269
+540,Musa Twist & Stout,Bière Porter & Stout,PT,,33.0,5.5,35.0,2.0,3.0,1.25,2.0,2.79,3.34,4.23,261416
+541,Ninkasi Pale Ale,Bière Ambrée,FR,Ninkasi Fabriques,33.0,4.5,,3.0,3.0,0.0,2.0,2.69,3.43,4.08,356008
+542,Ninkasi Blanche,Bière Blanche,FR,Ninkasi Fabriques,33.0,4.8,,3.0,3.0,0.0,1.0,2.69,3.42,4.08,18913
+543,Oedipus Swingers,Bière Sour,NL,Brasserie Oedipus,33.0,4.0,,2.0,0.0,2.5,0.0,3.19,3.4,4.83,155072
+544,Oedipus Slomo,Bière de Garde & Saison,NL,Brasserie Oedipus,33.0,3.5,10.0,3.0,3.0,0.0,1.0,2.39,3.2,3.62,136668
+545,Oedipus Panty,Bière Porter & Stout,NL,Brasserie Oedipus,33.0,6.0,25.0,3.0,2.0,1.25,3.0,3.09,3.47,4.68,131785
+546,Oersoep Blanco,Bière de Garde & Saison,NL,,33.0,5.0,,2.0,2.0,1.25,2.0,2.99,3.34,4.53,181187
+547,Omer Traditional Blonde,Bière Blonde,BE,,33.0,8.0,,3.0,3.0,1.25,3.0,2.59,3.64,3.92,53029
+548,Omer Roodbruin,Bière Sour,BE,,25.0,5.5,20.0,4.0,2.0,5.0,0.0,1.69,3.73,3.38,283344
+549,Oersoep En Garde!,Bière de Garde & Saison,NL,,33.0,6.5,,3.0,3.0,1.25,2.0,2.95,3.47,4.47,190860
+550,Oersoep Hopfather,IPA,NL,,33.0,5.0,,3.0,3.0,1.25,1.0,3.09,3.58,4.68,165765
+551,Oersoep Sexy Motherbocker,Bière Bock,NL,,33.0,8.4,,3.0,3.0,2.5,3.0,,,,261884
+552,Page 24 Robust Porter,Bière Porter & Stout,FR,,33.0,5.9,36.0,4.0,3.0,1.25,3.0,3.19,3.38,4.83,49846
+553,Paljas Bruin,Bière Double,BE,,33.0,6.0,25.0,3.0,3.0,1.25,2.0,2.49,3.27,3.77,129888
+554,Palm Hop Select,Pale Ale,BE,Brouwerij Palm,33.0,6.0,34.0,2.0,3.0,0.0,2.0,2.59,3.34,3.92,91688
+555,Palm Session IPA,IPA,BE,Brouwerij Palm,33.0,3.5,,2.0,2.0,0.0,2.0,2.29,3.21,3.47,288283
+556,Pauwel Kwak,Bière Ambrée,BE,Brouwerij Bosteels,33.0,8.4,,3.0,3.0,0.0,1.0,2.69,3.95,4.08,635
+557,Paulaner Hefeweizen Naturtrüb,Bière Weiss,DE,Paulaner Brauerei,50.0,5.5,12.0,3.0,2.0,1.25,3.0,2.49,3.71,2.49,1256
+558,Peroni Nastro Azzurro,Lager,IT,,33.0,5.1,,2.0,2.0,0.0,2.0,2.49,3.14,3.77,1790
+559,Pietra Bionda,Lager,FR,,25.0,5.5,,2.0,3.0,0.0,2.0,,3.12,,126940
+560,Pêche Mel Bush,Bière Fruitée,BE,Brasserie Dubuisson Freres,33.0,8.5,16.0,4.0,4.0,1.25,2.0,2.59,3.49,3.92,55186
+561,Pietra,Lager,FR,,33.0,6.0,,2.0,2.0,1.25,2.0,2.69,3.17,4.08,7195
+562,Pietra Rossa,Bière Fruitée,FR,,33.0,6.5,,3.0,3.0,1.25,1.0,,2.76,,164891
+563,"Piraat 10,5",Bière Blonde,BE,Brouwerij Van Steenberge,33.0,10.5,,3.0,4.0,1.25,2.0,2.49,3.72,3.77,156
+564,Piraat Red,Bière Fruitée,BE,Brouwerij Van Steenberge,33.0,10.5,,4.0,5.0,1.25,2.0,2.19,3.64,3.32,156
+565,Piraat Tripel Hop,Bière Blonde,BE,Brouwerij Van Steenberge,33.0,10.5,65.0,3.0,3.0,0.0,3.0,2.79,3.64,4.23,95562
+566,Põhjala Must Kuld,Bière Porter & Stout,EE,Põhjala,33.0,7.8,45.0,4.0,3.0,0.0,3.0,3.79,3.79,5.74,163783
+567,Pontus Brewing Gigantic Sailor Double IPA,IPA,NL,,33.0,8.0,,4.0,3.0,0.0,3.0,3.19,3.61,4.83,150051
+568,Quintine Blonde,Bière Blonde,BE,Brasserie des Légendes,33.0,8.0,,3.0,2.0,1.25,3.0,3.59,3.51,5.44,5069
+569,Quintine Hercule,Bière Porter & Stout,BE,Brasserie des Légendes,33.0,9.0,44.0,4.0,3.0,1.25,2.0,3.19,3.63,4.83,2144
+570,Reuz Lentebock,Bière Bock,NL,Reuzenbieren,33.0,5.5,33.0,3.0,3.0,1.25,2.0,2.69,3.46,4.08,228419
+571,Rock City Beers Amersfoort Pale Ale,Pale Ale,NL,,33.0,5.8,48.0,4.0,3.0,1.25,3.0,2.49,3.65,3.77,322306
+572,Rock City Beers Peach Squeezer,Bière Blanche,NL,,33.0,4.0,,3.0,3.0,0.0,3.0,,3.48,,337180
+573,Robinsons Trooper,Pale Ale,GB,,33.0,4.7,35.0,3.0,2.0,1.25,3.0,3.99,3.39,6.05,96511
+574,Rochefort 10',Bière Quadruple,BE,Brouwerij Rochefort,33.0,11.3,,4.0,1.0,5.0,1.0,3.29,4.26,4.98,645
+575,Rochefort 6',Bière Double,BE,Brouwerij Rochefort,33.0,7.5,,3.0,3.0,2.5,2.0,2.49,3.82,3.77,3842
+576,Rodenbach Classic,Bière Sour,BE,Brasserie Rodenbach,25.0,5.2,30.0,3.0,2.0,3.75,1.0,2.39,3.58,4.78,1882
+577,Rodenbach Grand Cru,Bière Sour,BE,Brasserie Rodenbach,33.0,6.0,,3.0,3.0,0.0,2.0,3.09,4.05,4.68,673
+578,Rogue Brutal IPA,IPA,US,,36.0,6.0,46.0,3.0,2.0,0.0,3.0,3.39,3.69,4.71,81155
+579,Rogue Cold Brew IPA,IPA,US,,65.0,7.5,82.0,4.0,2.0,1.25,4.0,6.99,3.76,5.38,167372
+580,Samuel Smith Taddy Porter,Bière Porter & Stout,GB,,55.0,5.0,32.0,3.0,3.0,1.25,3.0,3.69,3.71,3.35,572
+581,Saison Voisin,Bière de Garde & Saison,BE,Brasserie des Légendes,33.0,5.0,40.0,3.0,2.0,1.25,3.0,2.29,3.38,3.47,9077
+582,Samuel Smith Oatmeal Stout,Bière Porter & Stout,GB,,55.0,5.0,35.0,3.0,3.0,1.25,3.0,3.79,3.83,3.45,571
+583,Samuel Smith India Ale,IPA,GB,,55.0,5.0,46.0,3.0,3.0,0.0,3.0,3.69,3.43,3.35,573
+584,Samuel Smith Imperial Stout,Bière Porter & Stout,GB,,36.0,7.0,35.0,3.0,3.0,1.25,3.0,3.19,3.8,4.43,43967
+585,Samuel Smith Nut Brown Ale,Bière Brune,GB,,55.0,5.0,30.0,3.0,3.0,1.25,2.0,3.79,3.62,3.45,576
+586,Samuel Smith Organic Chocolate Stout,Bière Porter & Stout,GB,,55.0,5.0,28.0,4.0,4.0,0.0,2.0,3.89,4.09,3.54,86189
+587,Schneider Weisse Meine Helle Wesse (TAP 1),Bière Weiss,DE,,50.0,5.2,,3.0,2.0,1.25,1.0,2.19,3.64,2.19,223205
+588,Schneider Weisse Aventinus,Bière Bock,DE,,50.0,8.2,16.0,3.0,3.0,2.5,3.0,2.89,3.93,2.89,224
+589,Schneider Aventinus Eisbock,Bière Bock,DE,,33.0,12.0,15.0,4.0,3.0,0.0,2.0,,3.92,,1934
+590,Scheldebrouwerij Lamme Goedzak,Bière Blonde,BE,Scheldebrouwerij,33.0,7.0,,3.0,3.0,0.0,2.0,2.79,3.64,4.23,15572
+591,Scheldebrouwerij Oesterstout,Bière Porter & Stout,BE,Scheldebrouwerij,33.0,8.5,,4.0,3.0,1.25,2.0,3.09,3.55,4.68,24996
+592,Schneider Weisse Meine Hopfenweisse (Tap5),Bière Weiss,DE,,50.0,8.2,40.0,4.0,3.0,0.0,3.0,2.89,3.87,2.89,37774
+593,Seefbier,Bière Blonde,BE,,33.0,6.5,17.0,2.0,3.0,1.25,1.0,2.59,3.52,3.92,83668
+594,Scotch Silly,Bière Barley Wine,BE,Brasserie de Silly,33.0,8.0,,3.0,4.0,0.0,2.0,2.29,3.64,3.47,2489
+595,Seven Bro7hers Watermelon Wheat Beer,Bière Blanche,GB,,33.0,4.5,,3.0,3.0,1.25,2.0,2.49,3.49,3.77,272265
+596,Seef's Bootjesbier,Pale Ale,BE,,33.0,7.0,30.0,3.0,2.0,0.0,2.0,2.59,3.49,3.92,171791
+597,Silly Triple Swaf,Bière Triple,BE,Brasserie de Silly,33.0,8.0,,4.0,3.0,1.25,2.0,2.69,3.31,4.08,209360
+598,Silly Pils Bio,Pils & Hoppy Lager,BE,Brasserie de Silly,25.0,5.0,,2.0,3.0,1.25,2.0,1.89,2.85,3.78,2494
+599,Sint Gummarus Dubbel,Bière Double,BE,,33.0,7.1,29.0,3.0,3.0,0.0,3.0,2.29,3.29,3.47,15090
+600,Siren Pompelmocello,IPA,GB,,33.0,6.0,30.0,3.0,1.0,1.25,1.0,3.59,3.76,5.44,198231
+601,Sierra Nevada Pale Ale,Pale Ale,US,,36.0,5.6,38.0,3.0,3.0,0.0,3.0,3.89,3.65,5.4,371352
+602,Siren Undercurrent,Pale Ale,GB,,33.0,4.5,35.0,3.0,2.0,0.0,3.0,3.19,3.59,4.83,99867
+603,Silly Double Enghien Blonde,Bière Blonde,BE,Brasserie de Silly,33.0,7.5,,2.0,3.0,0.0,3.0,,3.24,,2490
+604,Solaes Acht gemeten,IPA,NL,,33.0,8.0,,3.0,3.0,0.0,4.0,3.99,3.81,6.05,359321
+605,St. Bernardus Abt 12,Bière Quadruple,BE,St. Bernardus Brouwerij,33.0,10.0,,3.0,3.0,1.25,2.0,2.89,4.11,4.38,373455
+606,St. Feuillien Grand Cru,Bière Blonde,BE,St. Feuillien,33.0,9.5,,3.0,3.0,1.25,2.0,2.59,3.79,3.92,73632
+607,St. Bernardus Wit,Bière Blanche,BE,St. Bernardus Brouwerij,33.0,5.5,,3.0,2.0,1.25,1.0,2.09,3.67,3.17,31370
+608,St. Bernardus Tripel,Bière Triple,BE,St. Bernardus Brouwerij,33.0,8.0,,3.0,3.0,1.25,3.0,2.89,3.89,4.38,15091
+609,St. Feuillien Noël,Bière Brune,BE,St. Feuillien,33.0,9.0,,4.0,3.0,0.0,2.0,2.59,3.58,3.92,6804
+610,St. Feuillien Saison,Bière de Garde & Saison,BE,St. Feuillien,33.0,6.5,28.0,3.0,2.0,1.25,2.0,2.39,3.57,3.62,49728
+611,Steamworks Heroica Red Ale,Bière Ambrée,CA,Steamworks Brewing Co.,33.0,5.6,40.0,3.0,3.0,0.0,3.0,2.99,3.57,4.53,139318
+612,Steamworks Jasmine IPA,IPA,CA,Steamworks Brewing Co.,33.0,6.5,60.0,3.0,2.0,0.0,3.0,2.99,3.66,4.53,123148
+613,Steamworks Killer Cucumber Ale,Pale Ale,CA,Steamworks Brewing Co.,33.0,4.7,25.0,3.0,2.0,0.0,3.0,2.99,3.41,4.53,170898
+614,Steamworks Pumpkin Ale,Bière Brune,CA,Steamworks Brewing Co.,33.0,6.5,,,,,,2.99,3.43,4.53,142904
+615,Stijl Basterd Dubbel,Bière Double,NL,,33.0,7.0,35.0,3.0,3.0,0.0,3.0,2.79,3.38,4.23,34054
+616,Steenbrugge Wit,Bière Blanche,BE,Brouwerij Palm,25.0,5.0,,2.0,3.0,1.25,1.0,2.19,3.33,4.38,44204
+617,Steamworks Pale Ale,Pale Ale,CA,Steamworks Brewing Co.,33.0,5.2,40.0,3.0,3.0,0.0,3.0,2.99,3.5,4.53,170334
+618,Steenuilke,Bière Blonde,BE,,33.0,6.5,30.0,3.0,2.0,0.0,3.0,2.49,3.47,3.77,96446
+619,Stiegl Goldbraü,Lager,AT,,33.0,4.9,20.0,2.0,3.0,0.0,2.0,2.49,3.3,3.77,3319
+620,Straffe Hendrik Quadruppel,Bière Quadruple,BE,Brouwerij De Halve Maan,33.0,11.0,35.0,4.0,4.0,0.0,2.0,3.19,3.94,4.83,63185
+621,Stouterik,Bière Porter & Stout,BE,,33.0,4.5,,4.0,3.0,1.25,4.0,,3.39,,5454
+622,Straffe Hendrik Triple,Bière Triple,BE,Brouwerij De Halve Maan,33.0,9.0,35.0,3.0,3.0,1.25,2.0,2.99,3.83,4.53,110453
+623,Swinckels' Superieur Pilsner,Pils & Hoppy Lager,NL,,33.0,5.3,25.0,3.0,3.0,0.0,2.0,2.19,3.21,3.32,54843
+624,Ter Dolen Donker,Bière Double,BE,Ter Dolen,33.0,7.1,,3.0,3.0,0.0,2.0,2.59,3.48,3.92,70611
+625,Ter Dolen Kriek,Bière Fruitée,BE,Ter Dolen,33.0,4.5,,3.0,4.0,2.5,1.0,2.69,3.5,4.08,23330
+626,Texels Dubbel,Bière Double,NL,Texels,30.0,6.4,22.0,3.0,3.0,0.0,2.0,2.49,3.42,4.15,13077
+627,Texels Eyerlander,Pale Ale,NL,Texels,30.0,5.5,18.0,3.0,3.0,0.0,2.0,2.59,3.39,4.32,174631
+628,Texels Bock,Bière Bock,NL,Texels,30.0,7.0,,3.0,3.0,0.0,2.0,2.59,3.53,4.32,26503
+629,Strubbe Keyte Oostendse Tripel,Bière Triple,BE,,33.0,7.7,,3.0,3.0,1.25,3.0,2.39,3.45,3.62,64801
+630,Texels Vuurbaak,Pale Ale,NL,Texels,30.0,5.5,25.0,3.0,3.0,0.0,2.0,2.59,3.5,4.32,174631
+631,Texels Goudkoppe,Bière Blonde,NL,Texels,30.0,6.0,20.0,3.0,3.0,0.0,2.0,2.59,3.48,4.32,51859
+632,Texels Skuumkoppe,Bière Weiss,NL,Texels,30.0,6.0,,2.0,2.0,1.25,3.0,2.49,3.72,4.15,22191
+633,Texels Noorderwiend,Bière Brune,NL,Texels,30.0,7.5,,3.0,3.0,0.0,2.0,,3.5,,122952
+634,Texels Tripel,Bière Triple,NL,Texels,30.0,8.5,40.0,3.0,3.0,0.0,3.0,2.79,3.53,4.65,19444
+635,Thornbridge Wild Swan,Pale Ale,GB,Thornbridge,33.0,3.5,,2.0,2.0,0.0,2.0,2.59,3.38,3.92,37493
+636,Thornbridge Chiron,Pale Ale,GB,Thornbridge,33.0,5.0,,3.0,2.0,1.25,3.0,3.29,3.7,4.98,4701
+637,Thornbridge Am:Pm,IPA,GB,Thornbridge,33.0,4.5,,3.0,3.0,1.25,3.0,3.39,3.67,5.14,36808
+638,Triporteur From Heaven,Bière Blonde,BE,,33.0,6.2,28.0,3.0,3.0,1.25,2.0,2.39,3.59,3.62,110623
+639,Tripel Karmeliet,Bière Triple,BE,Brouwerij Bosteels,33.0,8.4,,4.0,3.0,1.25,1.0,1.95,4.1,2.95,656
+640,Thornbridge Wild Raven,IPA,GB,Thornbridge,33.0,6.6,,3.0,2.0,1.25,3.0,3.69,3.77,5.59,56387
+641,Troost Tripel,Bière Triple,NL,Brouwerij Troost,33.0,7.5,30.0,3.0,2.0,0.0,2.0,2.65,3.56,4.02,71418
+642,Troubadour Blond,Bière Blonde,BE,Brouwerij The Musketeers,33.0,6.5,30.0,3.0,3.0,1.25,3.0,2.59,3.49,3.92,617
+643,Troubadour Imperial Stout,Bière Porter & Stout,BE,Brouwerij The Musketeers,33.0,9.0,45.0,3.0,3.0,1.25,3.0,2.69,3.74,4.08,73634
+644,Two Chefs Brewing Billy Biscuit,Bière Bock,NL,Two Chefs Brewing,33.0,7.2,38.0,3.0,4.0,1.25,2.0,,,,306370
+645,Troost Winterbier,Bière Quadruple,NL,Brouwerij Troost,33.0,9.0,30.0,4.0,4.0,0.0,1.0,,3.63,,5866
+646,Two Chefs Brewing Green Bullet IPA,IPA,NL,Two Chefs Brewing,33.0,5.7,40.0,3.0,3.0,1.25,3.0,2.39,3.64,3.62,135238
+647,Two Chefs Brewing Hippie Fish,Pale Ale,NL,Two Chefs Brewing,33.0,4.7,27.0,3.0,3.0,1.25,3.0,2.39,3.4,3.62,294015
+648,Two Chefs Brewing Red Rocket,Bière Ambrée,NL,Two Chefs Brewing,33.0,5.1,17.0,3.0,2.0,1.25,3.0,2.49,3.42,3.77,214859
+649,Two Chefs Brewing White Mamba,Bière Blanche,NL,Two Chefs Brewing,33.0,5.0,12.0,3.0,2.0,1.25,1.0,2.39,3.46,3.62,261206
+650,Two Chefs Brewing Howling Wolf,Bière Porter & Stout,NL,Two Chefs Brewing,33.0,8.0,40.0,4.0,4.0,1.25,3.0,2.89,3.56,4.38,169565
+651,Val Dieu Bruin,Bière Double,BE,Brasserie de l'Abbaye du Val-Dieu,33.0,8.0,19.0,3.0,3.0,1.25,2.0,2.79,3.49,4.23,8915
+652,Urthel Samaranth,Bière Quadruple,BE,Microbrouwerij Urthel,33.0,11.5,,3.0,4.0,0.0,2.0,2.79,3.78,4.23,15274
+653,Urthel Saisonniere 6,Bière de Garde & Saison,BE,Microbrouwerij Urthel,33.0,6.0,,3.0,3.0,2.5,2.0,2.39,3.52,3.62,56428
+654,Van Moll Langharig tuig,Bière Weiss,NL,,33.0,5.5,,2.0,2.0,2.5,2.0,2.89,3.59,4.38,240267
+655,Van Moll Ons Blackie,Bière Porter & Stout,NL,,33.0,9.0,,4.0,3.0,1.25,4.0,,3.66,,188314
+656,Val Dieu Tripel,Bière Triple,BE,Brasserie de l'Abbaye du Val-Dieu,33.0,9.0,20.0,3.0,3.0,1.25,2.0,2.79,3.7,4.23,603
+657,Van Moll Toewijding,Bière Blonde,NL,,33.0,6.5,,2.0,1.0,0.0,3.0,2.79,3.5,4.23,196833
+658,Poesiat & Kater: Van Vollenhoven Extra Stout,Bière Porter & Stout,NL,Poesiat & Kater,33.0,7.1,57.0,4.0,4.0,0.0,4.0,3.09,3.58,4.68,333211
+659,Vandestreek Zonnesteek,Bière Bock,NL,vandeStreek,33.0,6.0,43.0,3.0,1.0,2.5,3.0,2.89,3.33,4.38,282013
+660,vandeStreek Playground IPA sans Alcool,IPA,NL,vandeStreek,33.0,0.5,,2.0,2.0,0.0,3.0,,,,321520
+661,vandeStreek Dark Roast,Bière Porter & Stout,NL,vandeStreek,33.0,7.8,50.0,3.0,3.0,2.5,2.0,2.75,3.5,4.17,97743
+662,Vandestreek BlackBock,Bière Bock,NL,vandeStreek,33.0,6.0,44.0,3.0,2.0,0.0,4.0,2.89,3.34,4.38,195839
+663,Vandestreek Turf 'n Surf,Bière Triple,NL,vandeStreek,33.0,8.5,15.0,3.0,3.0,0.0,3.0,3.09,3.46,4.68,269396
+664,Vicaris Triple,Bière Triple,BE,,33.0,8.5,,3.0,3.0,0.0,3.0,2.79,3.63,4.23,26202
+665,Vedett Extra Blond,Bière Blonde,BE,Brouwerij Duvel Moortgat,33.0,5.2,26.0,3.0,2.0,1.25,2.0,2.25,3.31,3.41,13766
+666,Viven Imperial IPA,IPA,BE,Brouwerij Van Viven,33.0,8.0,124.0,4.0,2.0,1.25,4.0,2.99,3.72,4.53,59514
+667,Viven Ale,Pale Ale,BE,Brouwerij Van Viven,33.0,5.0,,3.0,2.0,1.25,2.0,2.39,3.26,3.62,63219
+668,Walhalla Osiris,Bière de Garde & Saison,NL,Walhalla Craft Beer,33.0,7.0,38.0,3.0,3.0,1.25,2.0,3.09,3.53,4.68,218088
+669,Walhalla Shakti,IPA,NL,Walhalla Craft Beer,33.0,8.8,90.0,4.0,4.0,1.25,4.0,3.29,3.6,4.98,234108
+670,Viven Bruin,Bière Double,BE,Brouwerij Van Viven,33.0,7.5,,3.0,3.0,0.0,2.0,2.49,3.38,3.77,198747
+671,Walhalla Wuldor,Bière Barley Wine,NL,Walhalla Craft Beer,33.0,9.8,60.0,3.0,4.0,0.0,3.0,3.49,3.63,5.29,245978
+672,Weihenstephaner Festbier,Lager,DE,Bayerische Staatsbrauerei Weihenstephan,50.0,5.8,26.0,2.0,3.0,0.0,2.0,2.79,3.59,2.79,6861
+673,Weihenstephaner Korbinian,Bière Bock,DE,Bayerische Staatsbrauerei Weihenstephan,50.0,7.4,32.0,3.0,3.0,1.25,1.0,2.89,3.84,2.89,779
+674,Weihenstephaner Vitus,Bière Bock,DE,Bayerische Staatsbrauerei Weihenstephan,50.0,7.7,17.0,3.0,3.0,1.25,1.0,2.89,3.93,2.89,35625
+675,Weihenstephan Hefe Weissbier,Bière Weiss,DE,Bayerische Staatsbrauerei Weihenstephan,50.0,5.4,14.0,3.0,3.0,1.25,1.0,2.49,3.84,2.49,731
+676,Weihenstephan Hefe Weizen sans Alcool,Bière Weiss,DE,Bayerische Staatsbrauerei Weihenstephan,50.0,0.5,14.0,2.0,2.0,0.0,1.0,2.09,2.68,2.09,12600
+677,Westmalle Tripel,Bière Triple,BE,Westmalle,33.0,9.5,36.0,3.0,3.0,1.25,3.0,2.59,3.93,3.92,646
+678,Westmalle Dubbel,Bière Double,BE,Westmalle,33.0,7.0,28.0,3.0,3.0,2.5,3.0,2.19,3.76,3.32,674
+679,Welde No. 1,Pils & Hoppy Lager,DE,,33.0,4.8,26.0,2.0,1.0,0.0,3.0,2.29,3.35,3.47,16164
+680,Welde Hop Stuff,IPA,DE,,33.0,5.6,18.0,2.0,3.0,0.0,2.0,2.59,3.53,3.92,30209
+681,Welde Kurpfalzbräu Helles,Lager,DE,,50.0,5.2,16.0,2.0,2.0,0.0,3.0,2.19,3.4,2.19,336557
+682,Welde Badisch Gose,Bière Sour,DE,,33.0,4.6,10.0,3.0,1.0,2.5,2.0,2.59,3.51,3.92,181458
+683,Wieze,Bière Triple,BE,Brouwerij De Brabandere,33.0,8.5,27.0,2.0,3.0,0.0,2.0,2.79,3.49,4.23,7288
+684,Wild Beer Co Epic Saison,Bière de Garde & Saison,GB,Wild Beer Company,33.0,5.0,48.0,0.0,1.0,1.25,1.0,,,,89417
+685,Wild Card Brewery King of Hearts,Bière Blonde,GB,,33.0,4.5,,0.0,0.0,0.0,0.0,,,,153729
+686,Wilderen Goud,Bière Blonde,BE,Brouwerij Wilderen,33.0,6.2,,3.0,3.0,1.25,2.0,,3.51,,114670
+687,Wolfscraft Super Lager,Pils & Hoppy Lager,DE,,33.0,5.3,,3.0,1.0,0.0,3.0,2.69,3.49,4.08,288826
+688,Wild Beer Co Tepache,Bière Sour,GB,Wild Beer Company,33.0,6.0,5.0,0.0,1.0,2.5,0.0,3.59,3.65,5.44,195843
+689,Zundert Trappist 10,Bière Quadruple,NL,Trappistenbrouwerij de Kievit,33.0,10.0,53.0,4.0,4.0,0.0,2.0,2.79,3.79,4.23,369721
+690,Zundert Trappist 8,Bière Triple,NL,Trappistenbrouwerij de Kievit,33.0,8.0,32.0,4.0,1.0,0.0,2.0,2.69,3.7,4.08,107400
+691,Wolfscraft THE Export,Lager,DE,,33.0,5.6,,3.0,3.0,1.25,3.0,2.69,3.69,4.08,255876
+692,Wolfscraft Viel Weizen,Bière Weiss,DE,,33.0,5.4,,2.0,3.0,0.0,1.0,2.69,3.55,4.08,104452
+693,De Dochter van de Korenaar L'Ensemble di Montalcino,Bière Barley Wine,BE,,33.0,13.0,,,,,,7.79,4.11,11.8,286979
+694,Rivière d'Ain Blonde,Bière Blonde,FR,,33.0,6.0,,,,,,3.79,3.54,5.74,286876
+695,Rivière d'Ain Thou Blanche,Bière Blanche,FR,,33.0,5.4,,3.0,3.0,2.5,1.0,3.69,3.8,5.59,63735
+696,Noordt Chrismas Pale Ale,Pale Ale,NL,,33.0,7.0,,,,,,,,,242080
+697,Lupulus Blonde Triple,Bière Triple,BE,,33.0,8.5,30.0,4.0,2.0,0.0,3.0,2.39,3.65,3.62,61003
+698,Gouden Carolus Whisky Infused,Bière Brune,BE,Brouwerij Het Anker,33.0,11.7,17.0,4.0,3.0,0.0,2.0,3.39,4.09,5.14,197828
+699,St-Feuillien Quadrupel,Bière Quadruple,BE,St. Feuillien,33.0,11.0,,3.0,4.0,0.0,3.0,2.79,3.89,4.23,63185
+700,Red Horse Extra Strong,Lager,PH,,33.0,8.0,,2.0,2.0,1.25,2.0,2.29,2.51,3.47,77013
+701,Road Runner Coffee Stout Alkoholfrei,Bière Porter & Stout,DE,,33.0,0.4,,3.0,3.0,1.25,4.0,3.39,3.53,5.14,239543
+702,Mort Subite Witte Lambic,Bière Blanche,BE,,25.0,5.5,,,,,,1.79,3.43,3.58,82708
+703,Brasseurs Savoyards Blonde,Bière Blonde,FR,,33.0,5.0,32.0,3.0,2.0,0.0,4.0,2.75,3.03,4.17,167112
+704,Uddelaer Tripel,Bière Triple,NL,,25.0,7.8,34.0,4.0,1.0,0.0,2.0,3.19,3.46,6.38,23597
+705,Mikkeller Milk Stout,Bière Porter & Stout,DK,Mikkeller,33.0,6.0,,3.0,3.0,1.25,3.0,4.39,3.88,6.65,81962
+706,De Leckere Springhaver Lente,Bière Bock,NL,Brouwerij De Leckere,33.0,6.5,,3.0,3.0,0.0,2.0,2.39,3.26,3.62,226054
+707,Brouwerij 't IJ IPA,IPA,NL,Brouwerij 't IJ,33.0,7.0,60.0,3.0,2.0,0.0,4.0,2.49,3.62,3.77,65188
+708,Brasseurs Savoyards Blanche,Bière Blanche,FR,,33.0,5.0,14.0,3.0,2.0,1.25,3.0,2.75,3.96,4.17,95740
+709,Sloeber IPA,IPA,BE,,33.0,7.5,41.0,3.0,3.0,0.0,4.0,2.45,3.5,3.71,7634
+710,Ename Pater,Bière Blonde,BE,,33.0,5.5,32.0,2.0,1.0,0.0,4.0,2.09,3.43,3.17,169188
+711,Belgosapiens Blanche de Thines,Bière Blanche,BE,Belgo Sapiens Brewers,33.0,4.8,20.0,3.0,3.0,1.25,1.0,,3.27,,216279
+712,Camba 4 Sessions,Pale Ale,DE,,33.0,4.1,,,,,,2.49,3.32,3.77,276787
+713,Camba Mastrobator,Bière Bock,DE,,33.0,8.5,,,,,,2.69,3.55,4.08,193628
+714,Ninkasi Smoky Ale,Bière Ambrée,FR,Ninkasi Fabriques,33.0,6.0,18.0,4.0,3.0,0.0,1.0,2.99,3.42,4.53,228820
+715,Brouwerij 't IJ Zatte Tripel,Bière Triple,NL,Brouwerij 't IJ,33.0,8.0,19.0,3.0,3.0,0.0,2.0,2.29,3.7,3.47,21599
+716,Het Uiltje Dikke Lul 3 Bier,Pale Ale,NL,,33.0,5.6,60.0,4.0,3.0,0.0,5.0,2.75,3.45,4.17,225947
+717,Brasseurs Savoyards Ambrée,Bière Ambrée,FR,,33.0,7.0,24.0,4.0,3.0,0.0,0.0,2.89,3.28,4.38,18431
+718,Brlo C4PO Westcoast IPA,IPA,DE,,33.0,7.0,60.0,4.0,2.0,0.0,4.0,2.59,3.64,3.92,365359
+719,Oedipus Polyamorie,Bière Sour,NL,Brasserie Oedipus,33.0,5.0,15.0,3.0,2.0,3.75,2.0,3.19,3.47,4.83,239290
+720,Troost IPA,IPA,NL,Brouwerij Troost,33.0,6.5,60.0,4.0,2.0,0.0,3.0,2.99,3.55,4.53,177057
+721,Gallia East IPA,IPA,FR,,33.0,6.0,,,,,,2.89,3.8,4.38,80283
+722,La rouget IPA,IPA,FR,La Rouget de Lisle,33.0,6.0,,,,,,,,,164895
+723,Roman Adriaen Brouwer Tripel,Bière Triple,BE,,33.0,9.0,,,,,,2.39,3.56,3.62,5423
+724,Het Uiltje Miss Hooter,IPA,NL,Brouwerij Het Uiltje,33.0,4.4,35.0,3.0,2.0,1.25,4.0,3.19,3.54,4.83,262662
+725,Perle IPA,IPA,FR,,33.0,6.6,65.0,4.0,3.0,1.25,4.0,3.39,3.65,5.14,315392
+726,Stone Neverending Haze,IPA,US,Stone Brewing,36.0,4.0,35.0,3.0,0.0,0.0,3.0,2.69,3.72,3.74,63707
+727,Maredsous Brune,Bière Double,BE,,33.0,8.0,24.0,3.0,3.0,0.0,2.0,2.79,3.66,4.23,2508
+728,Stone IPA,IPA,US,Stone Brewing,36.0,6.9,77.0,4.0,3.0,0.0,4.0,2.69,3.83,3.74,156068
+729,Stone Delicious IPA,IPA,US,Stone Brewing,36.0,7.7,75.0,4.0,0.0,0.0,4.0,2.99,3.76,4.15,109789
+730,Noordt Lagerlab Blond,Bière Blonde,NL,Brouwerij Noordt,33.0,6.5,25.0,3.0,2.0,0.0,2.0,,,,60237
+731,Noordt Lagerlab Dubbel,Bière Double,NL,,33.0,7.5,,,,,,,,,60442
+732,Stone Tangerine Express,IPA,US,Stone Brewing,36.0,6.7,75.0,4.0,0.0,0.0,4.0,2.99,3.74,4.15,256144
+733,Stone Arrogant Bastard Ale,Bière Brune,US,Stone Brewing,47.0,7.2,100.0,4.0,3.0,0.0,4.0,3.49,3.78,3.71,92
+734,Het Uiltje Pineapple Weizen,Bière Weiss,NL,Brouwerij Het Uiltje,33.0,5.0,,3.0,2.0,1.25,1.0,3.2,3.35,4.85,349435
+735,BRLO German IPA,IPA,DE,,33.0,7.0,50.0,3.0,3.0,0.0,3.0,2.49,3.56,3.77,237050
+736,Corsendonk Agnus Tripel,Bière Triple,BE,Brasserie Du Bocq,33.0,7.5,,3.0,3.0,1.25,2.0,2.79,3.7,4.23,16526
+737,Kehrwieder Kreativbrauerei SHIPA Ariana,IPA,DE,,33.0,7.5,65.0,3.0,3.0,0.0,3.0,2.99,3.69,4.53,119170
+738,Superfreunde Hang Loose Pale Ale,Pale Ale,DE,,33.0,5.0,,,,,,3.29,3.55,4.98,363229
+739,And Union Sunday,Pale Ale,DE,And Union,33.0,5.5,35.0,3.0,2.0,1.25,3.0,2.49,3.52,3.77,309987
+740,Roman Rebelse Strop,Bière Blonde,BE,,33.0,6.9,33.0,3.0,3.0,1.25,2.0,,3.43,,268373
+741,Bière Des Sans-Culottes Historique,Bière Blonde,FR,,33.0,7.0,,3.0,3.0,0.0,2.0,2.49,3.35,3.77,4777
+742,Ardwen Blonde,Bière Blonde,FR,Ardwen,33.0,5.6,,3.0,3.0,1.25,3.0,2.59,3.26,3.92,164956
+743,Bon Secours Blonde,Bière Blonde,BE,Brasserie Caulier,33.0,8.0,23.0,3.0,3.0,1.25,2.0,3.29,3.39,4.98,9096
+744,Hoppebrau Vogelwuid,IPA,DE,,33.0,6.5,48.0,3.0,3.0,0.0,3.0,2.99,3.55,4.53,171597
+745,Lindemans Pêcheresse,Bière Fruitée,BE,Brouwerij Lindemans,25.0,2.5,10.0,3.0,3.0,2.5,1.0,2.39,3.59,4.78,598
+746,Lindemans Framboise,Bière Fruitée,BE,Brouwerij Lindemans,25.0,2.5,,3.0,3.0,3.75,1.0,2.49,3.94,4.98,599
