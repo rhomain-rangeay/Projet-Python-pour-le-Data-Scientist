@@ -1,6 +1,9 @@
-Projet python pour le data scientist - ENSAE 2A
+Projet Python pour le data scientist - ENSAE 2A
 
 But du projet : 
 
-	- Regroupement de bières selon différentes catégories 
-	- Optimisation du trajet d'un touriste au budget prédéfini qui souhaiterait goûter un maximum de bières différentes
+	- Classification des bières selon le profil de l'amateur de bières.
+	- Prédiction de la qualité d'une bière à partir de se données physico-chimiques.
+
+
+
