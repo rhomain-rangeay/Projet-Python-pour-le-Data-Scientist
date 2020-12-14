@@ -20,7 +20,7 @@ Pas d'enflammade, on ne lira pas dans ton cerveau ou toute autre histoire de ce 
 
 ## Description des notebooks et fichiers :
 
-**Remarque importante** : Les bases de données étant très volumineuses (plus de 25 Mo), il n'a pas été possible de déposer les bases de données sur le github. Mais toutes les instructions afin de les télécharger vous-même et d'exécuter le code.
+**Remarque importante** : Les bases de données étant très volumineuses (plus de 25 Mo), il n'a pas été possible de les déposer sur github. Mais toutes les instructions afin de les télécharger vous-même et d'exécuter le code.
 	
 **Web scrapping beerwulf** : Nous avons effectué du web scrapping depuis le site beerwulf afin d'obtenir une base de données récente comprenant un peu plus d'un millier de bières ainsi qu'un panel d'informations telles que les paramètres physico-chimiques, le prix, l'origine, le style...
 	
