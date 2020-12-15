@@ -2,7 +2,7 @@
 Romain Lefranc
 Simon Mariani
 
-*No covid world*
+*--------------------No covid world---------------------*
 
 Ce soir, tu es invité.e à un apéro pour fêter la fin des examens. Beaucoup de personnes seront présentes et tu as bien envie de décompresser. En plus, c'est l'anniversaire de ta meilleure amie, alors évidemment, impossible d'arriver les mains vides. Les festivités commencent dans 30 minutes. Tu te rends au Franprix d'un pas pressé et tu vas tout droit au rayon bières, bien décidé.e à choisir vite. Mais là, c'est le trou noir, l'angoisse de la feuille blanche que tu pensais avoir délaissée ce matin pour quelques temps.
 
