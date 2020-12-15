@@ -7,7 +7,7 @@ Ce soir, tu es invité.e à un apéro pour fêter la fin des examens. Beaucoup d
 
 Le problème : tu ne sais pas quoi prendre... classique ! C'est vu et revu et d'ailleurs, tu as envie de nouveautés ce soir. Par contre, tu ne sais pas trop ce que valent toutes les bières proposées... 
 
-Mais te voilà sauvé.e ! À l'isue de ce notebook, nous nous fixons l'objectif de te proposer une bière qui correspond à celles que tu connais (et que tu aimes évidemment) déjà ! 
+Mais te voilà sauvé.e ! À l'issue de ce notebook, nous nous fixons l'objectif de te proposer une bière qui correspond à celles que tu connais (et que tu aimes évidemment) déjà ! 
 
 Pas d'enflammade, on ne lira pas dans ton cerveau ou toute autre histoire de ce genre. Non, nous allons plutôt analyser une belle base de données regroupant environ 360 000 bières provenant des quatre coins du monde, et surtout environ 10 millions (!) d'avis de consommateurs avisés qui ont dégusté à ta place le précieux nectar. Ces avis vont nous permettre de regrouper les bières similaires entre elles, à l'aide d'un clustering sur ces avis puis d'un algorithme de rule mining. Enfin, une petite fonction va tout rebrasser (pas les bières, enfin si, mais les données, sinon ça mousse) et te proposera de manière aléatoire des bières, et dès que tu as trouvé une bière qui te plait, tu le signales et l'algorithme t'en propose une autre similaire à tester ! De même, si celle-ci ne te convient pas, tu peux relancer la recherche jusqu'à être comblé.e !
 
