@@ -1,5 +1,5 @@
 # Projet Python pour le data scientist - ENSAE 2A
-Romain Lefranc, Simon Mariani
+Romain LEFRANC, Simon MARIANI
 
 *---------------------------------------------- No covid world -------------------------------------------------------*
 
@@ -25,14 +25,14 @@ Tu n'as pas envie qu'un expert (ou bien un algorithme de rule mining !) te propo
 - Prédiction de la qualité d'une bière à partir de se données physico-chimiques.
 
 Un des challenges de notre projet est de trouver des bases de données à exploiter. Les sites d'e-commerce qui vendent des bières sont nombreux, mais les sites Open Data des bières sont rarissimes. Notre projet s'appuie donc sur les données de deux sites : 
-- d'une part, les données se www.beeradvocate.com : elles regroupent les données des brasseries ainsi que des avis laissés par des consommateurs sur différentes bières.  
+- d'une part, les données du site www.beeradvocate.com : elles regroupent les données de bières et de leur brasseries, ainsi que des avis laissés par des consommateurs sur leur degustation.  
 - d'autre part, le site de e-commerce www.beerwulf.com : ce site renseigne très précisément les caractéristiques physico-chimiques des bières vendues. Nous avons donc recouru au web-scraping pour constituer un nouveau dataset qui servira à prédire la qualité d'une bière. 
 
-Tous les notebooks présents suivent un ordre logique : le web-scraping, puis le preprocessing des données avec des statistqiues descritpives, et enfin l'implémentation des modèles. 
+Tous les notebooks présents suivent un ordre logique : le web-scraping, puis le preprocessing des données avec des statistqiues descriptives, et enfin l'implémentation des modèles. 
 
 ## Description des notebooks et fichiers :
 
-**Remarque importante** : Les bases de données étant très volumineuses (plus de 25 Mo), il n'a pas été possible de les déposer sur github. Mais toutes les instructions afin de les télécharger vous-même et d'exécuter le code sont détaillées.
+**Remarque importante** : Les bases de données étant très volumineuses (plus de 25 Mo), il n'a pas été possible de les déposer sur github. Mais toutes les instructions afin de les télécharger soi-même et d'exécuter le code sont détaillées.
 	
 **0. Web scraping beerwulf** : Nous avons effectué du web scraping depuis le site beerwulf afin d'obtenir une base de données récente comprenant un peu plus d'un millier de bières ainsi qu'un panel d'informations telles que les paramètres physico-chimiques, le prix, l'origine, le style...
 	
@@ -45,17 +45,29 @@ Tous les notebooks présents suivent un ordre logique : le web-scraping, puis le
 **2bis. Data_mining** : Nous avons récupéré les informations de *Notebook_ML* et, après un travail sur la mise en forme des données de façon à transformer les informations éparses d'un dataframe de plus de 750 Mo en une liste de listes, nous avons appliqué aux données un algorithme de rule mining : *APRIORI*. Cela a permis de regrouper entre-elles les bières dites "similaires", et qu'on peut recommander entre-elles à un consommateur le désirant. 
 Enfin, un dernier programme permet de faire défiler des bières jusqu'à ce que l'utilisateur en choisisse une qu'il apprécie et se voit proposer une nouvelle bière semblable à découvrir.
 
-**3. Prédiction de la qualité de la bière** : implémentation de modèles de régression pour déterminer la qualité d'une bière à partir de ses cracatéristiques physico-chimiques. Ce notebook vise à tester plusieurs modèles (*Régression linéaire*, *Random Forest* et *Decision Tree*), puis de les évaluer afin de retenir le plus performant. Dans un premier temps, nous nous focalisons uniquement sur les caractéristiques physiques et chimiques des bières, puis nous ajoutons le style de la bière dans la régression pour tenter d'améliorer les résulats dans un deuxième temps. In fine, la modélisation avec l'algorithme *Random Forest* s'avère être le plus performant.
+**3. Prédiction de la qualité de la bière** : implémentation de modèles de régression pour déterminer la qualité d'une bière à partir de ses cracatéristiques physico-chimiques. Ce notebook vise à tester plusieurs modèles supervisés (*Régression linéaire*, *Random Forest* et *Decision Tree*), puis de les évaluer afin de retenir le plus performant. Dans un premier temps, nous nous focalisons uniquement sur les caractéristiques physiques et chimiques des bières, puis nous ajoutons le style de la bière dans la régression pour tenter d'améliorer les résulats dans un deuxième temps. In fine, la modélisation avec l'algorithme *Random Forest* s'avère être le plus performant.
 
 
 # Conclusion :
 
-Les modèles ont pu satisfaire nos attentes et relever les challenges que nous nous étions fixés. Nous sommes satisfaits d'avoir pu transformer un problème quotidien en un un problème de machine learning et de constater que les résultats sont très satisfaisants. Ce projet a été très formateur : 
+Les modèles ont pu satisfaire nos attentes et relever les challenges que nous nous étions fixés. Nous sommes satisfaits d'avoir pu transformer un problème quotidien en un problème de machine learning et de constater que les résultats sont très satisfaisants. Ce projet a été très formateur : 
 - nous maîtrisons désormais le web scraping pour des sites codés en HTML ou bien en JavaScript, 
 - nous avons gagné en aisance pour manipuler les données avec la librairie pandas ou encore pour visualiser les données avec la librairie seaborn.
-- nous nous sommes familiarisés avec des modèles de machine learning disponibles grâce à la librairie scikit-learn. Plus singulièrement, nous avons été amenés à utiliser des modèles d'apprentissages supervisés non supervisés pour répondre à notre problématique.
-- nous essayons au plus de prendre du recul sur la validité des données et d'avoir un avis critique sur les résultats obtenus.
+- nous nous sommes familiarisés avec des modèles de machine learning disponibles grâce à la librairie scikit-learn. Plus singulièrement, nous avons été amenés à utiliser des modèles d'apprentissages supervisés et non supervisés pour répondre à notre problématique.
+- nous essayons au mieux de prendre du recul sur la validité des données et d'avoir un avis critique sur les résultats obtenus.
 
-Si le temps le permettait et si les ressources le permettaient, nous aimerions améliorer nos algorithmes en ajoutant des contraintes qui rendront le problème "encore plus réel". Par exemple, nous ne prenons pas en compte le budget d'un particulier qui souhaite acheter plusieurs bières (qu'elles lui soient recommandées ou bien de bonne qualité !). De même, les bières recommandées peuvent être difficilement en grande surface ou bien même dans les brasseries : il faudrait donc prendre en compte le pays d'origine de la bière. 
+# Prolongement et limites du projet
+
+Si le temps et les ressources le permettaient, nous aimerions améliorer nos algorithmes en ajoutant des contraintes qui rendraient le résultat d'autant plus satisfaisant et poussé. 
+
+Par exemple, nous ne prenons pas en compte le budget d'un consommateur particulier qui souhaite acheter plusieurs bières (qu'elles lui soient recommandées ou bien de bonne qualité !). 
+
+De même, nous n'avons pris en compte qu'un nombre de features restreint, et il serait intéressant d'en ajouter afin de pouvoir recommander à un consommateur une bière qu'il puisse réellement trouver sur l'étalage en face de lui (prise en compte du pays d'origine, de la popularité de la brasserie...) ; voire de proposer des filtres sur la recommandation souhaitée (pourcentage alcoolique souhaité, style de la bière...).
+
+De plus, pour la partie dite de "Data Mining", nous n'avons pas pu utiliser la totalité de la base de données à la fois pour effectuer de la recommandation : celle-ci s'effectue par échantillon de 1000 données en raison de la capacité réduite de nos ordinateurs portables (la liste de listes que l'on rentre dans l'algorithme *apriori* ne peut pas être trop lourde pour un ordinateur de 8 GO de RAM). Et bien qu'il soit possible de relancer un échantillonage si le précédent ne donnait pas satisfaction, il serait intéressant de voir une recommandation effective sur les 400 000 bières collectées.
+
+Pour la partie recommandation, il pourrait également être intéressant de recueillir la satisfaction du consommateur par rapport à la bière recommandée, puis d'utiliser cet historique global afin d'apporter de l'information supplémentaire lors de futures recommandation (l'algorithme apprendrait au fur et à mesure du temps).
+
+Enfin, il serait évidemment optimal de pouvoir travailler sur la forme et la production de ce notebook afin de rendre son exécution digeste pour un consommateur ordinaire, à travers une application ou un site web par exemple. 
 
 Néanmoins, les amateurs de bières peuvent déjà tester ces algorithmes pour trouver une nouvelle bière à déguster. 
