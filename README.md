@@ -1,5 +1,5 @@
 # Projet Python pour le data scientist - ENSAE 2A
-Romain Lefranc, Simon Mariani
+Romain LEFRANC, Simon MARIANI
 
 *------------------------------------------------------ No covid world -------------------------------------------------------------------*
 
