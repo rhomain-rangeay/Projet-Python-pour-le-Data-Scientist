@@ -1,8 +1,7 @@
 # Projet Python pour le data scientist - ENSAE 2A
-Romain Lefranc
-Simon Mariani
+Romain Lefranc, Simon Mariani
 
-*--------------------No covid world---------------------*
+*------------------------------------------------------------------No covid world--------------------------------------------------------------------------------*
 
 Ce soir, tu es invité.e à un apéro pour fêter la fin des examens. Beaucoup de personnes seront présentes et tu as bien envie de décompresser. En plus, c'est l'anniversaire de ta meilleure amie, alors évidemment, impossible d'arriver les mains vides. Les festivités commencent dans 30 minutes. Tu te rends au Franprix d'un pas pressé et tu vas tout droit au rayon bières, bien décidé.e à choisir vite. Mais là, c'est le trou noir, l'angoisse de la feuille blanche que tu pensais avoir délaissée ce matin pour quelques temps.
 
@@ -12,7 +11,7 @@ Mais te voilà sauvé.e ! À l'isue de ce notebook, nous nous fixons l'objectif 
 
 Pas d'enflammade, on ne lira pas dans ton cerveau ou toute autre histoire de ce genre. Non, nous allons plutôt analyser une belle base de données regroupant environ 360 000 bières provenant des quatre coins du monde, et surtout environ 10 millions (!) d'avis de consommateurs avisés qui ont dégusté à ta place le précieux nectar. Ces avis vont nous permettre de regrouper les bières similaires entre elles, à l'aide d'un clustering sur ces avis puis d'un algorithme de rule mining. Enfin, une petite fonction va tout rebrasser (pas les bières, enfin si, mais les données, sinon ça mousse) et te proposera de manière aléatoire des bières, et dès que tu as trouvé une bière qui te plait, tu le signales et l'algorithme t'en propose une autre similaire à tester ! De même, si celle-ci ne te convient pas, tu peux relancer la recherche jusqu'à être comblé.e !
 
-*even if covid world*
+*---------------------------------------------------------------Even if covid world--------------------------------------------------------------------------------*
 
 Nous sommes déjà en décembre, les fêtes de fin d'année approchent à grand pas, et tu n'as pas encore trouvé de cadeaux à offrir à ta famille. Ton père a un penchant pour le houblon et tu l'as déjà entendu dire qu'il se lassait des bières "mainstream" vendues dans les grandes surfaces ? Ses remarques te mettent la puce à l'oreille pour trouver une idée de cadeau : tu te doutes qu'il apprécierait un coffret de bières de bonne qualité à déguster. Néanmoins, tu ne sais même pas que le malt est une céréale, et pas seulement une île... 
 
